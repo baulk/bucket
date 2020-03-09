@@ -1,0 +1,19 @@
+{
+    "description": "unix-like reverse engineering framework and commandline tools",
+    "version": "4.0.0",
+    "url": null,
+    "url64": "https://radare.mikelloc.com/get/4.0.0/radare2-msvc_64-4.0.0.zip",
+    "extension": "zip",
+    "links": [
+        "r2agent.exe",
+        "rabin2.exe",
+        "radare2.exe",
+        "radiff2.exe",
+        "rafind2.exe",
+        "raagg2.exe",
+        "rahash2.exe",
+        "rarun2.exe",
+        "rasm2.exe",
+        "rax2.exe"
+    ]
+}
