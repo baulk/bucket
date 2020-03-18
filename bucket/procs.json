@@ -6,6 +6,6 @@
     "url64.hash": "SHA256:4b9809e56c10785590964307228d324451c7dd4131dfaeaefad651f3b69c496a",
     "extension": "zip",
     "links": [
-        "x86_64-pc-windows-msvc\\release\\procs.exe"
+        "procs.exe"
     ]
 }
