@@ -1,0 +1,12 @@
+{
+    "description": "Run the program with the specified permission level.",
+    "version": "2.5.0",
+    "url64": "https://github.com/M2Team/Privexec/releases/download/2.5.0/Privexec-2.5.0-win64.zip",
+    "url64.hash": "SHA256:75430b2c4076d47c98bef4a2eaabb199dec712631a4c468f661204cbc64c7250",
+    "extension": "zip",
+    "links": [
+        "AppExec.exe",
+        "Privexec.exe",
+        "wsudo.exe"
+    ]
+}
