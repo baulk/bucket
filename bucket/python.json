@@ -1,0 +1,10 @@
+{
+    "description": "Python is a programming language.",
+    "version": "3.7.7",
+    "url": "https://www.python.org/ftp/python/3.7.7/python-3.7.7-embed-win32.zip",
+    "url64": "https://www.python.org/ftp/python/3.7.7/python-3.7.7-embed-amd64.zip",
+    "extension": "zip",
+    "launchers": [
+        "python.exe"
+    ]
+}
