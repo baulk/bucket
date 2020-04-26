@@ -1,0 +1,15 @@
+{
+    "description": "BaulkTar - tar rethink.",
+    "version": "1.0.0",
+    "url": "https://github.com/baulk/baulktar/releases/download/1.0.0/BaulkTar-1.0.0-X86.zip",
+    "url.hash": "SHA256:d59a248a383dde78f71af2b52621348601250176ed2e764de5dc3a408445147b",
+    "url64": "https://github.com/baulk/baulktar/releases/download/1.0.0/BaulkTar-1.0.0-x64.zip",
+    "url64.hash": "SHA256:4134eb46f685f8988a542880c60eac7497cb95481cab4a52278c8fc4a36a378d",
+    "urlarm64": "https://github.com/baulk/baulktar/releases/download/1.0.0/BaulkTar-1.0.0-ARM64.zip",
+    "urlarm64.hash": "SHA256:ac5b8ce7e65e986d6a64b708ea301f087eede1f61073bbf30cab03664bdd2e75",
+    "extension": "zip",
+    "links": [
+        "bin/bsdtar.exe",
+        "bin/wintar.exe"
+    ]
+}
