@@ -1,5 +1,5 @@
 {
-    "description": "Python is a programming language.",
+    "description": "Python is a programming language.(LLVM fixed version)",
     "version": "3.5.4",
     "url": "https://www.python.org/ftp/python/3.5.4/python-3.5.4-embed-win32.zip",
     "url64": "https://www.python.org/ftp/python/3.5.4/python-3.5.4-embed-amd64.zip",
