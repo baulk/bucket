@@ -1,0 +1,14 @@
+{
+    "description": "TunnelSSH - A witty ssh client.",
+    "version": "1.0.0.beta.2",
+    "url": null,
+    "url64": "https://github.com/balibuild/tunnelssh/releases/download/1.0.0.beta.2/TunnelSSH-windows-amd64-1.0.0.zip",
+    "url64.hash": "SHA256:5b711b54d74a0a596725a21216e6b70cf0f416445028e4183c23991ce1a0a6fd",
+    "extension": "zip",
+    "links": [
+        "bin\\tunnelssh.exe",
+        "bin\\netcat.exe",
+        "bin\\ssh-askpass.exe",
+        "bin\\git-tunnel.exe"
+    ]
+}
