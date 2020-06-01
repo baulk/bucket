@@ -1,11 +1,13 @@
-
 {
-    "description": "Tokei is a program that displays statistics about your code. ",
+    "description": "Tokei is a program that displays statistics about your code.",
     "version": "v11.2.1",
     "url": "https://github.com/XAMPPRocky/tokei/releases/download/v11.2.1/tokei-i686-pc-windows-msvc.exe",
     "url64": "https://github.com/XAMPPRocky/tokei/releases/download/v11.2.1/tokei-x86_64-pc-windows-msvc.exe",
     "extension": "exe",
     "links": [
-        "tokei.exe"
+        "tokei-i686-pc-windows-msvc.exe@tokei.exe"
+    ],
+    "links64": [
+        "tokei-x86_64-pc-windows-msvc.exe@tokei.exe"
     ]
 }
