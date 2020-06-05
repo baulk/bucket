@@ -1,0 +1,11 @@
+{
+    "description": "Sloc Cloc and Code (scc).",
+    "version": "v2.12.0",
+    "url": null,
+    "url64": "https://github.com/boyter/scc/releases/download/v2.12.0/scc-2.12.0-x86_64-pc-windows.zip",
+    "url64.hash": "SHA256:094a01d1ce3ccb71c1ac07cd31d1aa9332559c141abb166d3e7b82f2abc969b8",
+    "extension": "zip",
+    "links": [
+        "scc.exe"
+    ]
+}
