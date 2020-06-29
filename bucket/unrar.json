@@ -1,8 +1,8 @@
 {
     "description": "Decompress RAR files.",
-    "version": "5.90",
+    "version": "5.91",
     "url": "https://www.rarlab.com/rar/unrarw32.exe",
-    "url.hash": "SHA256:7308316ee89e8ce4272090e56ce92aa77fef74b61b6ab1b2328b8ba67a4a52b2",
+    "url.hash": "SHA256:6915eb7a1f21a6bcae1ccbe43f8d43cc5d046664375dbd834ae26153c4419f48",
     "extension": "7z",
     "links": [
         "unrar.exe"
