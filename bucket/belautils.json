@@ -1,18 +1,19 @@
 {
     "description": "BelaUtils - Tools reimplemented using Bela library",
-    "version": "1.1.0",
-    "url64": "https://github.com/fcharlie/BelaUtils/releases/download/1.1.0/BelaUtils-1.1.0-win-x64.zip",
-    "url64.hash": "SHA256:ee066680841f9ca1080a0cced3362d654a60712e145519ee48ee91d70ac253f7",
-    "url": "https://github.com/fcharlie/BelaUtils/releases/download/1.1.0/BelaUtils-1.1.0-win-x86.zip",
-    "url.hash": "SHA256:3c50822111e897dcf1a3e5ef9479462c48b9c5af11277101f9dd9ad8b398cbe0",
-    "urlarm64": "https://github.com/fcharlie/BelaUtils/releases/download/1.1.0/BelaUtils-1.1.0-win-arm64.zip",
-    "urlarm64.hash": "SHA256:228e059e060420a7d6dfd41805c3275cdd0d60953dd61adadbef5fa078d2a1ec",
+    "version": "1.2.0",
+    "url64": "https://github.com/fcharlie/BelaUtils/releases/download/1.2.0/BelaUtils-1.2.0-win-x64.zip",
+    "url64.hash": "SHA256:715637fd0211a6938cf69dba7b55f8ca4c572c263797aded071af5f062432ea9",
+    "url": "https://github.com/fcharlie/BelaUtils/releases/download/1.2.0/BelaUtils-1.2.0-win-x86.zip",
+    "url.hash": "SHA256:fe38a24c9458483626a067a8f2d83511d0667b74af148ffee2bc07a71942faaa",
+    "urlarm64": "https://github.com/fcharlie/BelaUtils/releases/download/1.2.0/BelaUtils-1.2.0-win-arm64.zip",
+    "urlarm64.hash": "SHA256:0124753c1a728687b16bf47e82bac4082c1a601c47d676e72ef4c06a74862fdf",
     "extension": "zip",
     "links": [
         "bin/caelum.exe",
         "bin/hastyhex.exe",
         "bin/kisasum.exe",
         "bin/kisasum-ui.exe",
-        "bin/krycekium.exe"
+        "bin/krycekium.exe",
+        "bin/wind.exe"
     ]
 }
