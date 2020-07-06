@@ -8,12 +8,12 @@
     "extension": "zip",
     "venv": {
         "path": [
-            "${PKGROOT}/bin",
-            "${BAULK_BINDIR}/venv/go/bin"
+            "${PKGROOT}\\bin",
+            "${BAULK_BINDIR}\\venv\\go\\bin"
         ],
         "env": [
-            "GOPATH=${BAULK_BINDIR}/venv/go",
-            "GOENV=${BAULK_BINDIR}/venv/go/env",
+            "GOPATH=${BAULK_BINDIR}\\venv\\go",
+            "GOENV=${BAULK_BINDIR}\\venv\\go\\env",
             "GO111MODULE=on",
             "GO_PROXY=https://goproxy.io"
         ]
