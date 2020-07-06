@@ -1,0 +1,21 @@
+{
+    "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "version": "1.14.4",
+    "url": "https://dl.google.com/go/go1.14.4.windows-386.zip",
+    "url.hash": "SHA256:555d7e9919ca58d5c64b2377ca09095eeba3a5d19766f2581ff02e9eb004f6fc",
+    "url64": "https://dl.google.com/go/go1.14.4.windows-amd64.zip",
+    "url64.hash": "SHA256:e04f591219b18e7cabe73eb79c90405b5c7a5baee61377670d7a48429c5c978d",
+    "extension": "zip",
+    "venv": {
+        "path": [
+            "${PKGROOT}/bin",
+            "${BAULK_BINDIR}/venv/go/bin"
+        ],
+        "env": [
+            "GOPATH=${BAULK_BINDIR}/venv/go",
+            "GOENV=${BAULK_BINDIR}/venv/go/env",
+            "GO111MODULE=on",
+            "GO_PROXY=https://goproxy.io"
+        ]
+    }
+}
