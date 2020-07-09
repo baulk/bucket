@@ -1,0 +1,13 @@
+{
+    "description": "GraalVM is a high-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices",
+    "version": "20.2.0",
+    "url64": "https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/20.2.0-dev-20200709_0208/graalvm-ce-java8-windows-amd64-20.2.0-dev.zip",
+    "url64.hash": "SHA256:6f6d65bcc487a6b64469708b1015555e93bb167f5ec3cc90896c179cb8f9fafa",
+    "extension": "zip",
+    "venv": {
+        "path": "${PKGROOT}/bin",
+        "env": [
+            "JAVA_HOME=${PKGROOT}"
+        ]
+    }
+}
