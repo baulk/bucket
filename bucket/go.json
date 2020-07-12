@@ -7,6 +7,7 @@
     "url64.hash": "SHA256:e04f591219b18e7cabe73eb79c90405b5c7a5baee61377670d7a48429c5c978d",
     "extension": "zip",
     "venv": {
+        "category": "golang",
         "path": [
             "${PKGROOT}\\bin",
             "${BAULK_BINDIR}\\venv\\go\\bin"
