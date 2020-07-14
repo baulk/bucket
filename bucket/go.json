@@ -9,7 +9,7 @@
     "venv": {
         "category": "golang",
         "path": [
-            "${PKGROOT}\\bin",
+            "${BAULK_PKGROOT}\\bin",
             "${BAULK_BINDIR}\\venv\\go\\bin"
         ],
         "env": [
