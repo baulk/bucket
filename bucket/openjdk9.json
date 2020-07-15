@@ -6,10 +6,10 @@
     "extension": "zip",
     "venv": {
         "category": "java",
-        "path": "${PKGROOT}/bin",
+        "path": "${BAULK_PKGROOT}\\bin",
         "env": [
-            "JAVA_HOME=${PKGROOT}",
-            "GRAALVM_HOME=${PKGROOT}"
+            "JAVA_HOME=${BAULK_PKGROOT}",
+            "GRAALVM_HOME=${BAULK_PKGROOT}"
         ]
     }
 }
