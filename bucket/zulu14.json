@@ -8,7 +8,7 @@
     "extension": "zip",
     "venv": {
         "category": "java",
-        "path": "${BAULK_PKGROOT}/bin",
+        "path": "${BAULK_PKGROOT}\\bin",
         "env": [
             "JAVA_HOME=${BAULK_PKGROOT}"
         ]
