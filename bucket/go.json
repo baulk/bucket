@@ -10,11 +10,11 @@
         "category": "golang",
         "path": [
             "${BAULK_PKGROOT}\\bin",
-            "${BAULK_BINDIR}\\venv\\go\\bin"
+            "${BAULK_VFS}\\go\\bin"
         ],
         "env": [
-            "GOPATH=${BAULK_BINDIR}\\venv\\go",
-            "GOENV=${BAULK_BINDIR}\\venv\\go\\env",
+            "GOPATH=${BAULK_VFS}\\go",
+            "GOENV=${BAULK_VFS}\\go\\env",
             "GO111MODULE=on",
             "GO_PROXY=https://goproxy.io"
         ]
