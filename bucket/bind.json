@@ -1,0 +1,13 @@
+{
+    "description": "Versatile, classic, complete name server software.",
+    "version": "9.16.5",
+    "url64": "https://downloads.isc.org/isc/bind9/9.16.5/BIND9.16.5.x64.zip",
+    "url64.hash": "SHA256:3bb2c14c8631a94c1ce59040911a7aba06ea416041e4756d6e84f509a5bdb2d8",
+    "extension": "zip",
+    "launchers": [
+        "arpaname.exe",
+        "dig.exe",
+        "mdig.exe",
+        "rndc.exe"
+    ]
+}
