@@ -1,8 +1,10 @@
 {
     "description": "Tokei is a program that displays statistics about your code.",
-    "version": "v12.0.3.1",
-    "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.0.3/tokei-i686-pc-windows-msvc.exe",
-    "url64": "https://github.com/XAMPPRocky/tokei/releases/download/v12.0.3/tokei-x86_64-pc-windows-msvc.exe",
+    "version": "v12.0.4",
+    "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.0.4/tokei-i686-pc-windows-msvc.exe",
+    "url.hash": "SHA256:84790bf4626ff771d42e7734273eaf7459963b9cc7aa66ef8f114420d3ea01bd",
+    "url64": "https://github.com/XAMPPRocky/tokei/releases/download/v12.0.4/tokei-x86_64-pc-windows-msvc.exe",
+    "url64.hash": "SHA256:c223b42dc2854fac4c92976ddd3018d244ecddf0c873eb45c622475fee3409db",
     "extension": "exe",
     "links": [
         "tokei.exe"
