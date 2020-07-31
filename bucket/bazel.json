@@ -1,0 +1,10 @@
+{
+    "description": "A fast, scalable, multi-language and extensible build system.",
+    "version": "3.4.1",
+    "url64": "https://github.com/bazelbuild/bazel/releases/download/3.4.1/bazel-3.4.1-windows-x86_64.zip",
+    "url64.hash": "a12ffd1eb5bb0db7c85adf8e2a9dac56613801bbf5bb72ef98aaf0178aeb9781",
+    "extension": "zip",
+    "links": [
+        "bazel.exe"
+    ]
+}
