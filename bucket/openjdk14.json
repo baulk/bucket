@@ -1,0 +1,14 @@
+{
+    "description": "Official production-ready open-source builds of OpenJDK 14",
+    "version": "14.0.2-12",
+    "url64": "https://download.java.net/java/GA/jdk14.0.2/205943a0976c4ed48cb16f1043c5c647/12/GPL/openjdk-14.0.2_windows-x64_bin.zip",
+    "url64.hash": "SHA256:20600c0bda9d1db9d20dbe1ab656a5f9175ffb990ef3df6af5d994673e4d8ff9",
+    "extension": "zip",
+    "venv": {
+        "category": "java",
+        "path": "${BAULK_PKGROOT}\\bin",
+        "env": [
+            "JAVA_HOME=${BAULK_PKGROOT}"
+        ]
+    }
+}
