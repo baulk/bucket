@@ -1,8 +1,8 @@
 {
     "description": "A secure runtime for JavaScript and TypeScript.",
-    "version": "1.2.2",
-    "url64": "https://github.com/denoland/deno/releases/download/v1.2.2/deno-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:f77e1792c84be9bdb2b89c04e1aa64de07a6931feb27dacd2bb13e35de6c9f55",
+    "version": "1.2.3",
+    "url64": "https://github.com/denoland/deno/releases/download/v1.2.3/deno-x86_64-pc-windows-msvc.zip",
+    "url64.hash": "SHA256:a7137391de6258bef5fa42f97e6870eeab88e87133105a1ebea4d0af9f10bdbc",
     "extension": "zip",
     "launchers": [
         "deno.exe"
