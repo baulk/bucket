@@ -1,8 +1,8 @@
 {
     "description": "Mercurial is a free, distributed source control management tool.",
-    "version": "5.4.9",
-    "url": "https://www.mercurial-scm.org/release/tortoisehg/windows/tortoisehg-stable-5.5.102.119-x86.msi",
-    "url64": "https://www.mercurial-scm.org/release/tortoisehg/windows/tortoisehg-stable-5.5.102.119-x86.msi",
+    "version": "5.5",
+    "url": "https://www.mercurial-scm.org/release/windows/mercurial-5.5-x86-python2.msi",
+    "url64": "https://www.mercurial-scm.org/release/windows/mercurial-5.5-x64-python2.msi",
     "extension": "msi",
     "launchers": [
         "hg.exe"
