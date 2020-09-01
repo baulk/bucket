@@ -1,10 +1,10 @@
 {
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "version": "1.15",
-    "url": "https://dl.google.com/go/go1.15.windows-386.zip",
-    "url.hash": "SHA256:e0c747610a73030cadba6f6ac319bca33cfff19b1f58c010727ea55fb2b0cab1",
-    "url64": "https://dl.google.com/go/go1.15.windows-amd64.zip",
-    "url64.hash": "SHA256:dc491314dff5b87ad50bf1cf56715de8f8c54489be30f3e19239bc2ad1af25e3",
+    "version": "1.15.1",
+    "url": "https://dl.google.com/go/go1.15.1.windows-386.zip",
+    "url.hash": "SHA256:ec4f245391fab368281713f1224ca1af761822f2e7c2a418dfbb11b2c0d1ea3f",
+    "url64": "https://dl.google.com/go/go1.15.1.windows-amd64.zip",
+    "url64.hash": "SHA256:8e3e1e35e03af28d974ad872883884a4c544f6bdb2e2edb1126d6b528d017696",
     "extension": "zip",
     "venv": {
         "category": "golang",
