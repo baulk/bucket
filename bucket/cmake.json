@@ -1,6 +1,6 @@
 {
     "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software",
-    "version": "3.18.2",
+    "version": "3.18.3",
     "url": [
         "https://github.com/Kitware/CMake/releases/download/v3.18.3/cmake-3.18.3-win32-x86.zip",
         "https://cmake.org/files/v3.18/cmake-3.18.3-win32-x86.zip"
