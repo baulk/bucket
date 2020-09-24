@@ -1,8 +1,8 @@
 {
     "description": "Python is a programming language. (Embedded Distribution)",
-    "version": "3.8.5",
-    "url": "https://www.python.org/ftp/python/3.8.5/python-3.8.5-embed-win32.zip",
-    "url64": "https://www.python.org/ftp/python/3.8.5/python-3.8.5-embed-amd64.zip",
+    "version": "3.8.6",
+    "url": "https://www.python.org/ftp/python/3.8.6/python-3.8.6-embed-win32.zip",
+    "url64": "https://www.python.org/ftp/python/3.8.6/python-3.8.6-embed-amd64.zip",
     "extension": "zip",
     "launchers": [
         "python.exe"
