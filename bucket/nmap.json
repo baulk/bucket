@@ -1,0 +1,12 @@
+{
+    "description": "Network exploration and security auditing utility.",
+    "version": "7.90",
+    "url": "https://nmap.org/dist/nmap-7.90-win32.zip",
+    "url.hash": "0fde4a846b120bdc2a7a91897decea4c99dac5bef90426a10cec177948bc36dd",
+    "extension": "zip",
+    "launchers": [
+        "nmap.exe",
+        "ncat.exe",
+        "nping.exe"
+    ]
+}
