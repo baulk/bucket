@@ -1,0 +1,13 @@
+{
+    "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
+    "version": "1.47.0",
+    "url64": "https://static.rust-lang.org/dist/rust-1.47.0-x86_64-pc-windows-msvc.msi",
+    "url64.hash": "SHA256:b586d496c5febb5ecbc944751567aed06b1e7b3704c15ac93708c831950550d4",
+    "url": "https://static.rust-lang.org/dist/rust-1.47.0-i686-pc-windows-msvc.msi",
+    "url.hash": "SHA256:5b712347dba75ed1cbe90fe01ce438f5e75524f433191427f4ba7b3d80c08ea4",
+    "extension": "msi",
+    "venv": {
+        "category": "rust",
+        "path": "${BAULK_PKGROOT}\\bin"
+    }
+}
