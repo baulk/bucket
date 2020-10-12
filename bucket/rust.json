@@ -8,6 +8,12 @@
     "extension": "msi",
     "venv": {
         "category": "rust",
-        "path": "${BAULK_PKGROOT}\\bin"
+        "path": [
+            "${BAULK_PKGROOT}\\bin",
+            "${BAULK_VFS}\\.cargo\\bin"
+        ],
+        "env": [
+            "CARGO_HOME=${BAULK_VFS}\\.cargo"
+        ]
     }
 }
