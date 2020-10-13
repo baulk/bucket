@@ -8,7 +8,8 @@
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\go",
-        "${BAULK_VFS}\\Temp\\go-build"
+        "${BAULK_VFS}\\Temp\\go-build",
+        "${BAULK_VFS}\\Temp\\go-temp"
     ],
     "venv": {
         "category": "golang",
@@ -20,6 +21,7 @@
             "GOPATH=${BAULK_VFS}\\go",
             "GOENV=${BAULK_VFS}\\go\\env",
             "GOCACHE=${BAULK_VFS}\\Temp\\go-build",
+            "GOTMPDIR=${BAULK_VFS}\\Temp\\go-temp",
             "GO111MODULE=on",
             "GO_PROXY=https://goproxy.io"
         ]
