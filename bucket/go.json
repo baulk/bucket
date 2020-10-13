@@ -12,6 +12,9 @@
     ],
     "venv": {
         "category": "golang",
+        "mkdir": [
+            "${BAULK_VFS}\\Temp"
+        ],
         "path": [
             "${BAULK_PKGROOT}\\bin",
             "${BAULK_VFS}\\go\\bin"
