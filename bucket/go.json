@@ -6,6 +6,10 @@
     "url64": "https://dl.google.com/go/go1.15.2.windows-amd64.zip",
     "url64.hash": "SHA256:e72782cc6de233188c75b06849368826eaa1b8bd9e1cd766db9466a12b7138ca",
     "extension": "zip",
+    "force_delete": [
+        "${BAULK_VFS}\\go",
+        "${BAULK_VFS}\\Temp\\go-build"
+    ],
     "venv": {
         "category": "golang",
         "path": [
@@ -15,6 +19,7 @@
         "env": [
             "GOPATH=${BAULK_VFS}\\go",
             "GOENV=${BAULK_VFS}\\go\\env",
+            "GOCACHE=${BAULK_VFS}\\Temp\\go-build",
             "GO111MODULE=on",
             "GO_PROXY=https://goproxy.io"
         ]

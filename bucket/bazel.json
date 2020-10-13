@@ -4,6 +4,9 @@
     "url64": "https://github.com/bazelbuild/bazel/releases/download/3.6.0/bazel-3.6.0-windows-x86_64.zip",
     "url64.hash": "SHA256:c58954a2266980d6f5cb10137d1f5bed8abfd4df38e3a908aa8133387cbb0001",
     "extension": "zip",
+    "force_delete": [
+        "${USERPROFILE}\\_bazel_${USERNAME}"
+    ],
     "links": [
         "bazel.exe"
     ]

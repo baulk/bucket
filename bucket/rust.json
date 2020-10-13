@@ -6,6 +6,9 @@
     "url": "https://static.rust-lang.org/dist/rust-1.47.0-i686-pc-windows-msvc.msi",
     "url.hash": "SHA256:5b712347dba75ed1cbe90fe01ce438f5e75524f433191427f4ba7b3d80c08ea4",
     "extension": "msi",
+    "force_delete": [
+        "${BAULK_VFS}\\.cargo"
+    ],
     "venv": {
         "category": "rust",
         "path": [
