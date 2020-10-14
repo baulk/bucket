@@ -8,7 +8,7 @@
         "${BAULK_VFS}\\.cache\\deno"
     ],
     "venv": {
-        "category": "node",
+        "category": "deno",
         "mkdir": [
             "${BAULK_VFS}\\.cache\\deno"
         ],
