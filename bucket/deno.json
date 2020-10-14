@@ -4,7 +4,19 @@
     "url64": "https://github.com/denoland/deno/releases/download/v1.4.6/deno-x86_64-pc-windows-msvc.zip",
     "url64.hash": "SHA256:a1242ba82308920cb89764f00e680cc30cc647585298cc251acfc7d4582ab9ce",
     "extension": "zip",
-    "launchers": [
-        "deno.exe"
-    ]
+    "force_delete": [
+        "${BAULK_VFS}\\.cache\\deno"
+    ],
+    "venv": {
+        "category": "node",
+        "mkdir": [
+            "${BAULK_VFS}\\.cache\\deno"
+        ],
+        "path": [
+            "${BAULK_PKGROOT}"
+        ],
+        "env": [
+            "DENO_DIR=${BAULK_VFS}\\.cache\\deno"
+        ]
+    }
 }
