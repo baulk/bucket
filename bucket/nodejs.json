@@ -7,19 +7,19 @@
     "url.hash": "SHA256:2d7235a9d5956312d800c19e0603f2ae5689f709d8909481a08b40a944bfd836",
     "extension": "zip",
     "force_delete": [
-        "${BAULK_VFS}\\.nvm"
+        "${BAULK_VFS}\\.npm"
     ],
     "venv": {
         "category": "node",
         "mkdir": [
-            "${BAULK_VFS}\\.nvm"
+            "${BAULK_VFS}\\.npm"
         ],
         "path": [
             "${BAULK_PKGROOT}\\bin",
-            "${BAULK_VFS}\\.nvm\\bin"
+            "${BAULK_VFS}\\.npm\\bin"
         ],
         "env": [
-            "NPM_CONFIG_PREFIX=${BAULK_VFS}\\.nvm"
+            "NPM_CONFIG_PREFIX=${BAULK_VFS}\\.npm"
         ]
     }
 }
