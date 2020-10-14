@@ -15,7 +15,7 @@
             "${BAULK_VFS}\\.npm"
         ],
         "path": [
-            "${BAULK_PKGROOT}\\bin",
+            "${BAULK_PKGROOT}",
             "${BAULK_VFS}\\.npm\\bin"
         ],
         "env": [
