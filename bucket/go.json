@@ -1,10 +1,10 @@
 {
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "version": "1.15.2",
-    "url": "https://dl.google.com/go/go1.15.2.windows-386.zip",
-    "url.hash": "SHA256:f61e54e558e23bf2626a34e3ae2f8b73c2411a9ee29ceeb39ffb712695098138",
-    "url64": "https://dl.google.com/go/go1.15.2.windows-amd64.zip",
-    "url64.hash": "SHA256:e72782cc6de233188c75b06849368826eaa1b8bd9e1cd766db9466a12b7138ca",
+    "version": "1.15.3",
+    "url": "https://dl.google.com/go/go1.15.3.windows-386.zip",
+    "url.hash": "SHA256:60b343d69ca2b0a947c750584cd194b25bd2c15eb08efb1fa29056f2af0c8780",
+    "url64": "https://dl.google.com/go/go1.15.3.windows-amd64.zip",
+    "url64.hash": "SHA256:1d579d0e980763f60bf43afb7c3783caf63433a485731ef4d2e262878d634b3f",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\go",
