@@ -2,7 +2,7 @@
     "description": "Network exploration and security auditing utility.",
     "version": "7.91",
     "url": "https://nmap.org/dist/nmap-7.91-win32.zip",
-    "url.hash": "c4683097a2615252eeddab06c54872efb14c2ee2da8997b1c73844e582081a79",
+    "url.hash": "f497f45cd91e3a78c546c06940acbd0b5f1fdae2aebaa68d8285c2f99220149b",
     "extension": "zip",
     "launchers": [
         "nmap.exe",
