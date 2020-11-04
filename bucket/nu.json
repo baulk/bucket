@@ -1,8 +1,8 @@
 {
     "description": "A modern shell written in Rust",
-    "version": "0.21.0",
-    "url64": "https://github.com/nushell/nushell/releases/download/0.21.0/nu_0_21_0_windows.zip",
-    "url64.hash": "SHA256:301aec1c10d8b809d73c2fc32d1d848afe15316aaea5b0b1f03686be3fc0e19f",
+    "version": "0.22.0",
+    "url64": "https://github.com/nushell/nushell/releases/download/0.22.0/nu_0_22_0_windows.zip",
+    "url64.hash": "SHA256:4f755276387761dcf19eb3838f9aba8decffef6a1d861e63b11ab19e90cf1b7b",
     "extension": "zip",
     "force_delete": [
         "${APPDATA}\\.nushell",
