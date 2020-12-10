@@ -1,0 +1,7 @@
+{
+  "description": "Nocalhost Control CLI(nhctl)",
+  "version": "0.0.3",
+  "url64": "https://github.com/nocalhost/nocalhost/releases/download/v0.0.3/nhctl-windows-amd64.exe",
+  "extension": "exe",
+  "launchers": ["nhctl.exe"]
+}
