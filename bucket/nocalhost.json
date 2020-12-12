@@ -1,10 +1,8 @@
 {
   "description": "Nocalhost Control CLI(nhctl)",
-  "version": "0.0.3",
-  "url64": "https://github.com/nocalhost/nocalhost/releases/download/v0.0.3/nhctl-windows-amd64.exe",
-  "url64.hash": "SHA256:eda5995b7ffc83d8d330c626fd12ca8f06343efea17b9c8e3ff6036649085533",
+  "version": "0.0.5",
+  "url64": "https://github.com/nocalhost/nocalhost/releases/download/v0.0.5/nhctl-windows-amd64.exe",
+  "url64.hash": "SHA256:d18178bcdace41f690e5beb3a4eca155e5d81c3dc4e31805b2b426ae44367423",
   "extension": "exe",
-  "links64": [
-    "nocalhost.exe@nhctl.exe"
-  ]
+  "links64": ["nocalhost.exe@nhctl.exe"]
 }
