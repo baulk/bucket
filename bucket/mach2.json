@@ -8,7 +8,7 @@
     "urlarm64": "https://github.com/riverar/mach2/releases/download/0.7.0.0/mach2_0.7.0.0_arm64.zip",
     "urlarm64.hash": "SHA256:8062bf94406804aa5a5e32765414e9939fb20c16f67a9da239891977a77f36cf",
     "extension": "zip",
-    "links": [
+    "launchers": [
         "mach2.exe"
     ]
 }
