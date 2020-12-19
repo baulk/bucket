@@ -1,9 +1,14 @@
 {
     "description": "Decompress RAR files.",
-    "version": "6.00",
-    "url": "https://www.rarlab.com/rar/unrarw32.exe",
-    "extension": "7z",
+    "version": "6.0.0",
+    "url64": "https://github.com/baulk/unrar/releases/download/6.0.0/unrar-6.0.0-win-x64.zip",
+    "url64.hash": "SHA256:6ea29673367bf3a71828a30aa549447548c0611cae580baddf90d3d29fbc345a",
+    "url": "https://github.com/baulk/unrar/releases/download/6.0.0/unrar-6.0.0-win-x86.zip",
+    "url.hash": "SHA256:3cde475df10769fa6ead5c661a68fb54cb65b8a5a34b6d45b6e94fdeaf9b8793",
+    "urlarm64": "https://github.com/baulk/unrar/releases/download/6.0.0/unrar-6.0.0-win-arm64.zip",
+    "urlarm64.hash": "SHA256:935f5176bfaabeec4ebc8eaa60ee191f20a1b048f56ed3129d2dc0db6551f386",
+    "extension": "zip",
     "links": [
-        "unrar.exe"
+        "bin/unrar.exe"
     ]
 }
