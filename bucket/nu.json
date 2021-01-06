@@ -5,8 +5,8 @@
     "url64.hash": "SHA256:ddf877d7e6493de340acf1e64beaa39a6020cf0c95d73d6655b0871d9e267974",
     "extension": "zip",
     "force_delete": [
-        "${APPDATA}\\.nushell",
-        "${LOCALAPPDATA}\\.nushell"
+        "${APPDATA}\\nushell",
+        "${LOCALAPPDATA}\\nushell"
     ],
     "launchers": [
         "nu.exe"
