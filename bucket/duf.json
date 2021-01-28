@@ -1,0 +1,12 @@
+{
+    "description": "Disk Usage/Free Utility (Linux, BSD, macOS & Windows)",
+    "version": "0.5.0",
+    "url": "https://github.com/muesli/duf/releases/download/v0.5.0/duf_0.5.0_Windows_i386.zip",
+    "url.hash": "SHA256:056befc834451c7a7b00180b0f75fef2637d5a500fdedc29db17570d5003a842",
+    "url64": "https://github.com/muesli/duf/releases/download/v0.5.0/duf_0.5.0_Windows_x86_64.zip",
+    "url64.hash": "SHA256:37b618d5867e640b75aebce0e735185bc6d329bf6b10bcd0ce0d8131a6c0d40d",
+    "extension": "zip",
+    "links": [
+        "duf.exe"
+    ]
+}
