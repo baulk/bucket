@@ -1,16 +1,16 @@
 {
     "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software",
-    "version": "3.19.3",
+    "version": "3.19.4",
     "url": [
-        "https://github.com/Kitware/CMake/releases/download/v3.19.3/cmake-3.19.3-win32-x86.msi",
-        "https://cmake.org/files/v3.19/cmake-3.19.3-win32-x86.zip"
+        "https://github.com/Kitware/CMake/releases/download/v3.19.4/cmake-3.19.4-win32-x86.msi",
+        "https://cmake.org/files/v3.19/cmake-3.19.4-win32-x86.zip"
     ],
-    "url.hash": "SHA256:bfde9e17435773e9be36b63a5db88433394ae7f6898a8201ec9a084c7d7ab45c",
+    "url.hash": "SHA256:4d940a0e45bea2b07525add804184f3434684efa2ad72c22b3960933006929e4",
     "url64": [
-        "https://github.com/Kitware/CMake/releases/download/v3.19.3/cmake-3.19.3-win64-x64.zip",
-        "https://cmake.org/files/v3.19/cmake-3.19.3-win64-x64.zip"
+        "https://github.com/Kitware/CMake/releases/download/v3.19.4/cmake-3.19.4-win64-x64.zip",
+        "https://cmake.org/files/v3.19/cmake-3.19.4-win64-x64.zip"
     ],
-    "url64.hash": "SHA256:3838e11a0db08f97d687f061882a1e52807010a313f3ac716015b3587ca3f20e",
+    "url64.hash": "SHA256:24b03daf75ce59b542da38c829fe6944d3bf7cf99afaa8225cf29f7876823899",
     "extension": "zip",
     "links": [
         "bin\\cmake.exe",
