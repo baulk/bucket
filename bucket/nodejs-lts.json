@@ -16,7 +16,7 @@
         ],
         "path": [
             "${BAULK_PKGROOT}",
-            "${BAULK_VFS}\\.npm-lts\\bin"
+            "${BAULK_VFS}\\.npm-lts"
         ],
         "env": [
             "NPM_CONFIG_PREFIX=${BAULK_VFS}\\.npm-lts"
