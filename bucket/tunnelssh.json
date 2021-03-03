@@ -3,7 +3,7 @@
     "version": "1.1.2",
     "url": null,
     "url64": "https://github.com/balibuild/tunnelssh/releases/download/1.1.2/TunnelSSH-windows-amd64-1.1.2.zip",
-    "url64.hash": "SHA256:8a0c0f9e786f5420e20ffda2d4e0b22f39aa13a1d407fc29e8e03ed9928c2200  ",
+    "url64.hash": "SHA256:8a0c0f9e786f5420e20ffda2d4e0b22f39aa13a1d407fc29e8e03ed9928c2200",
     "extension": "zip",
     "links": [
         "bin\\tunnelssh.exe",
