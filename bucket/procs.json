@@ -1,9 +1,9 @@
 {
     "description": "A modern replacement for ps(1)",
-    "version": "0.11.3",
+    "version": "0.11.4",
     "url": null,
-    "url64": "https://github.com/dalance/procs/releases/download/v0.11.3/procs-v0.11.3-x86_64-win.zip",
-    "url64.hash": "SHA256:b6ba028cda2ce974aa4584b56f95734c0a4aece75d02fab0572fda950b4ac650",
+    "url64": "https://github.com/dalance/procs/releases/download/v0.11.4/procs-v0.11.4-x86_64-win.zip",
+    "url64.hash": "SHA256:96374bcddef6abc99c216f9e5a5ecad6b10924c045b28dd185f1723deead28ea",
     "extension": "zip",
     "links": [
         "procs.exe"
