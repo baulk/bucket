@@ -1,0 +1,15 @@
+  
+{
+    "description": "Official production-ready open-source builds of OpenJDK 15",
+    "version": "16.36",
+    "url64": "https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16%2B36/OpenJDK16-jdk_x86-32_windows_hotspot_16_36.zip",
+    "url64.hash": "SHA256:fc56973b89db7f1b08ee031af32b5d943570aa9b330285f14d8f32fdf97c8cba",
+    "extension": "zip",
+    "venv": {
+        "category": "java",
+        "path": "${BAULK_PKGROOT}\\bin",
+        "env": [
+            "JAVA_HOME=${BAULK_PKGROOT}"
+        ]
+    }
+}
