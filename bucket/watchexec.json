@@ -1,9 +1,9 @@
 {
     "description": "Execute commands in response to file modifications.",
-    "version": "1.14.1",
+    "version": "1.15.3",
     "url": null,
-    "url64": "https://github.com/watchexec/watchexec/releases/download/1.14.1/watchexec-1.14.1-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:90d31eedf1f499a04ab46c5a6fc1233818fcab238951d5838a6d39b3719f54d3",
+    "url64": "https://github.com/watchexec/watchexec/releases/download/1.15.3/watchexec-1.15.3-x86_64-pc-windows-msvc.zip",
+    "url64.hash": "SHA256:ef9f2d85c0e55bfa119151c8add1d39ff0b03c63bb7ba2887befc991190bab76",
     "extension": "zip",
     "links": [
         "watchexec.exe"
