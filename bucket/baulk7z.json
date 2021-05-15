@@ -1,12 +1,12 @@
 {
     "description": "baulk7z - A derivative version of 7-Zip-zstd maintained by baulk contributors",
-    "version": "v21.0.2",
-    "url64": "https://github.com/baulk/baulk7z/releases/download/v21.0.2/Baulk7z-21.0.2-win-x64.zip",
-    "url64.hash": "SHA256:bd5d4e260388f0d8fadb8884a90beead05c1e65327fe328fe864422368092e6a",
-    "url": "https://github.com/baulk/baulk7z/releases/download/v21.0.2/Baulk7z-21.0.2-win-x86.zip",
-    "url.hash": "SHA256:21bc53caedd84d763f60739d2bb38d5a65ef5920880bb17cc98513931912e098",
-    "urlarm64": "https://github.com/baulk/baulk7z/releases/download/v21.0.2/Baulk7z-21.0.2-win-arm64.zip",
-    "urlarm64.hash": "SHA256:bc55f3d96967e2d74e1d14fe854501c2c2a00d71562f0420b7009afba3ac5a90",
+    "version": "v21.0.3",
+    "url64": "https://github.com/baulk/baulk7z/releases/download/v21.0.3/Baulk7z-21.0.3-win-x64.zip",
+    "url64.hash": "SHA256:fb29f2cbffaab52b60a5787eb5c94adab95db58820225220f2c7292fcc8668d1",
+    "url": "https://github.com/baulk/baulk7z/releases/download/v21.0.3/Baulk7z-21.0.3-win-x86.zip",
+    "url.hash": "SHA256:0aa912d6aec81e81edb7253f343a3f5b3c0f33ca67108872f9341b96aad072f0",
+    "urlarm64": "https://github.com/baulk/baulk7z/releases/download/v21.0.3/Baulk7z-21.0.3-win-arm64.zip",
+    "urlarm64.hash": "SHA256:094665587e007831cca585a12750a2fe34c4eacdb7b1a64759ed63205f9d23f2",
     "extension": "zip",
     "links": [
         "baulk7z.exe"
