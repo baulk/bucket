@@ -1,8 +1,8 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK 15",
-    "version": "15.36",
-    "url64": "https://github.com/AdoptOpenJDK/openjdk15-binaries/releases/download/jdk-15%2B36/OpenJDK15U-jdk_x64_windows_hotspot_15_36.zip",
-    "url64.hash": "SHA256:0ec6b009c00e3786a30fd2327973ba8971817e482f658c732bea5cb9e268998f",
+    "version": "15.0.2.7",
+    "url64": "https://github.com/AdoptOpenJDK/openjdk15-binaries/releases/download/jdk-15.0.2%2B7/OpenJDK15U-jdk_x64_windows_hotspot_15.0.2_7.zip",
+    "url64.hash": "SHA256:b80dde2b7f8374eff0f1726c1cbdb48fb095fdde21489046d92f7144baff5741",
     "extension": "zip",
     "venv": {
         "category": "java",
