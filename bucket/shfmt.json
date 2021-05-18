@@ -1,10 +1,10 @@
 {
     "description": "A shell formatter.",
-    "version": "3.2.2",
-    "url": "https://github.com/mvdan/sh/releases/download/v3.2.2/shfmt_v3.2.2_windows_386.exe",
-    "url.hash": "SHA256:28b8a0f145a8556a75bd4f890badc4bd8704e47cfc97b8b06a677c49e21357a3",
-    "url64": "https://github.com/mvdan/sh/releases/download/v3.2.2/shfmt_v3.2.2_windows_amd64.exe",
-    "url64.hash": "SHA256:a0a2bdb9db57fcbf1905fbe709d86dbbfb6106f760ae6d6fe70b27d8834d9b4e",
+    "version": "3.3.0",
+    "url": "https://github.com/mvdan/sh/releases/download/v3.3.0/shfmt_v3.3.0_windows_386.exe",
+    "url.hash": "SHA256:1689a05007e66e35a60fab83fff7394de28bab5acf49e05efca78cd7aa9d55cf",
+    "url64": "https://github.com/mvdan/sh/releases/download/v3.3.0/shfmt_v3.3.0_windows_amd64.exe",
+    "url64.hash": "SHA256:f964e42e17dfc1d93d27835f6b445d203ce7f9a1df4b062bd7ab84b8fc8bcb3c",
     "extension": "exe",
     "links": [
         "shfmt.exe"
