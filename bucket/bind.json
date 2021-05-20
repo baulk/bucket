@@ -1,8 +1,8 @@
 {
     "description": "Versatile, classic, complete name server software.",
-    "version": "9.16.12",
-    "url64": "https://downloads.isc.org/isc/bind9/9.16.12/BIND9.16.12.x64.zip",
-    "url64.hash": "SHA256:f712cefef248ddc10bd8c6a6a772c67aba1eaf9929325ea3ffa5b7ad76013c47",
+    "version": "9.16.16",
+    "url64": "https://downloads.isc.org/isc/bind9/9.16.16/BIND9.16.16.x64.zip",
+    "url64.hash": "SHA256:5e117eb04cf17d6d63fe20635eca3eea7b296e643674557902b2b943eff45343",
     "extension": "zip",
     "launchers": [
         "arpaname.exe",
