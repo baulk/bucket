@@ -1,0 +1,10 @@
+{
+    "description": "The package manager for Kubernetes",
+    "version": "v3.5.4",
+    "url64": "https://get.helm.sh/helm-v3.5.4-windows-amd64.zip",
+    "url64.hash": "SHA256:830da2a8fba060ceff95486b3166b11c517035092e213f8d775be4ae2f7c13e0",
+    "extension": "zip",
+    "links": [
+        "helm.exe"
+    ]
+}
