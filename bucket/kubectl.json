@@ -3,8 +3,10 @@
     "version": "v1.21.1",
     "url64": "https://storage.googleapis.com/kubernetes-release/release/v1.21.1/kubernetes-client-windows-amd64.tar.gz",
     "url64.hash": "SHA256:4e013fa5563d03a5e6c7dcbe56dabcc82c866bac28ec268500dfaf8a8fcdfb7c",
+    "url": "https://storage.googleapis.com/kubernetes-release/release/v1.21.1/kubernetes-client-windows-386.tar.gz",
+    "url.hash": "SHA256:80894bd11dd9c2df9367670c0a10129d177c3d8683bf6572bbaedd1b45914586",
     "extension": "tar",
     "links": [
-        "kubectl.exe"
+        "bin/kubectl.exe"
     ]
 }
