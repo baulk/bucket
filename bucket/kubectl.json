@@ -1,0 +1,10 @@
+{
+    "description": "The package manager for Kubernetes",
+    "version": "v1.21.1",
+    "url64": "https://storage.googleapis.com/kubernetes-release/release/v1.21.1/kubernetes-client-windows-amd64.tar.gz",
+    "url64.hash": "SHA256:4e013fa5563d03a5e6c7dcbe56dabcc82c866bac28ec268500dfaf8a8fcdfb7c",
+    "extension": "tar",
+    "links": [
+        "kubectl.exe"
+    ]
+}
