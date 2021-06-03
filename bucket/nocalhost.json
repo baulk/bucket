@@ -4,5 +4,7 @@
   "url64": "https://github.com/nocalhost/nocalhost/releases/download/v0.4.3/nhctl-windows-amd64.exe",
   "url64.hash": "SHA256:5916556e31ba1534f39aff9ca479929c9d41443eae564115122828374c4c0320",
   "extension": "exe",
-  "links64": ["nocalhost.exe@nhctl.exe"]
+  "links": [
+    "nocalhost.exe@nhctl.exe"
+  ]
 }
