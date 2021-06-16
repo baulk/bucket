@@ -1,0 +1,10 @@
+{
+    "description": "Baulk official bucket",
+    "name": "baulk",
+    "id": "85c073ad-f473-4959-b655-1e5b232d46d7",
+    "url": "https://github.com/baulk/bucket",
+    "mirrors": [
+        "git@github.com/baulk/bucket.git",
+        "https://gitee.com/baulk/bucket.git"
+    ]
+}
