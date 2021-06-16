@@ -1,0 +1,16 @@
+{
+    "description": "LDC is LLVM based D-language compiler",
+    "version": "1.26.0",
+    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.26.0/ldc2-1.26.0-windows-x64.7z",
+    "url64.hash": "SHA256:dd4297095d07aca4d221bdb42315662d3968daec8887379c48fdcac0ca6304bb",
+    "url": "https://github.com/ldc-developers/ldc/releases/download/v1.26.0/ldc2-1.26.0-windows-x86.7z",
+    "url.hash": "SHA256:fcdb1db8bb28e2eae8a50281549b37770d8c1ec9dc1c102e4b9ac5fc79815ca1",
+    "extension": "7z",
+    "venv": {
+        "category": "dlang",
+        "path": "${BAULK_PKGROOT}\\bin",
+        "env": [
+            "BAULK_LDC_VERSION=1.26.0"
+        ]
+    }
+}
