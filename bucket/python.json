@@ -1,10 +1,10 @@
 {
     "description": "Python is a programming language. (Embedded Distribution)",
-    "version": "3.9.5",
-    "url": "https://www.python.org/ftp/python/3.9.5/python-3.9.5-embed-win32.zip",
-    "url.hash": "SHA256:a18f60e84dd205adc8f7944ec1243bbf65a3a5b45a899ff28935aba231823198",
-    "url64": "https://www.python.org/ftp/python/3.9.5/python-3.9.5-embed-amd64.zip",
-    "url64.hash": "SHA256:f6954b64af18386c523988a23c512452fd289e3591218e7dbb76589b9b326d34",
+    "version": "3.9.6",
+    "url": "https://www.python.org/ftp/python/3.9.6/python-3.9.6-embed-win32.zip",
+    "url.hash": "SHA256:748300c06ce99a94a6dec2c463e1d1923f9c34991e5ca85e105253045489c7c2",
+    "url64": "https://www.python.org/ftp/python/3.9.6/python-3.9.6-embed-amd64.zip",
+    "url64.hash": "SHA256:94f796d3c222e6bbd11b11dc8cec2249ef6a9408f06f82ee7877c793d45e22ea",
     "extension": "zip",
     "launchers": [
         "python.exe"
