@@ -1,8 +1,8 @@
 {
     "description": "K9s - Kubernetes CLI To Manage Your Clusters In Style!",
-    "version": "v0.24.12",
-    "url64": "https://github.com/derailed/k9s/releases/download/v0.24.12/k9s_Windows_x86_64.tar.gz",
-    "url64.hash": "SHA256:33af6fa17a88b2bc6d329adc92b1dcd5e1cb55d4d7ca3096501e36c0beadccdd",
+    "version": "v0.24.13",
+    "url64": "https://github.com/derailed/k9s/releases/download/v0.24.13/k9s_Windows_x86_64.tar.gz",
+    "url64.hash": "SHA256:7f4cb92d52f6abaa5eec4854033a9a7de1f8c9bfbd53849481d957c79a27f8f0",
     "extension": "tar",
     "links": [
         "k9s.exe"
