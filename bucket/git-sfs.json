@@ -1,8 +1,8 @@
 {
     "description": "Git Secure File Storage (SFS)",
-    "version": "0.1.0",
-    "url64": "https://codingcorp.coding.net/api/team/codingcorp/anonymity/artifacts/repositories/5249851/packages/1752769/versions/5480724/file/download?fileName=git-sfs-windows-amd64.zip",
-    "url64.hash": "SHA256:35ea6f6c4667dea220577873321c5eda0aa672f4f7384f2f2a183911864eeab6",
+    "version": "0.5.0",
+    "url64": "https://codingcorp.coding.net/api/user/codingcorp/project/git-sfs/artifacts/repositories/5249851/packages/1752769/versions/6665501/file/download?fileName=git-sfs-windows-amd64.zip",
+    "url64.hash": "SHA256:f5bfc19454ff50e105904e9194a654102d2a35103b098ae09f9f311c2ce961cb",
     "extension": "zip",
     "links": [
         "bin/git-sfs.exe"
