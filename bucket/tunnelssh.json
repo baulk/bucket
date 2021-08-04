@@ -1,9 +1,9 @@
 {
     "description": "TunnelSSH - A witty ssh client.",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "url": null,
-    "url64": "https://github.com/balibuild/tunnelssh/releases/download/1.1.2/TunnelSSH-windows-amd64-1.1.2.zip",
-    "url64.hash": "SHA256:8a0c0f9e786f5420e20ffda2d4e0b22f39aa13a1d407fc29e8e03ed9928c2200",
+    "url64": "https://github.com/balibuild/tunnelssh/releases/download/1.2.0/TunnelSSH-windows-amd64-1.2.0.zip",
+    "url64.hash": "SHA256:b9871ac85e9cbaaabbea10092196cc43d153272641e3c1f0692167aec2087510",
     "extension": "zip",
     "links": [
         "bin\\tunnelssh.exe",
