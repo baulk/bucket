@@ -1,6 +1,8 @@
 {
     "description": "Versatile, classic, complete name server software.",
     "version": "9.16.19",
+    "homepage": "http://www.isc.org/bind/",
+    "license": "MPL-2.0",
     "url64": "https://downloads.isc.org/isc/bind9/9.16.19/BIND9.16.19.x64.zip",
     "url64.hash": "SHA256:9f6ed715f71027dd0bbb24ce884d25c2c7b0850ff952a80c05bf4b389b9bdaa5",
     "extension": "zip",

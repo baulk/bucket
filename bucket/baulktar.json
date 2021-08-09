@@ -1,6 +1,7 @@
 {
     "description": "BaulkTar - tar rethink.",
     "version": "1.0.3",
+    "homepage": "https://github.com/baulk/baulktar/",
     "url64": "https://github.com/baulk/baulktar/releases/download/1.0.3/BaulkTar-1.0.3-win-x64.zip",
     "url64.hash": "SHA256:e59e655586d8a11262b1af3c44db9b81a8e20a2a649bad475136716f91242316",
     "url": "https://github.com/baulk/baulktar/releases/download/1.0.3/BaulkTar-1.0.3-win-x86.zip",

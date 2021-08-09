@@ -1,6 +1,8 @@
 {
     "description": "BelaUtils - Tools reimplemented using Bela library",
     "version": "1.15.0",
+    "homepage": "https://github.com/fcharlie/BelaUtils",
+    "license": "Apache-2.0",
     "url64": "https://github.com/fcharlie/BelaUtils/releases/download/1.15.0/BelaUtils-1.15.0-win-x64.zip",
     "url64.hash": "SHA256:e2eb016d19da0a793f91b165c66cfe9073c1a77574f763371232d8a8698e33b3",
     "url": "https://github.com/fcharlie/BelaUtils/releases/download/1.15.0/BelaUtils-1.15.0-win-x86.zip",
