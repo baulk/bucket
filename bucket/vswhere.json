@@ -1,6 +1,8 @@
 {
     "description": "Visual Studio Locator.",
     "version": "2.8.4",
+    "homepage": "https://github.com/microsoft/vswhere/",
+    "license": "MIT",
     "url": "https://github.com/microsoft/vswhere/releases/download/2.8.4/vswhere.exe",
     "extension": "exe",
     "links": [

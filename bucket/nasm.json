@@ -1,6 +1,8 @@
 {
     "description": "NASM - The Netwide Assembler",
     "version": "2.15.05",
+    "homepage": "https://www.nasm.us",
+    "license": "BSD-2-Clause",
     "url": "https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/win32/nasm-2.15.05-win32.zip",
     "url.hash": "SHA256:258c7d1076e435511cf2fdf94e2281eadbdb9e3003fd57f356f446e2bce3119e",
     "url64": "https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/win64/nasm-2.15.05-win64.zip",

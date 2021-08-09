@@ -1,6 +1,8 @@
 {
     "description": "Run the program with the specified permission level.",
     "version": "4.4.1",
+    "homepage": "https://github.com/M2Team/Privexec/",
+    "license": "MIT",
     "url64": "https://github.com/M2Team/Privexec/releases/download/4.4.1/Privexec-4.4.1-win-x64.zip",
     "url64.hash": "SHA256:0d0422f87efc5a2d9092d71ee3635facda944d39bed0627f9ab6c1a306df32ce",
     "url": "https://github.com/M2Team/Privexec/releases/download/4.4.1/Privexec-4.4.1-win-x86.zip",

@@ -1,6 +1,8 @@
 {
     "description": "XMake is an a cross-platform build utility based on lua",
     "version": "2.5.6",
+    "homepage": "https://xmake.io/",
+    "license": "Apache-2.0",
     "url": "https://github.com/xmake-io/xmake/releases/download/v2.5.6/xmake-v2.5.6.win32.zip",
     "url.hash": "SHA256:73dce71e97ea28f2a92bd1a65ab61e273bfb655de8a4e714d87ef115f9d83038",
     "url64": "https://github.com/xmake-io/xmake/releases/download/v2.5.6/xmake-v2.5.6.win64.zip",
