@@ -1,6 +1,8 @@
 {
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
     "version": "1.16.7",
+    "homepage": "https://golang.org/",
+    "license": "BSD",
     "url": "https://dl.google.com/go/go1.16.7.windows-386.zip",
     "url.hash": "SHA256:53b32b48ee2797acf2c5fa8f83c0d42406ae6b5df7e3a57ccbe94cf6272faeec",
     "url64": "https://dl.google.com/go/go1.16.7.windows-amd64.zip",
