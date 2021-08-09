@@ -1,6 +1,8 @@
 {
     "description": "Decompress RAR files.",
     "version": "6.0.6",
+    "homepage": "https://github.com/baulk/unrar",
+    "license": "https://github.com/baulk/unrar/blob/master/LICENSE",
     "url64": "https://github.com/baulk/unrar/releases/download/6.0.6/unrar-6.0.6-win-x64.zip",
     "url64.hash": "SHA256:daec976e1b2968c877426e640760ec1e1cf6281ef64ab283421ee4842adf9117",
     "url": "https://github.com/baulk/unrar/releases/download/6.0.6/unrar-6.0.6-win-x86.zip",

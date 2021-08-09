@@ -1,6 +1,8 @@
 {
     "description": "Perl 5 is a highly capable, feature-rich programming language.",
     "version": "5.32.1.1",
+    "homepage": "https://www.perl.org/",
+    "license": "GPL-1.0",
     "url": "https://strawberryperl.com/download/5.32.1.1/strawberry-perl-5.32.1.1-32bit-portable.zip",
     "url64": "https://strawberryperl.com/download/5.32.1.1/strawberry-perl-5.32.1.1-64bit-portable.zip",
     "extension": "zip",

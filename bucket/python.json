@@ -1,6 +1,8 @@
 {
     "description": "Python is a programming language. (Embedded Distribution)",
     "version": "3.9.6",
+    "homepage": "https://www.python.org/",
+    "license": "Python-2.0",
     "url": "https://www.python.org/ftp/python/3.9.6/python-3.9.6-embed-win32.zip",
     "url.hash": "SHA256:748300c06ce99a94a6dec2c463e1d1923f9c34991e5ca85e105253045489c7c2",
     "url64": "https://www.python.org/ftp/python/3.9.6/python-3.9.6-embed-amd64.zip",
