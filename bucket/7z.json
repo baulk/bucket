@@ -1,6 +1,8 @@
 {
     "description": "7-Zip is a file archiver with a high compression ratio",
     "version": "21.02",
+    "homepage": "https://www.7-zip.org/",
+    "license": "Freeware,LGPL-2.0-only,BSD-3-Clause",
     "url": "https://7-zip.org/a/7z2102.exe",
     "url.hash": "SHA256:7391b272d001fe110eda6fbeb9b9a89e2111afe51b777495c828cfc72b5a95d8",
     "url64": "https://7-zip.org/a/7z2102-x64.exe",

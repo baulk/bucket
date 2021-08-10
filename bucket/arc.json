@@ -1,6 +1,8 @@
 {
-    "description": "Introducing Archiver - a cross-platform, multi-format archive utility",
+    "description": "A cross-platform, multi-format archive utility",
     "version": "3.2",
+    "homepage": "https://github.com/mholt/archiver",
+    "license": "MIT",
     "url": null,
     "url64": "https://github.com/mholt/archiver/releases/download/v3.2.0/arc_windows_amd64.exe",
     "extension": "exe",

@@ -1,6 +1,8 @@
 {
     "description": "Network exploration and security auditing utility.",
     "version": "7.92",
+    "homepage": "https://nmap.org/",
+    "license": "GPL-2.0",
     "url": "https://nmap.org/dist/nmap-7.92-win32.zip",
     "url.hash": "SHA256:b54c54d4b478cad19567a504c7c6b7230dfd80acd881dc2e9015a628a3efa71e",
     "extension": "zip",

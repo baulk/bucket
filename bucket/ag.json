@@ -1,6 +1,8 @@
 {
     "description": "A code-searching tool similar to ack, but faster.",
     "version": "2020-07-05/2.2.0-58-g5a1c8d8",
+    "homepage": "https://github.com/k-takata/the_silver_searcher-win32/",
+    "license": "Apache-2.0",
     "url": "https://github.com/k-takata/the_silver_searcher-win32/releases/download/2020-07-05/2.2.0-58-g5a1c8d8/ag-2020-07-05_2.2.0-58-g5a1c8d8-x86.zip",
     "url.hash": "SHA256:245fe805610c0c42a1e1957f763eccaf53f2f02a9ed7fc0bca0efa9a856533e7",
     "url64": "https://github.com/k-takata/the_silver_searcher-win32/releases/download/2020-07-05/2.2.0-58-g5a1c8d8/ag-2020-07-05_2.2.0-58-g5a1c8d8-x64.zip",

@@ -1,6 +1,8 @@
 {
     "description": "Mach2 manages the Windows Feature Store, where Features (and associated on/off state) live.",
     "version": "0.7.0.0",
+    "homepage": "https://github.com/riverar/mach2",
+    "license": "GPL-3.0",
     "url64": "https://github.com/riverar/mach2/releases/download/0.7.0.0/mach2_0.7.0.0_x64.zip",
     "url64.hash": "SHA256:96e111c709c8401059039f962264e151ed5cf48489fba0d3946562e2f96f5c47",
     "url": "https://github.com/riverar/mach2/releases/download/0.7.0.0/mach2_0.7.0.0_x86.zip",

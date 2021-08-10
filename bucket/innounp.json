@@ -1,6 +1,8 @@
 {
     "description": "InnoUnp - Inno Setup Unpacker.",
     "version": "0.49",
+    "homepage": "https://innounp.sourceforge.net/",
+    "license": "GPL",
     "url": "https://sourceforge.net/projects/innounp/files/innounp/innounp%200.49/innounp049.rar/download",
     "extension": "7z",
     "links": [

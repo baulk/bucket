@@ -1,6 +1,8 @@
 {
     "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
     "version": "1.54.0",
+    "homepage": "https://www.rust-lang.org/",
+    "license": "MIT,Apache-2.0",
     "url64": "https://static.rust-lang.org/dist/rust-1.54.0-x86_64-pc-windows-msvc.msi",
     "url64.hash": "SHA256:4316f84bd783d0c36cd4c108162ea72dcc841c64a57f5a1ff438a4474614d0cc",
     "url": "https://static.rust-lang.org/dist/rust-1.54.0-i686-pc-windows-msvc.msi",
