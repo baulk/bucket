@@ -12,7 +12,7 @@
     "venv": {
         "category": "kotlin",
         "dependencies": [
-            "zulu14"
+            "zulu"
         ],
         "path": "${BAULK_PKGROOT}\\bin",
         "env": [
