@@ -1,14 +1,14 @@
 {
     "description": "Curl is a command-line tool for transferring data specified with URL syntax. (msvc flavor)",
-    "version": "7.78.0.2",
+    "version": "7.78.0.3",
     "homepage": "https://github.com/fcharlie/wincurl/",
     "license": "MIT",
-    "url64": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.2/wincurl-win64-7.78.0.2.zip",
-    "url64.hash": "SHA256:9e5ce57c1143f26a33b939c7e8321e8b8cd1beb93ac2bab00ab374663992ee3f",
-    "url": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.2/wincurl-win32-7.78.0.2.zip",
-    "url.hash": "SHA256:f48df62a0bd26c90a4c71626f6fbaf13b5d81c5869bda5ec287e8f6d94d8af68",
-    "urlarm64": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.2/wincurl-arm64-7.78.0.2.zip",
-    "urlarm64.hash": "SHA256:977da29fa18a9727bc400801f2d80d394e462904b09f6a1b32679e6107635088",
+    "url64": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.3/wincurl-win64-7.78.0.3.zip",
+    "url64.hash": "SHA256:39f82d6561b99ad0de35e636f8c27426856f174e10203f5925d1e0457816ff49",
+    "url": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.3/wincurl-win32-7.78.0.3.zip",
+    "url.hash": "SHA256:3ac00199f4c9bcf907bf887026dcdbc8b6433a4f2ddb348e9ea968741534bc49",
+    "urlarm64": "https://github.com/fcharlie/wincurl/releases/download/7.78.0.3/wincurl-arm64-7.78.0.3.zip",
+    "urlarm64.hash": "SHA256:12a0aeabc04b78a933da55d88fa9dfad274524b6471df53a0b44513192a71d30",
     "extension": "zip",
     "launchers": [
         "bin/curl.exe@wincurl.exe"
