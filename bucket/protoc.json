@@ -1,12 +1,12 @@
 {
     "description": "Protocol Buffer Compiler",
-    "version": "3.17.3",
+    "version": "3.18.0",
     "homepage": "https://developers.google.com/protocol-buffers/",
     "license": "https://github.com/protocolbuffers/protobuf/blob/master/LICENSE",
-    "url": "https://github.com/protocolbuffers/protobuf/releases/download/v3.17.3/protoc-3.17.3-win32.zip",
-    "url.hash": "SHA256:b3140694d94ad6ab34c4c4ff5a3ca76a6822cb7e18cdd852bb06c9509ccac93e",
-    "url64": "https://github.com/protocolbuffers/protobuf/releases/download/v3.17.3/protoc-3.17.3-win64.zip",
-    "url64.hash": "SHA256:c78d42bea30771b81bb3839128ad7ef528b376680bba489998b4a3cd5a495a47",
+    "url": "https://github.com/protocolbuffers/protobuf/releases/download/v3.18.0/protoc-3.18.0-win32.zip",
+    "url.hash": "SHA256:ebedfe374dd2953fe67f09c19a8dd8346252429cc587456bc5df43c65c527059",
+    "url64": "https://github.com/protocolbuffers/protobuf/releases/download/v3.18.0/protoc-3.18.0-win64.zip",
+    "url64.hash": "SHA256:222ecf84acdaacf2883b95fd83e14f1b3ffb8598f92ad8f595a90e8fd0a8feb8",
     "extension": "zip",
     "launchers": [
         "bin\\protoc.exe"
