@@ -1,6 +1,6 @@
 {
     "description": "Kotlin/Native is an LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.",
-    "version": "1.5.30",
+    "version": "1.5.31",
     "homepage": "https://github.com/JetBrains/kotlin",
     "license": "Apache-2.0",
     "url": "https://github.com/JetBrains/kotlin/releases/download/v1.5.31/kotlin-native-windows-x86_64-1.5.31.zip",
