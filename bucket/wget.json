@@ -1,12 +1,12 @@
 {
     "description": "A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.",
-    "version": "1.21.1.1",
+    "version": "1.21.2",
     "homepage": "https://www.gnu.org/software/wget/",
     "license": "GPL-3.0",
-    "url": "https://eternallybored.org/misc/wget/releases/wget-1.21.1-1-win32.zip",
-    "url.hash": "SHA256:7f76479d71aa0bdcfbe5fe4c3603ed6555a1679e578f88fc02b0e280377fa986",
-    "url64": "https://eternallybored.org/misc/wget/releases/wget-1.21.1-1-win64.zip",
-    "url64.hash": "SHA256:b80edb936fb3ea0c0ecda24d627474a9b0531f87c43fc17a7b3ead0b2fd8bc1b",
+    "url": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win32.zip",
+    "url.hash": "SHA256:199d5f643d08d84bc42df4a8e56eb1cebc471136a2cfd642afa6e483bf880dc9",
+    "url64": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win64.zip",
+    "url64.hash": "SHA256:b0df89f80aff540f9efee4fc6ebe9f484f442866cc03896bcd5b21e9813d380a",
     "extension": "zip",
     "links": [
         "wget.exe"
