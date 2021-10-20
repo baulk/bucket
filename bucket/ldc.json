@@ -1,18 +1,18 @@
 {
     "description": "LDC is LLVM based D-language compiler",
-    "version": "1.27.0",
+    "version": "1.28.0",
     "homepage": "https://github.com/ldc-developers/ldc",
     "license": "BSD-3-Clause",
-    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.27.0/ldc2-1.27.0-windows-x64.7z",
-    "url64.hash": "SHA256:a57cb73f4871b0ecccfe0ad489d432c728f249109ccf4a67aaa9602c8e1cf91d",
-    "url": "https://github.com/ldc-developers/ldc/releases/download/v1.27.0/ldc2-1.27.0-windows-x86.7z",
-    "url.hash": "SHA256:11fda9b2759c90298856a32dabf5b7fd4bee4967f78f9b7b4f17f746b2ece946",
+    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.28.0/ldc2-1.28.0-windows-x64.7z",
+    "url64.hash": "SHA256:26bb3ece7774ef70d9c7485eab5fbc182d4e74411e4a8d2f339e9b421a76f069",
+    "url": "https://github.com/ldc-developers/ldc/releases/download/v1.28.0/ldc2-1.28.0-windows-x86.7z",
+    "url.hash": "SHA256:af5465b316dfb582ded4fd6f83dfa02dfdd896fad6d397cc53d098e3ba9f9281",
     "extension": "7z",
     "venv": {
         "category": "dlang",
         "path": "${BAULK_PKGROOT}\\bin",
         "env": [
-            "BAULK_LDC_VERSION=1.27.0"
+            "BAULK_LDC_VERSION=1.28.0"
         ]
     }
 }
