@@ -1,10 +1,10 @@
 {
     "description": "GraalVM is a high-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices",
-    "version": "21.2.0",
+    "version": "21.3.0",
     "homepage": "https://www.graalvm.org/",
     "license": "GPL",
-    "url64": "https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-21.2.0/graalvm-ce-java11-windows-amd64-21.2.0.zip",
-    "url64.hash": "SHA256:b172dbca4357eaa64dcf81e65e2451a948d581aa203e262c461e521651e050d6",
+    "url64": "https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-21.3.0/graalvm-ce-java11-windows-amd64-21.3.0.zip",
+    "url64.hash": "SHA256:d9c23ecf4513d0057d3b3f5367b63b6944762f8f9574c5a42bd4522e98e9e9a4",
     "extension": "zip",
     "venv": {
         "category": "java",
