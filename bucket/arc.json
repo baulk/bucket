@@ -3,8 +3,8 @@
     "version": "3.2",
     "homepage": "https://github.com/mholt/archiver",
     "license": "MIT",
-    "url": null,
-    "url64": "https://github.com/mholt/archiver/releases/download/v3.2.0/arc_windows_amd64.exe",
+    "url": "https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_386.exe",
+    "url64": "https://github.com/mholt/archiver/releases/download/v3.5.0/arc_3.5.0_windows_amd64.exe",
     "extension": "exe",
     "links": [
         "arc.exe"
