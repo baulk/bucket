@@ -1,6 +1,6 @@
 {
     "description": "The package manager for Kubernetes",
-    "version": "v1.22.3",
+    "version": "1.22.3",
     "homepage": "https://github.com/kubernetes/kubectl",
     "license": "Apache-2.0",
     "url64": "https://storage.googleapis.com/kubernetes-release/release/v1.22.3/kubernetes-client-windows-amd64.tar.gz",
