@@ -1,6 +1,6 @@
 {
     "description": "Tokei is a program that displays statistics about your code.",
-    "version": "v12.1.2",
+    "version": "12.1.2",
     "homepage": "https://github.com/XAMPPRocky/tokei/",
     "license": "Apache-2.0",
     "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-i686-pc-windows-msvc.exe",
