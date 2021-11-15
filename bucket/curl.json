@@ -1,6 +1,6 @@
 {
     "description": "Curl is a command-line tool for transferring data specified with URL syntax.",
-    "version": "7.78.0",
+    "version": "7.80.0",
     "homepage": "https://curl.se/",
     "license": "https://github.com/curl/curl/blob/master/COPYING",
     "url64": "https://curl.se/windows/dl-7.80.0/curl-7.80.0-win64-mingw.zip",
