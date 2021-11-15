@@ -1,6 +1,6 @@
 {
     "description": "dog is a command-line DNS client.",
-    "version": "v0.1.0",
+    "version": "0.1.0",
     "homepage": "https://dns.lookup.dog/",
     "license": "EUPL-1.2",
     "url64": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-pc-windows-msvc.zip",
