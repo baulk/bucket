@@ -1,6 +1,6 @@
 {
     "description": "A code-searching tool similar to ack, but faster.",
-    "version": "1.0.41",
+    "version": "31.0.3",
     "homepage": "https://developer.android.com/studio/command-line/adb",
     "license": "Apache-2.0",
     "url64": "https://dl.google.com/android/repository/platform-tools_r31.0.3-windows.zip",
