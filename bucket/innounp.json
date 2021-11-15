@@ -1,9 +1,10 @@
 {
     "description": "InnoUnp - Inno Setup Unpacker.",
-    "version": "0.49",
+    "version": "0.50",
     "homepage": "https://innounp.sourceforge.net/",
     "license": "GPL",
-    "url": "https://sourceforge.net/projects/innounp/files/innounp/innounp%200.49/innounp049.rar/download",
+    "url": "https://raw.githubusercontent.com/ScoopInstaller/Binary/master/innounp/innounp050.rar",
+    "url.hash": "SHA512:dbbc809308267a866db9d6b751fdeda6d179e1a65d8ddb14bb51984431ae91493f9a76105e1789b245732043a2c696c869ed10964b48cf59f81e55bd52f85330",
     "extension": "7z",
     "links": [
         "innounp.exe"
