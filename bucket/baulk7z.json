@@ -1,6 +1,6 @@
 {
     "description": "baulk7z - A derivative version of 7-Zip-zstd maintained by baulk contributors",
-    "version": "v21.0.6",
+    "version": "21.0.6",
     "homepage": "https://github.com/baulk/baulk7z/",
     "license": "LGPL",
     "url64": "https://github.com/baulk/baulk7z/releases/download/v21.0.6/Baulk7z-21.0.6-win-x64.zip",
