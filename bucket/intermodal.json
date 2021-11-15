@@ -1,6 +1,6 @@
 {
     "description": "User-friendly and featureful command-line BitTorrent metainfo utility",
-    "version": "v0.1.12",
+    "version": "0.1.12",
     "homepage": "https://imdl.io/",
     "license": "CC0-1.0",
     "url64": "https://github.com/casey/intermodal/releases/download/v0.1.12/imdl-v0.1.12-x86_64-pc-windows-msvc.zip",
