@@ -1,6 +1,6 @@
 {
     "description": "K9s - Kubernetes CLI To Manage Your Clusters In Style!",
-    "version": "v0.24.15",
+    "version": "0.24.15",
     "homepage": "https://k9scli.io/",
     "license": "Apache-2.0",
     "url64": "https://github.com/derailed/k9s/releases/download/v0.24.15/k9s_Windows_x86_64.tar.gz",
