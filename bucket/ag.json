@@ -1,12 +1,12 @@
 {
-    "description": "A code-searching tool similar to ack, but faster.",
-    "version": "2020-07-05/2.2.0-58-g5a1c8d8",
-    "homepage": "https://github.com/k-takata/the_silver_searcher-win32/",
+    "description": "A tool for searching code. Fork of The Silver Searcher; dedicated to building a well behaved version for Windows.",
+    "version": "2.2.5",
+    "homepage": "https://github.com/JFLarvoire/the_silver_searcher",
     "license": "Apache-2.0",
-    "url": "https://github.com/k-takata/the_silver_searcher-win32/releases/download/2020-07-05/2.2.0-58-g5a1c8d8/ag-2020-07-05_2.2.0-58-g5a1c8d8-x86.zip",
-    "url.hash": "SHA256:245fe805610c0c42a1e1957f763eccaf53f2f02a9ed7fc0bca0efa9a856533e7",
-    "url64": "https://github.com/k-takata/the_silver_searcher-win32/releases/download/2020-07-05/2.2.0-58-g5a1c8d8/ag-2020-07-05_2.2.0-58-g5a1c8d8-x64.zip",
-    "url64.hash": "SHA256:ca1988c611872fd73affe95bd20652bc6ec51a31bb72ff8b8c28f0c1b9ecd25a",
+    "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.5-Windows/ag-2021-11-14-2.2.5-x86.zip",
+    "url.hash": "SHA256:aee6e795f9c1bf2761318139cbb5ebeafdef99b9eadc82461e190af597860b7f",
+    "url64": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.5-Windows/ag-2021-11-14-2.2.5-amd64.zip",
+    "url64.hash": "SHA256:ecde6ebcbd2d33ab9f50cca0800db4bd2ba183bdb7832a9d0b5ad05a684de958",
     "extension": "zip",
     "links": [
         "ag.exe"
