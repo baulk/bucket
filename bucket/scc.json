@@ -1,6 +1,6 @@
 {
     "description": "Sloc Cloc and Code (scc).",
-    "version": "v3.0.0",
+    "version": "3.0.0",
     "homepage": "https://github.com/boyter/scc/",
     "license": "MIT",
     "url": "https://github.com/boyter/scc/releases/download/v3.0.0/scc-3.0.0-i386-pc-windows.zip",
