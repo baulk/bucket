@@ -1,14 +1,14 @@
 {
     "description": "Decompress RAR files.",
-    "version": "6.0.6",
+    "version": "6.10.2",
     "homepage": "https://github.com/baulk/unrar",
     "license": "https://github.com/baulk/unrar/blob/master/LICENSE",
-    "url64": "https://github.com/baulk/unrar/releases/download/6.0.6/unrar-6.0.6-win-x64.zip",
-    "url64.hash": "SHA256:daec976e1b2968c877426e640760ec1e1cf6281ef64ab283421ee4842adf9117",
-    "url": "https://github.com/baulk/unrar/releases/download/6.0.6/unrar-6.0.6-win-x86.zip",
-    "url.hash": "SHA256:b2d8e4168bfe4a5c2833c8a19b6a30c4ea48a4d1c8209d7500931bb246b5be80",
-    "urlarm64": "https://github.com/baulk/unrar/releases/download/6.0.6/unrar-6.0.6-win-arm64.zip",
-    "urlarm64.hash": "SHA256:a6a3de9bc2112b958d7e42d523b7ef094bb661739e8e151c67212450adebea0c",
+    "url64": "https://github.com/baulk/unrar/releases/download/6.10.2/unrar-6.10.2-win-x64.zip",
+    "url64.hash": "SHA256:2e9e86f3ee96b6b378f6c11527747abd210ebadbce171bdfdc10fc1d41191d6b",
+    "url": "https://github.com/baulk/unrar/releases/download/6.10.2/unrar-6.10.2-win-x86.zip",
+    "url.hash": "SHA256:794512b6a390e26df643763b46336340c0e084330e46ef8668516d7adaf3cc45",
+    "urlarm64": "https://github.com/baulk/unrar/releases/download/6.10.2/unrar-6.10.2-win-arm64.zip",
+    "urlarm64.hash": "SHA256:f431da7925087e474effcb032643e8772507250e5d32446599e38cbcef4a9690",
     "extension": "zip",
     "links": [
         "bin/unrar.exe"
