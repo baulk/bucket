@@ -4,7 +4,7 @@
     "homepage": "https://www.isc.org/bind/",
     "license": "MPL-2.0",
     "url64": "https://downloads.isc.org/isc/bind9/9.16.23/BIND9.16.23.x64.zip",
-    "url64.hash": "SHA256: 16c80fe0bb6b3e2c887dfd556dd89fe7dfcbf4e6a7d90e24261f4534a9893904",
+    "url64.hash": "SHA256:16c80fe0bb6b3e2c887dfd556dd89fe7dfcbf4e6a7d90e24261f4534a9893904",
     "extension": "zip",
     "launchers": [
         "arpaname.exe",
