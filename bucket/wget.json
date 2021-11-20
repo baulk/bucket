@@ -1,14 +1,14 @@
 {
-    "description": "Wget2 - a recursive metalink/file/website downloader.",
-    "version": "2.0.0",
+    "description": "A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.",
+    "version": "1.21.2",
     "homepage": "https://www.gnu.org/software/wget/",
     "license": "GPL-3.0",
-    "url": "https://github.com/fcharlie/pkgassets/releases/download/wget2-2.0.0/mingw-w64-i686-wget2-2.0.0.zip",
-    "url.hash": "SHA256:f2029eaf242ee535609941a02da3d33c482ee638349477ab2befc3792de6376e",
-    "url64": "https://github.com/fcharlie/pkgassets/releases/download/wget2-2.0.0/mingw-w64-clang-x86_64-wget2-2.0.0.zip",
-    "url64.hash": "SHA256:9904a12dbb08f4b5fa3dadad77955bcf2828f1eceb42d65a89e348700a0b9e21",
+    "url": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win32.zip",
+    "url.hash": "SHA256:199d5f643d08d84bc42df4a8e56eb1cebc471136a2cfd642afa6e483bf880dc9",
+    "url64": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win64.zip",
+    "url64.hash": "SHA256:b0df89f80aff540f9efee4fc6ebe9f484f442866cc03896bcd5b21e9813d380a",
     "extension": "zip",
-    "launchers": [
-        "wget2.exe@wget.exe"
+    "links": [
+        "wget.exe"
     ]
 }
