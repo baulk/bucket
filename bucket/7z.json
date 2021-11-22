@@ -1,14 +1,14 @@
 {
     "description": "7-Zip is a file archiver with a high compression ratio",
-    "version": "21.04",
+    "version": "21.05",
     "homepage": "https://www.7-zip.org/",
     "license": "Freeware,LGPL-2.0-only,BSD-3-Clause",
-    "url": "https://7-zip.org/a/7z2104.exe",
-    "url.hash": "SHA256:1f8b80bca00016ec2a409fb77f8a55f3bde65c58f93c4f5cbb569ac912e3dd78",
-    "url64": "https://7-zip.org/a/7z2104-x64.exe",
-    "url64.hash": "SHA256:a95a98619f0ad4308f0fe446cae71921743cb8c66324cec5f97cd3485369a71b",
-    "urlarm64": "https://7-zip.org/a/7z2100-arm64.exe",
-    "urlarm64.hash": "SHA256:19e6d76486b9ef9925dde69de1a0b994abf0e02a86275e1e838758a958724578",
+    "url": "https://7-zip.org/a/7z2105.exe",
+    "url.hash": "SHA256:b7f91d9f839709316e6b9d61f3d156511a09b371c66eeafcc4c827ad52fcced4",
+    "url64": "https://7-zip.org/a/7z2105-x64.exe",
+    "url64.hash": "SHA256:a7ce7801563fb7d8a9018c54560b675f21b778afd01537ffd4a1b7af4b3d0043",
+    "urlarm64": "https://7-zip.org/a/7z2105-arm64.exe",
+    "urlarm64.hash": "SHA256:4756a23e9b32279f10e74dea0db2e96bf6dda7347089be3728ab082a7f3e8da0",
     "extension": "7z",
     "launchers": [
         "7z.exe"
