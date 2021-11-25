@@ -1,12 +1,12 @@
 {
     "description": "K9s - Kubernetes CLI To Manage Your Clusters In Style!",
-    "version": "0.25.5",
+    "version": "0.25.6",
     "homepage": "https://k9scli.io/",
     "license": "Apache-2.0",
-    "url64": "https://github.com/derailed/k9s/releases/download/v0.25.5/k9s_Windows_x86_64.tar.gz",
-    "url64.hash": "SHA256:cc80ab607e3f82d989826d8a3a83a3b40ef75b598fd6a7b6a988f71771ecdd92",
-    "urlarm64": "https://github.com/derailed/k9s/releases/download/v0.25.5/k9s_Windows_arm64.tar.gz",
-    "urlarm64.hash": "SHA256:298c48567fba19ce2c71ee3f5fafbc0bb7eee515cdf18e9e696f77bf53f0abdc",
+    "url64": "https://github.com/derailed/k9s/releases/download/v0.25.6/k9s_Windows_x86_64.tar.gz",
+    "url64.hash": "SHA256:41efd42b994fd5b7ec05d1a1d80bdaeb56c72e25e7ee9bc79024fa97b9410d78",
+    "urlarm64": "https://github.com/derailed/k9s/releases/download/v0.25.6/k9s_Windows_arm64.tar.gz",
+    "urlarm64.hash": "SHA256:41f38267d245df0cc677bb076eb768bc2a6a1c6f500936031f2ad64809f6e94e",
     "extension": "tar",
     "links": [
         "k9s.exe"
