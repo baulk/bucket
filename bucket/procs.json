@@ -1,10 +1,10 @@
 {
     "description": "A modern replacement for ps(1)",
-    "version": "0.11.11",
+    "version": "0.11.12",
     "homepage": "https://github.com/dalance/procs",
     "license": "MIT",
-    "url64": "https://github.com/dalance/procs/releases/download/v0.11.11/procs-v0.11.11-x86_64-win.zip",
-    "url64.hash": "SHA256:9f32428dfa11cb33fb5cf79066a5628284cdaa87fcb482e462f2801b7526f4b5",
+    "url64": "https://github.com/dalance/procs/releases/download/v0.11.12/procs-v0.11.12-x86_64-win.zip",
+    "url64.hash": "SHA256:f742a4362beb18249d50c7e70b07f439932dbc3d5722ccb5513583e52e526860",
     "extension": "zip",
     "links": [
         "procs.exe"
