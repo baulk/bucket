@@ -1,12 +1,12 @@
 {
     "description": "UNIX-like reverse engineering framework and command-line toolset",
-    "version": "5.5.2",
+    "version": "5.5.4",
     "homepage": "https://www.radare.org/",
     "license": "LGPL-3.0",
-    "url": "https://github.com/radareorg/radare2/releases/download/5.5.2/radare2-5.5.2-w32.zip",
-    "url.hash": "SHA256:054c634396b023ea06722d4383b26984a7606be7e4968c178e40eebe3a5b9783",
-    "url64": "https://github.com/radareorg/radare2/releases/download/5.5.2/radare2-5.5.2-w64.zip",
-    "url64.hash": "SHA256:cd48e1bf60a160811b2e92cd30a6ecab08a48515fd3965f073a117c23d3c6ad7",
+    "url": "https://github.com/radareorg/radare2/releases/download/5.5.4/radare2-5.5.4-w32.zip",
+    "url.hash": "SHA256:6ec406f1e127fb8c1a47da51b4d1afdcb5aa80777153dda2909d271540f37b01",
+    "url64": "https://github.com/radareorg/radare2/releases/download/5.5.4/radare2-5.5.4-w64.zip",
+    "url64.hash": "SHA256:37d63cbf3300729f1d4c8dbde5fbed13bb0ce1e7b69a4f2c2710316455c99a36",
     "extension": "zip",
     "launchers": [
         "bin\\radare2.exe",
