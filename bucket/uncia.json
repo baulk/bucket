@@ -1,0 +1,17 @@
+{
+    "description": "Simple archive extraction tool",
+    "version": "1.99.0",
+    "homepage": "https://github.com/baulk/uncia/",
+    "license": "Apache-2.0",
+    "url64": "https://github.com/baulk/uncia/releases/download/v1.99.0/uncia-1.99.0-win-x64.zip",
+    "url64.hash": "SHA256:97121d9a8fe3ea4c5182f5c61f110254f6030792e5d70d5631725ca6889499f8",
+    "url": "https://github.com/baulk/uncia/releases/download/v1.99.0/uncia-1.99.0-win-x86.zip",
+    "url.hash": "SHA256:77592b18359d2e60b0a321b442d5faee2a8a1e37033e88ee2b916652f987e543",
+    "urlarm64": "https://github.com/baulk/uncia/releases/download/v1.99.0/uncia-1.99.0-win-arm64.zip",
+    "urlarm64.hash": "SHA256:ff8e482d320608d19e1db8c500aecb1b663be32b2cb084f1548b2d3a7008d741",
+    "extension": "zip",
+    "links": [
+        "bin/uncia.exe",
+        "bin/wintar.exe"
+    ]
+}
