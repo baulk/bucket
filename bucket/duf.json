@@ -1,14 +1,12 @@
 {
     "description": "Disk Usage/Free Utility (Linux, BSD, macOS & Windows)",
-    "version": "0.6.2",
+    "version": "0.7.0",
     "homepage": "https://github.com/muesli/duf",
     "license": "MIT",
-    "url": "https://github.com/muesli/duf/releases/download/v0.6.2/duf_0.6.2_Windows_i386.zip",
-    "url.hash": "SHA256:e4d4135f2d67b37b0dc63cb457f69036672307148f864d2d4c86ff881d2ea133",
-    "url64": "https://github.com/muesli/duf/releases/download/v0.6.2/duf_0.6.2_Windows_x86_64.zip",
-    "url64.hash": "SHA256:16ef7c5ae344f7fe747b0e5bd1fe4f7a9a7a6475bd0672e3ddce402469ed79b2",
-    "urlarm64": "https://github.com/muesli/duf/releases/download/v0.6.2/duf_0.6.2_Windows_armv7.zip",
-    "urlarm64.hash": "SHA256:44063579a245f5a14264c10a1e5f061609e3c07a34ab1224d4da74496217d800",
+    "url64": "https://github.com/muesli/duf/releases/download/v0.7.0/duf_0.7.0_Windows_x86_64.zip",
+    "url64.hash": "SHA256:879785d63dc611ec224ee3922c6cbbeebd0659ccd3fc9c9396d65eea47555cc4",
+    "urlarm64": "https://github.com/muesli/duf/releases/download/v0.7.0/duf_0.7.0_Windows_arm64.zip",
+    "urlarm64.hash": "SHA256:5438feabe78dcce140d608225c046392971b81fe6fb90103692db0eba76ceab5",
     "extension": "zip",
     "links": [
         "duf.exe"
