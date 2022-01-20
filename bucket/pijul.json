@@ -1,0 +1,12 @@
+{
+    "description": "Pijul is a free and open source (GPL2) distributed version control system",
+    "version": "1.0.0-beta",
+    "homepage": "https://pijul.org/",
+    "license": "GPL-2.0",
+    "url64": "https://github.com/boringcactus/pijul-windows-builds/releases/download/1.0.0-beta/pijul.exe",
+    "url64.hash": "SHA256:99192ae7b358c2a6c1a6b92a1da09bff5d8d0f85db8cb4aa050e83f922b6112d",
+    "extension": "exe",
+    "links": [
+        "pujul.exe"
+    ]
+}
