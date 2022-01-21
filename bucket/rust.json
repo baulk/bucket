@@ -3,12 +3,10 @@
     "version": "1.58.0",
     "homepage": "https://www.rust-lang.org/",
     "license": "MIT,Apache-2.0",
-    "url64": "https://static.rust-lang.org/dist/rust-1.58.0-x86_64-pc-windows-msvc.msi",
-    "url64.hash": "SHA256:6d750a316e96c702f81a12e0552ca901c9f84d5e9a32c4105b63ab1fcf2a8419",
-    "url": "https://static.rust-lang.org/dist/rust-1.58.0-i686-pc-windows-msvc.msi",
-    "url.hash": "SHA256:8da0fbe24e37d8c4550ce32bfd7bc1a96c48deec1ef9f0f9ea27d6063797ab79",
-    "urlarm64": "https://static.rust-lang.org/dist/rust-1.58.0-aarch64-pc-windows-msvc.msi",
-    "urlarm64.hash": "SHA256:b06037b529c7b70e8092c3a79eb840c544a9438076dbd8629c8bfd405ef5058e",
+    "url64": "https://static.rust-lang.org/dist/rust-1.58.1-x86_64-pc-windows-msvc.msi",
+    "url64.hash": "SHA256:744c8e0b92ac3aa0112ad8f5dd723abe49b9d841b6c757ea23ed184b127106c8",
+    "urlarm64": "https://static.rust-lang.org/dist/rust-1.58.1-aarch64-pc-windows-msvc.msi",
+    "urlarm64.hash": "SHA256:852f8b166c2fc7b0eda79a06f54b9c30e58b10a836dadad738ee4d336b6f15c8",
     "extension": "msi",
     "force_delete": [
         "${BAULK_VFS}\\.cargo"
