@@ -1,12 +1,12 @@
 {
     "description": "Disk Usage/Free Utility (Linux, BSD, macOS & Windows)",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "homepage": "https://github.com/muesli/duf",
     "license": "MIT",
-    "url64": "https://github.com/muesli/duf/releases/download/v0.7.0/duf_0.7.0_Windows_x86_64.zip",
-    "url64.hash": "SHA256:879785d63dc611ec224ee3922c6cbbeebd0659ccd3fc9c9396d65eea47555cc4",
-    "urlarm64": "https://github.com/muesli/duf/releases/download/v0.7.0/duf_0.7.0_Windows_arm64.zip",
-    "urlarm64.hash": "SHA256:5438feabe78dcce140d608225c046392971b81fe6fb90103692db0eba76ceab5",
+    "url64": "https://github.com/muesli/duf/releases/download/v0.8.0/duf_0.8.0_Windows_x86_64.zip",
+    "url64.hash": "SHA256:883a9012b24cf21db5a27e76ba5ba179263d469d8b4e9e018447790a9fd0a4ff",
+    "urlarm64": "https://github.com/muesli/duf/releases/download/v0.8.0/duf_0.8.0_Windows_arm64.zip",
+    "urlarm64.hash": "SHA256:856a05a232ba1510231a386f3131a36686084fdc12bb66b9d955c05bcd8779e0",
     "extension": "zip",
     "links": [
         "duf.exe"
