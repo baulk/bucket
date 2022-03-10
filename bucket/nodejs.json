@@ -1,12 +1,12 @@
 {
     "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
-    "version": "17.6.0",
+    "version": "17.7.0",
     "homepage": "https://nodejs.org",
     "license": "MIT",
-    "url64": "https://nodejs.org/dist/v17.6.0/node-v17.6.0-win-x64.zip",
-    "url64.hash": "SHA256:eb9ff1dde916436716fe9054e6b5fd310e7f6bac3599bbd0cb335d4ac8b0cc96",
-    "url": "https://nodejs.org/dist/v17.6.0/node-v17.6.0-win-x86.zip",
-    "url.hash": "SHA256:a42628be3f534db7b0afea475599ef1fdc531fe63006873b11bc3c305f11d94f",
+    "url64": "https://nodejs.org/dist/v17.7.0/node-v17.7.0-win-x64.zip",
+    "url64.hash": "SHA256:c5e4d393f56743a6f4424786fc57a394dc6da72705dbdee04d27158ab6693ba1",
+    "url": "https://nodejs.org/dist/v17.7.0/node-v17.7.0-win-x86.zip",
+    "url.hash": "SHA256:fb4982a4b5bd040ea17a4df4ebe735a95caa3072c5e211a1d4ffb058ebb527c0",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\.npm"
