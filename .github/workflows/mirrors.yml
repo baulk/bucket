@@ -18,4 +18,4 @@ jobs:
 
       - run: |
           date > generated.txt
-          git push https://ipvb:${{ secrets.GITEE_PERSONAL_ACCESS_TOKENS }}@gitee.com/baulk/bucket.git master
+          git push https://ipvb:${{ secrets.GITEE_PERSONAL_ACCESS_TOKENS }}@gitee.com/baulk/bucket.git master -f
