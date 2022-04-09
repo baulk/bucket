@@ -1,10 +1,10 @@
 {
     "description": "A fast, scalable, multi-language and extensible build system.",
-    "version": "5.1.0",
+    "version": "5.1.1",
     "homepage": "https://bazel.build/",
     "license": "Apache-2.0",
     "url64": "https://github.com/bazelbuild/bazel/releases/download/5.1.0/bazel-5.1.0-windows-x86_64.zip",
-    "url64.hash": "SHA256:ac2309f165d4ea4811f5710b182e3640c7eee09af21c79eb0c438dcad8ea8560",
+    "url64.hash": "SHA256:b0fa3bc80b23ff9ce55fdf196b281f5837f08a77e0cbdf25d0847e66b2063d18",
     "extension": "zip",
     "force_delete": [
         "${USERPROFILE}\\_bazel_${USERNAME}"
