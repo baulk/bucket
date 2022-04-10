@@ -3,10 +3,10 @@
     "version": "6.1",
     "homepage": "https://www.mercurial-scm.org/",
     "license": "GPL-2.0",
-    "url": "https://www.mercurial-scm.org/release/windows/mercurial-6.1-x86.msi",
-    "url.hash": "SHA256:d88f1c4c6f4b9886a6da4b27cdf41f92c7a6ce0f87e9fb83e1bb69718837dbcc",
-    "url64": "https://www.mercurial-scm.org/release/windows/mercurial-6.1-x64.msi",
-    "url64.hash": "SHA256:750c0fab823ab231004da0655ee9d21ae204acac7e43936f95b7981e2e1d117a",
+    "url": "https://www.mercurial-scm.org/release/windows/mercurial-6.1.1-x86.msi",
+    "url.hash": "SHA256:94a695e3e7a484d17f4308d8769991a4a4dedf4637991bdacb77f5c3c3fe1dd6",
+    "url64": "https://www.mercurial-scm.org/release/windows/mercurial-6.1.1-x64.msi",
+    "url64.hash": "SHA256:6b51f943e9237b9f7a85b8003a6a6ace94fa90295bb312a0d97974ac8a91c84b",
     "extension": "msi",
     "launchers": [
         "hg.exe"
