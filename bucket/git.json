@@ -1,18 +1,18 @@
 {
     "description": "Git is a modern distributed version control system focused on speed",
-    "version": "2.35.1.2",
+    "version": "2.35.2",
     "homepage": "https://git-scm.com/",
     "license": "GPL-2.0",
     "url": [
-        "https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/MinGit-2.35.1-busybox-32-bit.zip",
-        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.1.windows.2/MinGit-2.35.1.2-busybox-32-bit.zip#zh-CN"
+        "https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/MinGit-2.35.2-busybox-32-bit.zip",
+        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.2.windows.1/MinGit-2.35.2-busybox-32-bit.zip#zh-CN"
     ],
-    "url.hash": "SHA256:6f80172dc7f22f4e028024dd3ec6a2ecc0178363f79a7006d3322b05bb6a8143",
+    "url.hash": "SHA256:e8b6300acfcbfd8588e5ec022e5f46b635a00a8d77d0de1a7fc11a4820496b43",
     "url64": [
-        "https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/MinGit-2.35.1.2-busybox-64-bit.zip",
-        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.1.windows.2/MinGit-2.35.1.2-busybox-64-bit.zip#zh-CN"
+        "https://github.com/git-for-windows/git/releases/download/v2.35.2.windows.1/MinGit-2.35.2-busybox-64-bit.zip",
+        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.2.windows.1/MinGit-2.35.2-busybox-64-bit.zip#zh-CN"
     ],
-    "url64.hash": "SHA256:aad8fe5975cb94bb550efbb0b4b696388de1d078296e1f31c268d144f6a6b0ea",
+    "url64.hash": "SHA256:0ac509d2d2aeb35c301588e31c5afbcf4e74643606f93a4ed808203d80cea01a",
     "extension": "zip",
     "links": [
         "cmd\\git.exe"
