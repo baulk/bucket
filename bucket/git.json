@@ -1,18 +1,13 @@
 {
     "description": "Git is a modern distributed version control system focused on speed",
-    "version": "2.35.3",
+    "version": "2.36.0",
     "homepage": "https://git-scm.com/",
     "license": "GPL-2.0",
-    "url": [
-        "https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/MinGit-2.35.3-busybox-32-bit.zip",
-        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.3.windows.1/MinGit-2.35.3-busybox-32-bit.zip#zh-CN"
-    ],
-    "url.hash": "SHA256:daf08717875ce64fff84cc0ad755ebe209066a02c238eec47994f7b0a8023b1d",
     "url64": [
-        "https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/MinGit-2.35.3-busybox-64-bit.zip",
-        "https://npm.taobao.org/mirrors/git-for-windows/v2.35.3.windows.1/MinGit-2.35.3-busybox-64-bit.zip#zh-CN"
+        "https://github.com/git-for-windows/git/releases/download/v2.36.0.windows.1/MinGit-2.36.0-busybox-64-bit.zip",
+        "https://npm.taobao.org/mirrors/git-for-windows/v2.36.0.windows.1/MinGit-2.36.0-busybox-64-bit.zip#zh-CN"
     ],
-    "url64.hash": "SHA256:2b257cdbae25253034fb3f38e13118d951c85e476c32719b0a0d4f1cd7516d69",
+    "url64.hash": "SHA256:5c301b9deabae5a83a09efed7f816d325f4ab23b6e3f3a50d077199271e045a0",
     "extension": "zip",
     "links": [
         "cmd\\git.exe"
