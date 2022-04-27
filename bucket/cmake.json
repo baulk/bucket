@@ -4,9 +4,9 @@
     "homepage": "https://cmake.org/",
     "license": "BSD-3-Clause",
     "url": "https://github.com/Kitware/CMake/releases/download/v3.23.1/cmake-3.23.1-windows-i386.zip",
-    "url.hash": "SHA256:9b509cc4eb7191dc128cfa3f2170036f9cbc7d9d5f93ff7fafc5b2d77b3b40dc",
+    "url.hash": "SHA256:db5860cbe101a1029676f62e158ed2f25390d52ddd47199ae53ea11fe0374908",
     "url64": "https://github.com/Kitware/CMake/releases/download/v3.23.1/cmake-3.23.1-windows-x86_64.zip",
-    "url64.hash": "SHA256:db5860cbe101a1029676f62e158ed2f25390d52ddd47199ae53ea11fe0374908",
+    "url64.hash": "SHA256:9b509cc4eb7191dc128cfa3f2170036f9cbc7d9d5f93ff7fafc5b2d77b3b40dc",
     "extension": "zip",
     "links": [
         "bin\\cmake.exe",
