@@ -3,12 +3,10 @@
     "version": "6.11.1",
     "homepage": "https://www.rarlab.com/",
     "license": "https://github.com/baulk/unrar/blob/master/LICENSE",
-    "url64": "https://github.com/baulk/unrar/releases/download/6.11.1/unrar-6.11.1-win-x64.zip",
-    "url64.hash": "SHA256:07d001111ac4a79de6431e873da617c3ef4efd42836b4afafe97a977271c1aed",
-    "url": "https://github.com/baulk/unrar/releases/download/6.11.1/unrar-6.11.1-win-x86.zip",
-    "url.hash": "SHA256:4fdaafac1e15ed0fc55595e346a4058482d8a751b8bbfa80375349fc075d3be9",
-    "urlarm64": "https://github.com/baulk/unrar/releases/download/6.11.1/unrar-6.11.1-win-arm64.zip",
-    "urlarm64.hash": "SHA256:884c244355e3cc4cf9e0abcbc791908163780cc7b5d831e809688deafa779d9c",
+    "url64": "https://github.com/baulk/unrar/releases/download/v6.12.0/unrar-6.12.0-win-x64.zip",
+    "url64.hash": "SHA256:36b4b12c9c45f3d0e686752c53d48a4be3c8b8ee7bcc547620ee46d1d5282bf9",
+    "urlarm64": "https://github.com/baulk/unrar/releases/download/v6.12.0/unrar-6.12.0-win-arm64.zip",
+    "urlarm64.hash": "SHA256:fe14ab81f6bdaedaa0aafba0270edd38393f6b6900c5fa44f687b7ef607745ae",
     "extension": "zip",
     "links": [
         "bin/unrar.exe"
