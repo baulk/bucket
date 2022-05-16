@@ -10,7 +10,7 @@
         "category": "dlang",
         "path": "${BAULK_PKGROOT}\\windows\\bin",
         "env": [
-            "BAULK_DLANG_VERSION=2.097.0"
+            "BAULK_DLANG_VERSION=2.100.0"
         ]
     }
 }
