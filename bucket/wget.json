@@ -7,6 +7,6 @@
     "url64.hash": "SHA256:65a6a5c33f7f9a647d33ac10a5521bf5fb8930330daa140acb0fd129df84cdb2",
     "extension": "zip",
     "links": [
-        "wget.exe"
+        "wget2.exe@wget.exe"
     ]
 }
