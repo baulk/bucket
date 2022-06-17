@@ -1,10 +1,10 @@
 {
     "description": "Versatile, classic, complete name server software.",
-    "version": "9.16.27",
+    "version": "9.16.30",
     "homepage": "https://www.isc.org/bind/",
     "license": "MPL-2.0",
-    "url64": "https://downloads.isc.org/isc/bind9/9.16.27/BIND9.16.27.x64.zip",
-    "url64.hash": "SHA256:1f492301be3ed197f073a5f864f9b12753a8d8c2dfe29957a19e3bb8f3b8b38a",
+    "url64": "https://downloads.isc.org/isc/bind9/9.16.30/BIND9.16.30.x64.zip",
+    "url64.hash": "SHA256:163ba52a5a70476eb9d78f4d412630a79ee0838c2d4bf822561298842d25420b",
     "extension": "zip",
     "launchers": [
         "arpaname.exe",
