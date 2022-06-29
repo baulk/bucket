@@ -1,10 +1,10 @@
 {
     "description": "Execute commands in response to file modifications.",
-    "version": "1.19.0",
+    "version": "1.20.3",
     "homepage": "https://github.com/watchexec/watchexec",
     "license": "Apache-2.0",
-    "url64": "https://github.com/watchexec/watchexec/releases/download/cli-v1.19.0/watchexec-1.19.0-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "BLAKE3:2274106812d4971a77ad01be737a90c110f2c97c5f90ed256a0b916579a7f660",
+    "url64": "https://github.com/watchexec/watchexec/releases/download/cli-v1.20.3/watchexec-1.20.3-x86_64-pc-windows-msvc.zip",
+    "url64.hash": "SHA256:11ecd0f53b29abafa46f7ba5988a2bbead8e0a16ba95a638fda6ce110789128f",
     "extension": "zip",
     "links": [
         "watchexec.exe"
