@@ -1,10 +1,10 @@
 {
     "description": "HeidiSQL is free software, and has the aim to be easy to learn. \"Heidi\" lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite. Invented in 2002 by Ansgar, HeidiSQL belongs to the most popular tools for MariaDB and MySQL worldwide.",
-    "version": "12.0.0.6468",
+    "version": "12.1.0.6537",
     "homepage": "https://www.heidisql.com/",
     "license": "GPL-2.0",
-    "url64": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.0_64_Portable.zip",
-    "url64.hash": "SHA256:66b8aa63f71abd2fc4c21a11fe1ebde7a35872b35c026c854ca37315c204da9b",
+    "url64": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.1_64_Portable.zip",
+    "url64.hash": "SHA256:6ba271abd7430303470eeaa6859bccf09b0e494fbaa09d94282405c94590cd3d",
     "extension": "zip",
     "launchers": [
         "heidisql.exe"
