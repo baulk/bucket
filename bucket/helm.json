@@ -1,10 +1,10 @@
 {
     "description": "The package manager for Kubernetes",
-    "version": "3.9.3",
+    "version": "3.9.4",
     "homepage": "https://helm.sh/",
     "license": "Apache-2.0",
-    "url64": "https://get.helm.sh/helm-v3.9.3-windows-amd64.zip",
-    "url64.hash": "SHA256:cdd24727d233e620ce6e8ec21646a6218bde94cf3d5f24e9c4ae6a114939975d",
+    "url64": "https://get.helm.sh/helm-v3.9.4-windows-amd64.zip",
+    "url64.hash": "SHA256:7cdc1342bc1863b6d5ce695fbef4d3b0d65c7c5bcef6ec6adf8fc9aa53821262",
     "extension": "zip",
     "links": [
         "helm.exe"
