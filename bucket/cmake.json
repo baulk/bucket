@@ -4,9 +4,9 @@
     "homepage": "https://cmake.org/",
     "license": "BSD-3-Clause",
     "url64": "https://github.com/Kitware/CMake/releases/download/v3.24.1/cmake-3.24.1-windows-x86_64.zip",
-    "url64.hash": "SHA256:d94683f3b0e63f6ef194c621194f6e26f3735eda70750395e0f2bbee4023fb95",
+    "url64.hash": "SHA256:c1b17431a16337d517f7ba78c7067b6f143a12686cb8087f3dd32f3fa45f5aae",
     "urlarm64": "https://github.com/Kitware/CMake/releases/download/v3.24.1/cmake-3.24.1-windows-arm64.zip",
-    "urlarm64.hash": "SHA256:c1b17431a16337d517f7ba78c7067b6f143a12686cb8087f3dd32f3fa45f5aae",
+    "urlarm64.hash": "SHA256:d94683f3b0e63f6ef194c621194f6e26f3735eda70750395e0f2bbee4023fb95",
     "extension": "zip",
     "links": [
         "bin\\cmake.exe",
