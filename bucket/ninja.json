@@ -1,10 +1,10 @@
 {
     "description": "Ninja is a small build system with a focus on speed.",
-    "version": "1.11.0",
+    "version": "1.11.1",
     "homepage": "https://ninja-build.org/",
     "license": "Apache-2.0",
-    "url": "https://github.com/ninja-build/ninja/releases/download/v1.11.0/ninja-win.zip",
-    "url.hash": "d0ee3da143211aa447e750085876c9b9d7bcdd637ab5b2c5b41349c617f22f3b",
+    "url64": "https://github.com/ninja-build/ninja/releases/download/v1.11.1/ninja-win.zip",
+    "url64.hash": "524b344a1a9a55005eaf868d991e090ab8ce07fa109f1820d40e74642e289abc",
     "extension": "zip",
     "links": [
         "ninja.exe"
