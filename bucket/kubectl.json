@@ -1,10 +1,10 @@
 {
     "description": "The package manager for Kubernetes",
-    "version": "1.25.0",
+    "version": "1.25.1",
     "homepage": "https://github.com/kubernetes/kubectl",
     "license": "Apache-2.0",
-    "url64": "https://storage.googleapis.com/kubernetes-release/release/v1.25.0/kubernetes-client-windows-amd64.tar.gz",
-    "url64.hash": "SHA256:84e9f5ca39920309e11c1f32fc4b10f8200a1a723c5372d6065e6df5ba0829b2",
+    "url64": "https://storage.googleapis.com/kubernetes-release/release/v1.25.1/kubernetes-client-windows-amd64.tar.gz",
+    "url64.hash": "SHA256:01c0ed6d44d3be705db46322ab0e1a1294796e2d92aef1b2874be5a796620f4a",
     "extension": "tar",
     "links": [
         "bin/kubectl.exe"
