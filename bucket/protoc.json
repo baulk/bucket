@@ -4,7 +4,7 @@
     "homepage": "https://developers.google.com/protocol-buffers/",
     "license": "https://github.com/protocolbuffers/protobuf/blob/master/LICENSE",
     "url64": "https://github.com/protocolbuffers/protobuf/releases/download/v21.7/protoc-21.7-win64.zip",
-    "url64.hash": "SHA256:f14764a3af330dd0231da43b10340db46171a6f4af9667573fe370239d7ef751",
+    "url64.hash": "SHA256:954cc5dfdb1d95d4c448c40f274d3720c018f73187b0c19b3c4f9bacc48d1ff0",
     "extension": "zip",
     "launchers": [
         "bin\\protoc.exe"
