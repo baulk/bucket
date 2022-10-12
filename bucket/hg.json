@@ -1,10 +1,10 @@
 {
     "description": "Mercurial is a free, distributed source control management tool.",
-    "version": "6.2.1",
+    "version": "6.2.2",
     "homepage": "https://www.mercurial-scm.org/",
     "license": "GPL-2.0",
-    "url64": "https://www.mercurial-scm.org/release/windows/mercurial-6.2.1-x64.msi",
-    "url64.hash": "SHA256:6942bf608186ef363a2ee8eb9b286ac9c948da345d22cead3f35bfdd7f54af50",
+    "url64": "https://www.mercurial-scm.org/release/windows/mercurial-6.2.2-x64.msi",
+    "url64.hash": "SHA256:6f13017dc4c348ef1c0b5a668de42bdcf02cc7d8f63ae0dd63f0a2c055f8b4de",
     "extension": "msi",
     "launchers": [
         "hg.exe"
