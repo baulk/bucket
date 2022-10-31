@@ -1,12 +1,12 @@
 {
     "description": "BelaUtils - Tools reimplemented using Bela library",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "homepage": "https://github.com/fcharlie/BelaUtils",
     "license": "Apache-2.0",
-    "url64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.1/BelaUtils-2.0.1-win-x64.zip",
-    "url64.hash": "SHA256:a71f7e35bb2d1822565bf44ad5a0c968e35732bef33299541fdc2e28e45feec7",
-    "urlarm64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.1/BelaUtils-2.0.1-win-arm64.zip",
-    "urlarm64.hash": "SHA256:8fb71d6781ddbb2491198e43853c35982e93111432e3209799f3f70ecc2c4589",
+    "url64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.2/BelaUtils-2.0.2-win-x64.zip",
+    "url64.hash": "SHA256:c292523805f23f8e4474b614c18d97a71ad100ecf8806f9ec0a61ce0d0402490",
+    "urlarm64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.2/BelaUtils-2.0.2-win-arm64.zip",
+    "urlarm64.hash": "SHA256:8bc6a65bf5402de0cc1b2e6932c432db5228b3d2f3a01721d93c426fb89ed8db",
     "extension": "zip",
     "links": [
         "bin/bona.exe",
