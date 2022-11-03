@@ -1,10 +1,10 @@
 {
     "description": "A simple, fast and user-friendly alternative to 'find'",
-    "version": "8.5.0",
+    "version": "8.5.1",
     "homepage": "https://github.com/sharkdp/fd",
     "license": "Apache-2.0",
-    "url64": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:3d757f32f1aa92bbb774d24861c65c28a523514081a0a94980471bce1233bf1d",
+    "url64": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.0-x86_64-pc-windows-msvc.zip",
+    "url64.hash": "SHA256:9e975832194ac548182e0d3e3bac3faf828f024253d583b7527f7691c284f271",
     "extension": "zip",
     "links": [
         "fd.exe"
