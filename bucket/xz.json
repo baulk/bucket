@@ -1,10 +1,10 @@
 {
     "description": "XZ Utils is free general-purpose data compression software with a high compression ratio.",
-    "version": "5.2.8",
+    "version": "5.2.9",
     "homepage": "https://tukaani.org/xz/",
     "license": "Public Domain",
-    "url": "https://tukaani.org/xz/xz-5.2.8-windows.zip",
-    "url.hash": "SHA256:f4c1eb727301b9a2acb1ae065562ad0beb7a6512639f8088af1afefcbbcc6260",
+    "url": "https://tukaani.org/xz/xz-5.2.9-windows.zip",
+    "url.hash": "SHA256:62ac7ba1e223616b365bd7bf1f2231b1c7e0aad111d53e675bef77ef1ac65c43",
     "extension": "zip",
     "launchers": [
         "bin_i686\\lzmadec.exe",
