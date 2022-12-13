@@ -1,10 +1,10 @@
 {
     "description": "Git is a modern distributed version control system focused on speed",
-    "version": "2.38.1",
+    "version": "2.39.0",
     "homepage": "https://git-scm.com/",
     "license": "GPL-2.0",
-    "url64": "https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/MinGit-2.38.1-busybox-64-bit.zip",
-    "url64.hash": "SHA256:8a0c3c3a5c63f182ef52e6736187998aa4751e09e828750dfe4d4854a27172fc",
+    "url64": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-busybox-64-bit.zip",
+    "url64.hash": "SHA256:a5d177bceeddfecc97c2340f0c8bc97d55ba113c4cd5b6b7d58e513dccb3d74f",
     "extension": "zip",
     "links": [
         "cmd\\git.exe"
