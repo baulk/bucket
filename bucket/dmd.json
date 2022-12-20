@@ -1,6 +1,6 @@
 {
     "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax",
-    "version": "2.101.0",
+    "version": "2.101.1",
     "homepage": "https://dlang.org/",
     "license": "BSL-1.0",
     "url": "https://downloads.dlang.org/releases/2022/dmd.2.101.1.windows.7z",
