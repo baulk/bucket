@@ -1,10 +1,10 @@
 {
     "description": "Neovim - Vim-fork focused on extensibility and usability",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "homepage": "https://neovim.io/",
     "license": "Apache-2.0",
-    "url64": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim-win64.zip",
-    "url64.hash": "SHA256:e2d53c6fd4a3caefbff47765d63d1640a5a134de46623ed8e3f9bf547791c26f",
+    "url64": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim-win64.zip",
+    "url64.hash": "SHA256:492a09f53663098a2fd6740821f683110b5688c162c21751e3667202383531a6",
     "force_delete": [
         "${LOCALAPPDATA}\\nvim",
         "${LOCALAPPDATA}\\nvim-data"
