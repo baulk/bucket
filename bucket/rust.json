@@ -1,12 +1,12 @@
 {
     "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
-    "version": "1.67.1",
+    "version": "1.68.0",
     "homepage": "https://www.rust-lang.org/",
     "license": "MIT,Apache-2.0",
-    "url64": "https://static.rust-lang.org/dist/rust-1.67.1-x86_64-pc-windows-msvc.msi",
-    "url64.hash": "SHA256:00ddcdff08226ac36049951b4aaac0d036a337e415acbbe8ef76d1b57bb567b2",
-    "urlarm64": "https://static.rust-lang.org/dist/rust-1.67.1-aarch64-pc-windows-msvc.msi",
-    "urlarm64.hash": "SHA256:5c85a3afa131271034097b6f7e716f0a92c1a2af474f88d8b69e11fc285d141d",
+    "url64": "https://static.rust-lang.org/dist/rust-1.68.0-x86_64-pc-windows-msvc.msi",
+    "url64.hash": "SHA256:68c24484c79cde83d3197ffdf03657d16590385536e45cefa63e60e274de0bb1",
+    "urlarm64": "https://static.rust-lang.org/dist/rust-1.68.0-aarch64-pc-windows-msvc.msi",
+    "urlarm64.hash": "SHA256:fe36582f07899363a96ff1db926e8a6076b6a3039498988f54bce80da7b50d01",
     "extension": "msi",
     "force_delete": [
         "${BAULK_VFS}\\.cargo"
@@ -18,7 +18,8 @@
             "${BAULK_VFS}\\.cargo\\bin"
         ],
         "env": [
-            "CARGO_HOME=${BAULK_VFS}\\.cargo"
+            "CARGO_HOME=${BAULK_VFS}\\.cargo",
+            "CARGO_REGISTRIES_CRATES_IO_PROTOCOL=sparse"
         ]
     }
 }
