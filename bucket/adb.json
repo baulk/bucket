@@ -1,10 +1,10 @@
 {
     "description": "Android Debug Bridge.",
-    "version": "34.0.0",
+    "version": "34.0.1",
     "homepage": "https://developer.android.com/studio/command-line/adb",
     "license": "Apache-2.0",
-    "url64": "https://dl.google.com/android/repository/platform-tools_r34.0.0-windows.zip",
-    "url64.hash": "SHA256:ae647ea7243f32e1735b8c52201c48a426cd756b65eaa15f47063c3579191001",
+    "url64": "https://dl.google.com/android/repository/platform-tools_r34.0.1-windows.zip",
+    "url64.hash": "SHA256:5dd9c2be744c224fa3a7cbe30ba02d2cb378c763bd0f797a7e47e9f3156a5daa",
     "extension": "zip",
     "launchers": [
         "adb.exe"
