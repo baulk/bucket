@@ -1,10 +1,10 @@
 {
     "description": "LDC is LLVM based D-language compiler",
-    "version": "1.31.0",
+    "version": "1.32.0",
     "homepage": "https://github.com/ldc-developers/ldc",
     "license": "BSD-3-Clause",
-    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.31.0/ldc2-1.31.0-windows-x64.7z",
-    "url64.hash": "SHA256:af77c7c6d3740f66f7a878c5a335d7082433544c0bca1fa3c9d694b9e3b2a930",
+    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.32.0/ldc2-1.32.0-windows-x64.7z",
+    "url64.hash": "SHA256:936684f7c41f6455406f636d74095875de0f246c3be5d35cad636fdf4136102e",
     "extension": "7z",
     "venv": {
         "category": "dlang",
