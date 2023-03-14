@@ -1,5 +1,8 @@
 # Baulk default bucket
 
+[![Repository status](https://repology.org/badge/repository-big/baulk.svg)](https://repology.org/repository/baulk)
+
+
 Baulk default bucket.
 
 
