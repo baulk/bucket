@@ -3,7 +3,7 @@
     "version": "2.17.0-rc1",
     "homepage": "https://www.nasm.us",
     "license": "BSD-2-Clause",
-    "url64": "https://www.nasm.us/pub/nasm/snapshots/latest/win64/nasm-2.17rc0-20230220-win64.zip",
+    "url64": "https://www.nasm.us/pub/nasm/snapshots/20230220/win64/nasm-2.17rc0-20230220-win64.zip",
     "url64.hash": "SHA256:dacae34ac6f2d38bfede62555c2d6acfe15bb5f43dfb57089f2237da702d327a",
     "extension": "zip",
     "launchers": [
