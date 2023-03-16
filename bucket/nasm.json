@@ -1,10 +1,10 @@
 {
     "description": "NASM - The Netwide Assembler",
-    "version": "2.16.01",
+    "version": "2.17.0-rc1",
     "homepage": "https://www.nasm.us",
     "license": "BSD-2-Clause",
-    "url64": "https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/win64/nasm-2.16.01-win64.zip",
-    "url64.hash": "SHA256:029eed31faf0d2c5f95783294432cbea6c15bf633430f254bb3c1f195c67ca3a",
+    "url64": "https://www.nasm.us/pub/nasm/snapshots/latest/win64/nasm-2.17rc0-20230220-win64.zip",
+    "url64.hash": "SHA256:dacae34ac6f2d38bfede62555c2d6acfe15bb5f43dfb57089f2237da702d327a",
     "extension": "zip",
     "launchers": [
         "nasm.exe",
