@@ -1,10 +1,10 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK",
-    "version": "19.0.0",
+    "version": "20.0.0",
     "homepage": "https://openjdk.java.net/",
     "license": "GPL-2.0",
-    "url64": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_windows-x64_bin.zip",
-    "url64.hash": "SHA256:8fabcee7c4e8d3b53486777ecd27bb906d67d7c1efd1bf22a8290cf659afa487",
+    "url64": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_windows-x64_bin.zip",
+    "url64.hash": "SHA256:c92fae5e42b9aecf444a66c8ec563c652f60b1e231dfdd33a4f5a3e3603058fb",
     "extension": "zip",
     "venv": {
         "category": "java",
