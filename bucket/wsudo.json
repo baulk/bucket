@@ -1,12 +1,12 @@
 {
     "description": "Run the program with the specified permission level.",
-    "version": "5.0.3",
+    "version": "5.0.4",
     "homepage": "https://github.com/M2Team/Privexec/",
     "license": "MIT",
-    "url64": "https://github.com/M2Team/Privexec/releases/download/5.0.3/Privexec-5.0.3-win-x64.zip",
-    "url64.hash": "SHA256:a0571f7e6b6b1adb49fd3e64b32a83d42d01dbae5955e2d2c58ca4209d1688d8",
-    "urlarm64": "https://github.com/M2Team/Privexec/releases/download/5.0.3/Privexec-5.0.3-win-arm64.zip",
-    "urlarm64.hash": "SHA256:a7214f707b60152de26722393f148c861a2e05f085661de03639e6e6d0a0fbab",
+    "url64": "https://github.com/M2Team/Privexec/releases/download/5.0.4/Privexec-5.0.4-win-x64.zip",
+    "url64.hash": "SHA256:cbcbff86fd3a0ba4216d392de1e03003bc05d0a8d89ff6c538971ed059c84906",
+    "urlarm64": "https://github.com/M2Team/Privexec/releases/download/5.0.4/Privexec-5.0.4-win-arm64.zip",
+    "urlarm64.hash": "SHA256:3c3968d294099713e8f702aabbf8b1176efa7b425f16d1b76fe7f6dee124301b",
     "extension": "zip",
     "links": [
         "AppExec.exe",
