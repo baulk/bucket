@@ -5,6 +5,8 @@
     "license": "MIT",
     "url64": "https://github.com/nushell/nushell/releases/download/0.81.0/nu-0.81.0-x86_64-pc-windows-msvc.zip",
     "url64.hash": "SHA256:bbf7e0245980828bbf0fce2049a70948259e7cb2e1a4322b58c04e5bb6e91e55",
+    "urlarm64": "https://github.com/nushell/nushell/releases/download/0.81.0/nu-0.81.0-aarch64-pc-windows-msvc.zip",
+    "urlarm64.hash": "SHA256:49cb95f6bd3ca378e0519dd12bb3e3d0791b3b8a430b88f5e97480562f2365fa",
     "extension": "zip",
     "force_delete": [
         "${APPDATA}\\nushell",
