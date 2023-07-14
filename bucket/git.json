@@ -4,7 +4,7 @@
     "homepage": "https://git-scm.com/",
     "license": "GPL-2.0",
     "url64": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/MinGit-2.41.0.3-busybox-64-bit.zip",
-    "url64.hash": "SHA256:8ab102ceba7a62cef25c55564a1b519039885e3de9c57ec9b2ec8d99918ad297",
+    "url64.hash": "SHA256:5234d856484b5b945a47b28753ef8df3985df37d04d13acc6bb442187915993e",
     "extension": "zip",
     "links": [
         "cmd\\git.exe"
