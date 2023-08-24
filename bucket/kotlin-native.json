@@ -1,10 +1,10 @@
 {
     "description": "Kotlin/Native is an LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.",
-    "version": "1.9.0",
+    "version": "1.9.10",
     "homepage": "https://github.com/JetBrains/kotlin",
     "license": "Apache-2.0",
-    "url64": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0/kotlin-native-windows-x86_64-1.9.0.zip",
-    "url64.hash": "SHA256:989cb5cb28da87ad0ae2a9469dbbce227165014217ec472eeb78468045dcb766",
+    "url64": "https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-native-windows-x86_64-1.9.10.zip",
+    "url64.hash": "SHA256:a34d56661455e94e1ba4dd09ec3c1adac6148fdedcf55eefb9a79c8ed01ff02c",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\.konan"
