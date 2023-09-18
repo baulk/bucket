@@ -1,10 +1,10 @@
 {
     "description": "ILSpy is the open-source .NET assembly browser and decompiler.",
-    "version": "8.0.0.7345",
+    "version": "8.1.1.7464",
     "homepage": "https://github.com/icsharpcode/ILSpy",
     "license": "MIT",
-    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v8.0/ILSpy_selfcontained_x64_8.0.0.7345.zip",
-    "url.hash": "SHA256:f0438a5a586b19900ab245bc6a643396eab464ac958158ac434e72cf438946be",
+    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v8.1.1/ILSpy_selfcontained_8.1.1.7464-x64.zip",
+    "url.hash": "SHA256:5ed3ed662b11dcdacdb038db8fc4e63d602b74bb3aab6e31a112acb1988780a7",
     "extension": "zip",
     "launchers": [
         "ILSpy.exe"
