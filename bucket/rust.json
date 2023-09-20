@@ -1,12 +1,12 @@
 {
     "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
-    "version": "1.72.0",
+    "version": "1.72.1",
     "homepage": "https://www.rust-lang.org/",
     "license": "MIT,Apache-2.0",
-    "url64": "https://static.rust-lang.org/dist/rust-1.72.0-x86_64-pc-windows-msvc.msi",
-    "url64.hash": "SHA256:09161162397458d1ba0bb4bf61c58443d52d19cb6fa8077af03a86b198c57d99",
-    "urlarm64": "https://static.rust-lang.org/dist/rust-1.72.0-aarch64-pc-windows-msvc.msi",
-    "urlarm64.hash": "SHA256:31d8d2a3be10b075336c46f5c88fb77a9303407e7cb142827a8b712075b0083e",
+    "url64": "https://static.rust-lang.org/dist/rust-1.72.1-x86_64-pc-windows-msvc.msi",
+    "url64.hash": "SHA256:572040d1744b9708b47906baf2518fe5dee47e30d8fd33f3d82f16aeb8a8269a",
+    "urlarm64": "https://static.rust-lang.org/dist/rust-1.72.1-aarch64-pc-windows-msvc.msi",
+    "urlarm64.hash": "SHA256:df538323c87cea7a8ca632950891abf0bb728f32f20d0759881ac351b00285f8",
     "extension": "msi",
     "force_delete": [
         "${BAULK_VFS}\\.cargo"
