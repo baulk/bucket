@@ -1,12 +1,12 @@
 {
     "description": "A modern shell written in Rust",
-    "version": "0.84.0",
+    "version": "0.85.0",
     "homepage": "https://www.nushell.sh/",
     "license": "MIT",
-    "url64": "https://github.com/nushell/nushell/releases/download/0.84.0/nu-0.84.0-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:e738af6d8fb9e29dc43417ed6645bc2b774c5c2dda8d24ace5565eb030f79903",
-    "urlarm64": "https://github.com/nushell/nushell/releases/download/0.84.0/nu-0.84.0-aarch64-pc-windows-msvc.zip",
-    "urlarm64.hash": "SHA256:31652f6fdb61addc506444ee8d03f50ef8074c91308184fe453b59a5c8d3b63e",
+    "url64": "https://github.com/nushell/nushell/releases/download/0.85.0/nu-0.85.0-x86_64-pc-windows-msvc.zip",
+    "url64.hash": "SHA256:737f0906a2033d381999bb31a89678d33999d9dbf5c703354252a80a64f5d9ca",
+    "urlarm64": "https://github.com/nushell/nushell/releases/download/0.85.0/nu-0.85.0-aarch64-pc-windows-msvc.zip",
+    "urlarm64.hash": "SHA256:cb94c33f389261e6ac6aec2ffed15a9228ebbc4b6dc670cffc47b22cb03a8263",
     "extension": "zip",
     "force_delete": [
         "${APPDATA}\\nushell",
