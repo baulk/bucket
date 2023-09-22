@@ -3,8 +3,8 @@
     "version": "8.1.1.7464",
     "homepage": "https://github.com/icsharpcode/ILSpy",
     "license": "MIT",
-    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v8.1.1/ILSpy_selfcontained_8.1.1.7464-x64.zip",
-    "url.hash": "SHA256:5ed3ed662b11dcdacdb038db8fc4e63d602b74bb3aab6e31a112acb1988780a7",
+    "url64": "https://github.com/icsharpcode/ILSpy/releases/download/v8.1.1/ILSpy_selfcontained_8.1.1.7464-x64.zip",
+    "url64.hash": "SHA256:5ed3ed662b11dcdacdb038db8fc4e63d602b74bb3aab6e31a112acb1988780a7",
     "extension": "zip",
     "launchers": [
         "ILSpy.exe"
