@@ -1,12 +1,12 @@
 {
     "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software",
-    "version": "3.27.6",
+    "version": "3.27.7",
     "homepage": "https://cmake.org/",
     "license": "BSD-3-Clause",
-    "url64": "https://github.com/Kitware/CMake/releases/download/v3.27.6/cmake-3.27.6-windows-x86_64.zip",
-    "url64.hash": "SHA256:f013a0cca091aa953f9a60a99292ec7a20ae3f9ceb05cb5c08ebe164097c526f",
-    "urlarm64": "https://github.com/Kitware/CMake/releases/download/v3.27.6/cmake-3.27.6-windows-arm64.zip",
-    "urlarm64.hash": "SHA256:980b7e532d77bfb4e5814c76403242c503019f1c0699440220cf2d527c8ff350",
+    "url64": "https://github.com/Kitware/CMake/releases/download/v3.27.7/cmake-3.27.7-windows-x86_64.zip",
+    "url64.hash": "SHA256:5588e50030cda3e6fa96724444d8539916ac808d78d608cda6ae6ff7c4c4c9c8",
+    "urlarm64": "https://github.com/Kitware/CMake/releases/download/v3.27.7/cmake-3.27.7-windows-arm64.zip",
+    "urlarm64.hash": "SHA256:d9b19fd6830510022156621042759af2374111dc4f431b58c8828a17a68633dc",
     "extension": "zip",
     "links": [
         "bin\\cmake.exe",
