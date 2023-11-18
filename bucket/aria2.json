@@ -1,12 +1,10 @@
 {
     "description": "The ultra fast download utility",
-    "version": "1.36.0",
+    "version": "1.37.0",
     "homepage": "https://aria2.github.io/",
     "license": "GPL-2.0",
-    "url64": "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip",
-    "url46.hash": "SHA256:c82df5415125b438d72443923fea7f5f9fda1f326d0dbfac6aab16d58dbb7bf0",
-    "url": "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-32bit-build1.zip",
-    "url.hash": "SHA256:c35a1bfa06726914006888929c6ce147e50b1d9fca8d1dc89bcd2c926f8c16de",
+    "url64": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip",
+    "url46.hash": "SHA256:67d015301eef0b612191212d564c5bb0a14b5b9c4796b76454276a4d28d9b288",
     "extension": "zip",
     "links": [
         "aria2c.exe"
