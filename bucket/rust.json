@@ -3,10 +3,10 @@
     "version": "1.73.0",
     "homepage": "https://www.rust-lang.org/",
     "license": "MIT,Apache-2.0",
-    "url64": "https://static.rust-lang.org/dist/rust-1.73.0-x86_64-pc-windows-msvc.msi",
-    "url64.hash": "SHA256:f09ad46b79fb92e778755d2c6a5e9d2cb69f61b4bc13f8f8e75ac96279e4dfbe",
-    "urlarm64": "https://static.rust-lang.org/dist/rust-1.73.0-aarch64-pc-windows-msvc.msi",
-    "urlarm64.hash": "SHA256:3833b86594603e505723e22aacf958841fac175e1de498e2a73275040803a4bc",
+    "url64": "https://static.rust-lang.org/dist/rust-1.74.0-x86_64-pc-windows-msvc.msi",
+    "url64.hash": "SHA256:eb090e22d8471813b2ba665dd20acbe4e3d3907ef9bc64ee9a66dd8700b01bc1",
+    "urlarm64": "https://static.rust-lang.org/dist/rust-1.74.0-aarch64-pc-windows-msvc.msi",
+    "urlarm64.hash": "SHA256:fe5c4eb2cc370cdd64e588f8898080fcd9c7bdcad20e467f12e0c6023776d54c",
     "extension": "msi",
     "force_delete": [
         "${BAULK_VFS}\\.cargo"
