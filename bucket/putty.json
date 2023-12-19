@@ -1,12 +1,12 @@
 {
     "description": "PuTTY: a free SSH and Telnet client.",
-    "version": "0.79",
+    "version": "0.80",
     "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
     "license": "MIT",
-    "url64": "https://the.earth.li/~sgtatham/putty/0.79/w64/putty.zip",
-    "url64.hash": "SHA256:a8793da2e14481703af58a0ba56d0db0b326c630226cd8bbc0d3dc7f14829b4b",
-    "urlarm64": "https://the.earth.li/~sgtatham/putty/0.79/wa64/putty.zip",
-    "urlarm64.hash": "SHA256:4099ef0900f5b00c71cb2f8661fff73f725616a5232540c966bf53b6899f3695",
+    "url64": "https://the.earth.li/~sgtatham/putty/0.80/w64/putty.zip",
+    "url64.hash": "SHA256:8201a7391c3439e6303bcb84fc4cf5ce5763afb8ca1858d4b424cadc133509b2",
+    "urlarm64": "https://the.earth.li/~sgtatham/putty/0.80/wa64/putty.zip",
+    "urlarm64.hash": "SHA256:9631c694a8f7bb974b04c71944783299811d496a3ad6984f45d26d3a3e11edf5",
     "extension": "zip",
     "links": [
         "putty.exe",
