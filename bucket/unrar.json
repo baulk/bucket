@@ -1,12 +1,12 @@
 {
     "description": "Decompress RAR files.",
-    "version": "7.0.4",
+    "version": "7.0.5",
     "homepage": "https://www.rarlab.com/",
     "license": "https://github.com/baulk/unrar/blob/master/LICENSE",
-    "url64": "https://github.com/baulk/unrar/releases/download/v7.0.4/unrar-7.0.4-win-x64.zip",
-    "url64.hash": "SHA256:f2d6abc25fbb3a9edad14661f1627d193031fa54da70e3da89ec089cae483a6f",
-    "urlarm64": "https://github.com/baulk/unrar/releases/download/v7.0.4/unrar-7.0.4-win-arm64.zip",
-    "urlarm64.hash": "SHA256:e6b70fb958137c200b8fc64e9adcd2b2ddc36c1f19c2e60a9c17d75cffdeca53",
+    "url64": "https://github.com/baulk/unrar/releases/download/v7.0.5/unrar-7.0.5-win-x64.zip",
+    "url64.hash": "SHA256:f70883ef7fea4038131a053b6ce8abe2b7276f8eac3ce430569235c162faf0ee",
+    "urlarm64": "https://github.com/baulk/unrar/releases/download/v7.0.5/unrar-7.0.5-win-arm64.zip",
+    "urlarm64.hash": "SHA256:7f4d8e1dbe82b6925113820ea1d7d5290dae0195d7a324f793fa3d573d0883ee",
     "extension": "zip",
     "links": [
         "bin/unrar.exe"
