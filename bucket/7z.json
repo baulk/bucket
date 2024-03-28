@@ -1,12 +1,12 @@
 {
     "description": "7-Zip is a file archiver with a high compression ratio",
-    "version": "23.01",
+    "version": "24.03",
     "homepage": "https://www.7-zip.org/",
     "license": "Freeware,LGPL-2.0-only,BSD-3-Clause",
-    "url64": "https://7-zip.org/a/7z2301-x64.exe",
-    "url64.hash": "SHA256:26cb6e9f56333682122fafe79dbcdfd51e9f47cc7217dccd29ac6fc33b5598cd",
-    "urlarm64": "https://7-zip.org/a/7z2301-arm64.exe",
-    "urlarm64.hash": "SHA256:6fa4cb35cbebb0a46b8bbc22d1686a340e183c1f875d8b714efdc39af93debda",
+    "url64": "https://7-zip.org/a/7z2403-x64.exe",
+    "url64.hash": "SHA256:b5a51af9a620e1f6ce5b046832396ecb4370dc58068853373aa4633f46414947",
+    "urlarm64": "https://7-zip.org/a/7z2403-arm64.exe",
+    "urlarm64.hash": "SHA256:ae0feae9d55aa2b919892b22b3dff837d15dbd94378717a024cc46032fd29a58",
     "extension": "7z",
     "launchers": [
         "7z.exe"
