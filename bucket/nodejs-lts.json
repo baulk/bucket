@@ -1,12 +1,12 @@
 {
     "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. (LTS)",
-    "version": "20.12.1",
+    "version": "20.12.2",
     "homepage": "https://nodejs.org",
     "license": "MIT",
-    "url64": "https://nodejs.org/dist/v20.12.1/node-v20.12.1-win-x64.zip",
-    "url64.hash": "SHA256:629e2619ef88c5a8ce9944201f00ca3124f079c43ceef7ab0826c6fd19e09d75",
-    "urlarm64": "https://nodejs.org/dist/v20.12.1/node-v20.12.1-win-arm64.zip",
-    "urlarm64.hash": "SHA256:70a8d7a444ffd87f2d06477ccb20c58d8791caaf7be4a1eddf5a9578c81b8028",
+    "url64": "https://nodejs.org/dist/v20.12.2/node-v20.12.2-win-x64.zip",
+    "url64.hash": "SHA256:66dda1717cae30a13be6bb17ad96ee54b69f2c23c85acd9c3299b095fa26b452",
+    "urlarm64": "https://nodejs.org/dist/v20.12.2/node-v20.12.2-win-arm64.zip",
+    "urlarm64.hash": "SHA256:010d488af3adad98e44b2d3f61afb7e3d87b5a620f7a406fe75ab0909b72e7ca",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\.npm-lts"
