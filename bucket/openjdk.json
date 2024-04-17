@@ -1,10 +1,10 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK",
-    "version": "22.0.0",
+    "version": "22.0.1",
     "homepage": "https://openjdk.java.net/",
     "license": "GPL-2.0",
-    "url64": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/36/GPL/openjdk-22_windows-x64_bin.zip",
-    "url64.hash": "SHA256:8f5138fecb53c08c20abd4fa6812f9400051f3852582a2142ffda0dff73a5824",
+    "url64": "https://download.java.net/java/GA/jdk22.0.1/c7ec1332f7bb44aeba2eb341ae18aca4/8/GPL/openjdk-22.0.1_windows-x64_bin.zip",
+    "url64.hash": "SHA256:de7f00fd1bd0d3a4c678fff2681dfad19284d74d357218a4be6f623488d040da",
     "extension": "zip",
     "venv": {
         "category": "java",
