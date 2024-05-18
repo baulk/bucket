@@ -12,7 +12,6 @@
     "extension": "zip",
     "launchers": [
         "bin\\nvim.exe",
-        "bin\\nvim-qt.exe",
         "bin\\xxd.exe"
     ]
 }
