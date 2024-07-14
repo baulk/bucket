@@ -1,12 +1,12 @@
 {
     "description": "A terminal pager program used to view (but not change) the contents of a text file one screen at a time, similar to the 'more' command.",
-    "version": "658",
+    "version": "661",
     "homepage": "https://www.greenwoodsoftware.com/less/",
     "license": "GPL-3.0-only|BSD-3-Clause",
-    "url64": "https://github.com/baulk/less-windows/releases/download/v658/less-658-x64.zip",
-    "url64.hash": "SHA256:70e6b91ab1d1de04906d8476002b46f08a9b5d4d51548f9c35109d9bc8d2bf9b",
-    "urlarm64": "https://github.com/baulk/less-windows/releases/download/v658/less-658-arm64.zip",
-    "urlarm64.hash": "SHA256:b341a32c38697f8e4eca2e81ff8720f58de5a601a24cc5af5983651162e73fea",
+    "url64": "https://github.com/baulk/less-windows/releases/download/v661/less-661-x64.zip",
+    "url64.hash": "SHA256:dd8da633178a3e6b82135d8f858a10238ee41b35db38b2f044f935e61382cdf6",
+    "urlarm64": "https://github.com/baulk/less-windows/releases/download/v661/less-661-arm64.zip",
+    "urlarm64.hash": "SHA256:103aa4abe578adfa61986878538b726e8db27cea9241d2150931b41475e5a5df",
     "extension": "zip",
     "links": [
         "less.exe",
