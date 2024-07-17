@@ -1,12 +1,12 @@
 {
     "description": "Microsoft Build of OpenJDK™",
-    "version": "21.0.0",
+    "version": "21.0.3",
     "homepage": "https://www.microsoft.com/openjdk",
     "license": "GPL-2.0",
-    "url64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-windows-x64.zip",
-    "url64.hash": "SHA256:0b511c92fc81e061ffbd01c2e89a268cfde586be408021c2cc107eb959b09e4b",
-    "urlarm64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-windows-aarch64.zip",
-    "urlarm64.hash": "SHA256:975603e684f2ec5a525b3b5336d6aa0b09b5b7d2d0d9e271bd6a9892ad550181",
+    "url64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-x64.zip",
+    "url64.hash": "SHA256:d1c5a1c674bf472838c4d63c46c2e23a8efd399362e40abebd4eee4988bc2130",
+    "urlarm64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-aarch64.zip",
+    "urlarm64.hash": "SHA256:4c57bd9bc1a910f57bf495830c9e6c171c136a74392b9f462f2ddb168b65c019",
     "extension": "zip",
     "venv": {
         "category": "java",
