@@ -1,12 +1,12 @@
 {
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "version": "1.23.0",
+    "version": "1.23.1",
     "homepage": "https://golang.org/",
     "license": "BSD",
-    "url64": "https://go.dev/dl/go1.23.0.windows-amd64.zip",
-    "url64.hash": "SHA256:d4be481ef73079ee0ad46081d278923aa3fd78db1b3cf147172592f73e14c1ac",
-    "urlarm64": "https://go.dev/dl/go1.23.0.windows-arm64.zip",
-    "urlarm64.hash": "SHA256:0be62073ef8f5a2d3b9adcefddf18c417dab0a7975c71488ac2694856e2ff976",
+    "url64": "https://go.dev/dl/go1.23.1.windows-amd64.zip",
+    "url64.hash": "SHA256:32dedf277c86610e380e1765593edb66876f00223df71690bd6be68ee17675c0",
+    "urlarm64": "https://go.dev/dl/go1.23.1.windows-arm64.zip",
+    "urlarm64.hash": "SHA256:64ad0954d2c33f556fb1018d62de091254aa6e3a94f1c8a8b16af0d3701d194e",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\go",
