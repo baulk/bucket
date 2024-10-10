@@ -1,10 +1,10 @@
 {
     "description": "NuGet is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. ",
-    "version": "6.11.0",
+    "version": "6.11.1",
     "homepage": "https://nuget.org/",
     "license": "Apache-2.0",
-    "url": "https://dist.nuget.org/win-x86-commandline/v6.11.0/NuGet.exe",
-    "url.hash": "SHA256:133b9c1efdc8d86bdccae9e296c9e4bc45a6d6472368611aa96b51b3e75fd2e3",
+    "url": "https://dist.nuget.org/win-x86-commandline/v6.11.1/NuGet.exe",
+    "url.hash": "SHA256:c0ddc9cb0633c4607da7e8028eb4f91248c8b74e45a68b0c79fcfa7d78c2a481",
     "extension": "exe",
     "links": [
         "nuget.exe"
