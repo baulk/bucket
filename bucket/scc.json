@@ -1,12 +1,12 @@
 {
     "description": "Sloc Cloc and Code (scc).",
-    "version": "3.3.5",
+    "version": "3.4.0",
     "homepage": "https://github.com/boyter/scc/",
     "license": "MIT",
-    "url64": "https://github.com/boyter/scc/releases/download/v3.3.5/scc_Windows_x86_64.zip",
-    "url64.hash": "SHA256:62606a775199df5c7d7c93c29919c71918286d6ef57952946ad536dca6afc148",
-    "urlarm64": "https://github.com/boyter/scc/releases/download/v3.3.5/scc_Windows_arm64.zip",
-    "urlarm64.hash": "SHA256:1ec65ce6f17129aae6f745db33a9d0388576b9dc8c61470e5366d8c8286a72b1",
+    "url64": "https://github.com/boyter/scc/releases/download/v3.4.0/scc_Windows_x86_64.zip",
+    "url64.hash": "SHA256:95e050f110b340256248b156c818b8ec490b84f58871889ecf4f53c370c97c6c",
+    "urlarm64": "https://github.com/boyter/scc/releases/download/v3.4.0/scc_Windows_arm64.zip",
+    "urlarm64.hash": "SHA256:11bcb4cdff52afce7db972dc1c34ea99731af2ae1fc765b06925eaffc970a311",
     "extension": "zip",
     "links": [
         "scc.exe"
