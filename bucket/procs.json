@@ -1,5 +1,5 @@
 {
-    "description": "A modern replacement for ps(1)",
+    "description": "A modern replacement for ps written in Rust",
     "version": "0.14.7",
     "homepage": "https://github.com/dalance/procs",
     "license": "MIT",
