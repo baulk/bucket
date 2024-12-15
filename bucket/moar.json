@@ -4,7 +4,7 @@
     "homepage": "https://github.com/walles/moar",
     "license": "MIT",
     "url64": "https://github.com/walles/moar/releases/download/v1.30.0/moar-v1.30.0-windows-amd64.exe",
-    "url64.hash": "SHA256:b1d6c4b18f5fa238bd2c6e47caa65a7a3e4a1bd0de6df0b7c19c8083c941f57b",
+    "url64.hash": "SHA256:81d034fadd529e6848b8fe9ef8b46f4fb10576e437a4677261019706b765474d",
     "extension": "exe",
     "links": [
         "moar.exe"
