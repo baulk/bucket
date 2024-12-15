@@ -1,0 +1,29 @@
+{
+    "description": "Graphviz is open source graph visualization software.",
+    "version": "12.2.1",
+    "homepage": "https://graphviz.org/",
+    "license": "EPL-1.0",
+    "url64": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/12.2.1/windows_10_cmake_Release_Graphviz-12.2.1-win64.zip",
+    "url64.hash": "SHA256:82c34e6a73b8158bee357d1c51aac08925edc8f4a9f517f591fb8df989405ad4",
+    "extension": "zip",
+    "launchers": [
+        "bin\\acyclic.exe",
+        "bin\\bcomps.exe",
+        "bin\\ccomps.exe",
+        "bin\\dijkstra.exe",
+        "bin\\dot.exe",
+        "bin\\gc.exe",
+        "bin\\gml2gv.exe",
+        "bin\\graphml2gv.exe",
+        "bin\\gvcolor.exe",
+        "bin\\gvgen.exe",
+        "bin\\gvpack.exe",
+        "bin\\gvpr.exe",
+        "bin\\gxl2gv.exe",
+        "bin\\mm2gv.exe",
+        "bin\\nop.exe",
+        "bin\\sccmap.exe",
+        "bin\\tred.exe",
+        "bin\\unflatten.exe"
+    ]
+}
