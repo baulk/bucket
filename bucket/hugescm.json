@@ -1,12 +1,12 @@
 {
     "description": "HugeSCM - A next generation cloud-based version control system",
-    "version": "0.15.0",
+    "version": "0.15.1",
     "homepage": "https://github.com/antgroup/hugescm",
     "license": "Apache-2.0",
-    "url64": "https://github.com/antgroup/hugescm/releases/download/v0.15.0/zeta-0.15.0-windows-amd64.zip",
-    "url64.hash": "SHA256:bba7e45d817a148f81a81d85566b8fa54e91599a5f3427fb9643885093191dc9",
-    "urlarm64": "https://github.com/antgroup/hugescm/releases/download/v0.15.0/zeta-0.15.0-windows-amd64.zip",
-    "urlarm64.hash": "SHA256:6f653940b1e83a9cb0f63b404b28ea7184fe387f3a80b9b8b206d8d856a67e5b",
+    "url64": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
+    "url64.hash": "SHA256:d7791d4bfed1c093b807b9062403811eafc99fc1c8581e499a0812d6d4c92ab5",
+    "urlarm64": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
+    "urlarm64.hash": "SHA256:d021cceccb0cbccbe650c1434ce7c16409a2777e71f9e99b93541c1a066654d9",
     "extension": "zip",
     "links": [
         "bin\\zeta.exe",
