@@ -4,9 +4,9 @@
     "homepage": "https://nodejs.org",
     "license": "MIT",
     "url64": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-x64.zip",
-    "url64.hash": "SHA256:8e8f2035a72fdb27a93c4e2275e89201682d386b0026ce2b78a50f650602ff0c",
+    "url64.hash": "SHA256:9daeb5894273b820fb3bf2485aa433ff9653feb2c1a3daebd1a06b0e4fbe4309",
     "urlarm64": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-arm64.zip",
-    "urlarm64.hash": "SHA256:9daeb5894273b820fb3bf2485aa433ff9653feb2c1a3daebd1a06b0e4fbe4309",
+    "urlarm64.hash": "SHA256:e553f0841582570875b667aaa0bd9b94c37e558c909cab9505a85db23f3a7c65",
     "extension": "zip",
     "force_delete": [
         "${BAULK_VFS}\\.npm"
