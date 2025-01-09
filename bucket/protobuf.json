@@ -1,10 +1,10 @@
 {
     "description": "Protocol Buffer Compiler",
-    "version": "29.2",
+    "version": "29.3",
     "homepage": "https://developers.google.com/protocol-buffers/",
     "license": "https://github.com/protocolbuffers/protobuf/blob/master/LICENSE",
-    "url64": "https://github.com/google/protobuf/releases/download/v29.2/protoc-29.2-win64.zip",
-    "url64.hash": "SHA256:59ea61efb24b9d8a214171e2ca3fec55c3f1517eff067656c875d8a1cd06ce4f",
+    "url64": "https://github.com/google/protobuf/releases/download/v29.3/protoc-29.3-win64.zip",
+    "url64.hash": "SHA256:57ea59e9f551ad8d71ffaa9b5cfbe0ca1f4e720972a1db7ec2d12ab44bff9383",
     "extension": "zip",
     "launchers": [
         "bin\\protoc.exe"
