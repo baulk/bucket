@@ -1,12 +1,12 @@
 {
     "description": "Git is a modern distributed version control system focused on speed",
-    "version": "2.47.1",
+    "version": "2.47.1.2",
     "homepage": "https://git-scm.com/",
     "license": "GPL-2.0",
-    "url64": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/MinGit-2.47.1-64-bit.zip",
-    "url64.hash": "SHA256:50b04b55425b5c465d076cdb184f63a0cd0f86f6ec8bb4d5860114a713d2c29a",
-    "urlarm64": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/MinGit-2.47.1-arm64.zip",
-    "urlarm64.hash": "fc5747e187a70147404a94da104dc9f6005a3d45a78a56dbfa132075ad4a45e4",
+    "url64": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/MinGit-2.47.1.2-64-bit.zip",
+    "url64.hash": "SHA256:5bafb35dfb249b89d726b37824eeb5022379f0e51f5fbf9c29f49bef57e85b42",
+    "urlarm64": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/MinGit-2.47.1.2-arm64.zip",
+    "urlarm64.hash": "c74dd8e25b2337bbef059440966ba7bf96da4b4a8bc9bf9c759a2bc5a868da2b",
     "extension": "zip",
     "links": [
         "cmd\\git.exe"
