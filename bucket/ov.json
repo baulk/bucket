@@ -1,0 +1,18 @@
+{
+    "description": "Feature-rich terminal-based text viewer",
+    "version": "0.38.0",
+    "homepage": "https://noborus.github.io/ov",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/noborus/ov/releases/download/v0.38.0/ov_0.38.0_windows_amd64.zip",
+            "hash": "6af3a2f9e6f1fcc07fcdeb3a5e46cf16b3f7ebc340f451f7d8c8fbb9c67c289d"
+        },
+        "arm64": {
+            "url": "https://github.com/noborus/ov/releases/download/v0.38.0/ov_0.38.0_windows_arm64.zip",
+            "hash": "430474c15d1ee77832e259e2f899e35654dbd358c1799eb2116b2f4177f91461"
+        }
+    },
+    "extension": "zip",
+    "links": "ov.exe"
+}
