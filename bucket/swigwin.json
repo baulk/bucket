@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/swig/files/swigwin/swigwin-4.3.0/swigwin-4.3.0.zip/download",
+            "url": "http://prdownloads.sourceforge.net/swig/swigwin-4.3.0.zip",
             "hash": "SHA256:a6de6891a213ade0f993ec43d8737c3e13d9f4d6ce544a417407ade0eeb7976d"
         }
     },
