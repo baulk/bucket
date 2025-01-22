@@ -1,7 +1,7 @@
 {
     "description": "Simplified Wrapper and Interface Generator",
     "version": "4.3.0",
-    "homepage": "https://sourceforge.net/projects/swig/",
+    "homepage": "https://www.swig.org/download.html",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
