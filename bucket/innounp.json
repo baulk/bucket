@@ -1,10 +1,14 @@
 {
     "description": "Inno Setup Unpacker (Unicode)",
-    "version": "2.64",
+    "version": "2.64.1",
     "homepage": "https://www.rathlev-home.de/tools/prog-e.html#unpack",
     "license": "GPL",
-    "url": "https://www.rathlev-home.de/tools/download/innounp-2.zip",
-    "url.hash": "SHA256:4d7190c31e5d0d933a700063160eafd919d3a896ecb44b1deb6c13c9d687221e",
+    "architecture": {
+        "32bit": {
+            "url": "https://www.rathlev-home.de/tools/download/innounp-2.zip",
+            "hash": "SHA256:ab810b0ca774b683843fe674cdf945df9c33d56fbe1c6524422f1b748aafe4dd"
+        }
+    },
     "extension": "zip",
     "links": [
         "innounp.exe"
