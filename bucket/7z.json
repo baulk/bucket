@@ -9,6 +9,7 @@
             "hash": "SHA256:bdd1a33de78618d16ee4ce148b849932c05d0015491c34887846d431d29f308e"
         },
         "arm64": {
+            "url": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-arm64.exe",
             "hash": "SHA256:bc7b3a18f218f4916e1c4996751468f96e46eb7e97e91e8c1553d74793037f1a"
         }
     },
