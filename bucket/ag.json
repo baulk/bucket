@@ -3,10 +3,12 @@
     "version": "2.2.5",
     "homepage": "https://github.com/JFLarvoire/the_silver_searcher",
     "license": "Apache-2.0",
-    "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.5-Windows/ag-2021-11-14-2.2.5-x86.zip",
-    "url.hash": "SHA256:aee6e795f9c1bf2761318139cbb5ebeafdef99b9eadc82461e190af597860b7f",
-    "url64": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.5-Windows/ag-2021-11-14-2.2.5-amd64.zip",
-    "url64.hash": "SHA256:ecde6ebcbd2d33ab9f50cca0800db4bd2ba183bdb7832a9d0b5ad05a684de958",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.5-Windows/ag-2021-11-14-2.2.5-amd64.zip",
+            "uhash": "SHA256:ecde6ebcbd2d33ab9f50cca0800db4bd2ba183bdb7832a9d0b5ad05a684de958"
+        }
+    },
     "extension": "zip",
     "links": [
         "ag.exe"
