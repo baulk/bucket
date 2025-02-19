@@ -3,8 +3,12 @@
     "version": "5.9.8",
     "homepage": "https://www.radare.org/",
     "license": "LGPL-3.0",
-    "url64": "https://github.com/radareorg/radare2/releases/download/5.9.8/radare2-5.9.8-w64.zip",
-    "url64.hash": "SHA256:0f4fd96967ddf3747277e37bb93b23493b0cb875acdc8303ab7e285edbe178de",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/radareorg/radare2/releases/download/5.9.8/radare2-5.9.8-w64.zip",
+            "hash": "SHA256:0f4fd96967ddf3747277e37bb93b23493b0cb875acdc8303ab7e285edbe178de"
+        }
+    },
     "extension": "zip",
     "launchers": [
         "bin\\radare2.exe",
