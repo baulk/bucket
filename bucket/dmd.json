@@ -3,8 +3,12 @@
     "version": "2.109.1",
     "homepage": "https://dlang.org/",
     "license": "BSL-1.0",
-    "url": "https://downloads.dlang.org/releases/2.x/2.109.1/dmd.2.109.1.windows.7z",
-    "url.hash": "SHA256:2114a0ab4c463a248912ff2b078b653fc64f0660049ec5049b22703d77fe0b4b",
+    "architecture": {
+        "32bit": {
+            "url": "https://downloads.dlang.org/releases/2.x/2.109.1/dmd.2.109.1.windows.7z",
+            "hash": "SHA256:2114a0ab4c463a248912ff2b078b653fc64f0660049ec5049b22703d77fe0b4b"
+        }
+    },
     "extension": "7z",
     "venv": {
         "category": "dlang",
