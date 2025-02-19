@@ -14,5 +14,7 @@
         }
     },
     "extension": "zip",
-    "links": "ov.exe"
+    "links": [
+        "ov.exe"
+    ]
 }
