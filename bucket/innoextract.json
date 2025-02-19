@@ -3,8 +3,12 @@
     "version": "1.9.11",
     "homepage": "https://constexpr.org/innoextract/",
     "license": "Zlib",
-    "url": "https://constexpr.org/innoextract/files/innoextract-1.9/innoextract-1.9-windows.zip",
-    "url.hash": "SHA256:6989342c9b026a00a72a38f23b62a8e6a22cc5de69805cf47d68ac2fec993065",
+    "architecture": {
+        "32bit": {
+            "url": "https://constexpr.org/innoextract/files/innoextract-1.9/innoextract-1.9-windows.zip",
+            "hash": "SHA256:6989342c9b026a00a72a38f23b62a8e6a22cc5de69805cf47d68ac2fec993065"
+        }
+    },
     "extension": "zip",
     "links": [
         "innoextract.exe"
