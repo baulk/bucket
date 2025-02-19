@@ -18,7 +18,9 @@
         "dependencies": [
             "zulu"
         ],
-        "path": "${BAULK_PKGROOT}\\bin",
+        "path": [
+            "${BAULK_PKGROOT}\\bin"
+        ],
         "env": [
             "KONAN_DATA_DIR=${BAULK_VFS}\\.konan"
         ]
