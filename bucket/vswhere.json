@@ -3,8 +3,12 @@
     "version": "3.1.7",
     "homepage": "https://github.com/microsoft/vswhere/",
     "license": "MIT",
-    "url": "https://github.com/microsoft/vswhere/releases/download/3.1.7/vswhere.exe",
-    "url.hash": "SHA256:c54f3b7c9164ea9a0db8641e81ecdda80c2664ef5a47c4191406f848cc07c662",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/microsoft/vswhere/releases/download/3.1.7/vswhere.exe",
+            "hash": "SHA256:c54f3b7c9164ea9a0db8641e81ecdda80c2664ef5a47c4191406f848cc07c662"
+        }
+    },
     "extension": "exe",
     "links": [
         "vswhere.exe"
