@@ -3,19 +3,19 @@
     "version": "22.13.1",
     "homepage": "https://nodejs.org",
     "license": "MIT",
-    "url64": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x64.zip",
-    "url64.hash": "SHA256:398a61e250a5584a62a5959e2f69f5d597fc83f1a5ebe3ed8fff29ba39d55f14",
-    "urlarm64": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-arm64.zip",
-    "urlarm64.hash": "SHA256:db6d3d28e1b34acdbd9db7bac5ec37980e07e48a6a2edcd3747d605fc8a5468e",
+    "architecture": {
+        "64bit": {
+            "url": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x64.zip",
+            "hash": "SHA256:398a61e250a5584a62a5959e2f69f5d597fc83f1a5ebe3ed8fff29ba39d55f14"
+        },
+        "arm64": {
+            "url": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-arm64.zip",
+            "hash": "SHA256:db6d3d28e1b34acdbd9db7bac5ec37980e07e48a6a2edcd3747d605fc8a5468e"
+        }
+    },
     "extension": "zip",
-    "force_delete": [
-        "${BAULK_VFS}\\.npm-lts"
-    ],
     "venv": {
         "category": "node",
-        "mkdir": [
-            "${BAULK_VFS}\\.npm-lts"
-        ],
         "path": [
             "${BAULK_PKGROOT}",
             "${BAULK_VFS}\\.npm-lts"
@@ -23,5 +23,8 @@
         "env": [
             "NPM_CONFIG_PREFIX=${BAULK_VFS}\\.npm-lts"
         ]
-    }
+    },
+    "force_delete": [
+        "${BAULK_VFS}\\.npm-lts"
+    ]
 }
