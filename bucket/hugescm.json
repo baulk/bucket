@@ -3,10 +3,16 @@
     "version": "0.15.1",
     "homepage": "https://github.com/antgroup/hugescm",
     "license": "Apache-2.0",
-    "url64": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
-    "url64.hash": "SHA256:d7791d4bfed1c093b807b9062403811eafc99fc1c8581e499a0812d6d4c92ab5",
-    "urlarm64": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
-    "urlarm64.hash": "SHA256:d021cceccb0cbccbe650c1434ce7c16409a2777e71f9e99b93541c1a066654d9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
+            "hash": "SHA256:d7791d4bfed1c093b807b9062403811eafc99fc1c8581e499a0812d6d4c92ab5"
+        },
+        "arm64": {
+            "url": "https://github.com/antgroup/hugescm/releases/download/v0.15.1/zeta-0.15.1-windows-amd64.zip",
+            "hash": "SHA256:d021cceccb0cbccbe650c1434ce7c16409a2777e71f9e99b93541c1a066654d9"
+        }
+    },
     "extension": "zip",
     "links": [
         "bin\\zeta.exe",
