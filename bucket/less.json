@@ -3,10 +3,16 @@
     "version": "668",
     "homepage": "https://www.greenwoodsoftware.com/less/",
     "license": "GPL-3.0-only|BSD-3-Clause",
-    "url64": "https://github.com/baulk/less-windows/releases/download/v668/less-668-x64.zip",
-    "url64.hash": "SHA256:ae7b064e11da639b7e559c906ee3c22efd878682505dae9c0751711813e6d49b",
-    "urlarm64": "https://github.com/baulk/less-windows/releases/download/v668/less-668-arm64.zip",
-    "urlarm64.hash": "SHA256:db1511498a3c31c49537fbe3806971bbe19822c6e29dc029cb09acde2f2ea3ae",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/baulk/less-windows/releases/download/v668/less-668-x64.zip",
+            "hash": "SHA256:ae7b064e11da639b7e559c906ee3c22efd878682505dae9c0751711813e6d49b"
+        },
+        "arm64": {
+            "url": "https://github.com/baulk/less-windows/releases/download/v668/less-668-arm64.zip",
+            "hash": "SHA256:db1511498a3c31c49537fbe3806971bbe19822c6e29dc029cb09acde2f2ea3ae"
+        }
+    },
     "extension": "zip",
     "links": [
         "less.exe",
