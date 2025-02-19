@@ -3,10 +3,16 @@
     "version": "5.1.0",
     "homepage": "https://github.com/M2Team/Privexec/",
     "license": "MIT",
-    "url64": "https://github.com/M2Team/Privexec/releases/download/5.1.0/Privexec-5.1.0-win-x64.zip",
-    "url64.hash": "SHA256:ce8a45f602f849cd6202ecc5121ceea6b6c9cc0d78d61025d46bcc9a32f2b2b2",
-    "urlarm64": "https://github.com/M2Team/Privexec/releases/download/5.1.0/Privexec-5.1.0-win-arm64.zip",
-    "urlarm64.hash": "SHA256:997ec271339a841c2ffebed94a44bcc7b8baf25d26f0278d4e2f99a839644376",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/M2Team/Privexec/releases/download/5.1.0/Privexec-5.1.0-win-x64.zip",
+            "hash": "SHA256:ce8a45f602f849cd6202ecc5121ceea6b6c9cc0d78d61025d46bcc9a32f2b2b2"
+        },
+        "arm64": {
+            "url": "https://github.com/M2Team/Privexec/releases/download/5.1.0/Privexec-5.1.0-win-arm64.zip",
+            "hash": "SHA256:997ec271339a841c2ffebed94a44bcc7b8baf25d26f0278d4e2f99a839644376"
+        }
+    },
     "extension": "zip",
     "links": [
         "AppExec.exe",
