@@ -3,10 +3,16 @@
     "version": "9.0.0.7889",
     "homepage": "https://github.com/icsharpcode/ILSpy",
     "license": "MIT",
-    "url64": "https://github.com/icsharpcode/ILSpy/releases/download/v9.0/ILSpy_binaries_9.0.0.7889-x64.zip",
-    "url64.hash": "SHA256:bd30e1048773a3cfbac6ec32fe6c7c8744e9ae40e63f0099a8b2d0945640433f",
-    "urlarm64": "https://github.com/icsharpcode/ILSpy/releases/download/v9.0/ILSpy_binaries_9.0.0.7889-arm64.zip",
-    "urlarm64.hash": "SHA256:316c7f97179bfac759e16403cf8b0bc798f557cfcd7ec1ff3599f442dd2f4b42",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/icsharpcode/ILSpy/releases/download/v9.0/ILSpy_binaries_9.0.0.7889-x64.zip",
+            "hash": "SHA256:bd30e1048773a3cfbac6ec32fe6c7c8744e9ae40e63f0099a8b2d0945640433f"
+        },
+        "arm64": {
+            "url": "https://github.com/icsharpcode/ILSpy/releases/download/v9.0/ILSpy_binaries_9.0.0.7889-arm64.zip",
+            "hash": "SHA256:316c7f97179bfac759e16403cf8b0bc798f557cfcd7ec1ff3599f442dd2f4b42"
+        }
+    },
     "extension": "zip",
     "launchers": [
         "ILSpy.exe"
