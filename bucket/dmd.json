@@ -12,7 +12,9 @@
     "extension": "7z",
     "venv": {
         "category": "dlang",
-        "path": "${BAULK_PKGROOT}\\windows\\bin",
+        "path": [
+            "${BAULK_PKGROOT}\\windows\\bin"
+        ],
         "env": [
             "BAULK_DLANG_VERSION=2.102.1"
         ]
