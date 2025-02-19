@@ -3,14 +3,22 @@
     "version": "21.0.3",
     "homepage": "https://www.microsoft.com/openjdk",
     "license": "GPL-2.0",
-    "url64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-x64.zip",
-    "url64.hash": "SHA256:d1c5a1c674bf472838c4d63c46c2e23a8efd399362e40abebd4eee4988bc2130",
-    "urlarm64": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-aarch64.zip",
-    "urlarm64.hash": "SHA256:4c57bd9bc1a910f57bf495830c9e6c171c136a74392b9f462f2ddb168b65c019",
+    "architecture": {
+        "64bit": {
+            "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-x64.zip",
+            "hash": "SHA256:d1c5a1c674bf472838c4d63c46c2e23a8efd399362e40abebd4eee4988bc2130"
+        },
+        "arm64": {
+            "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-aarch64.zip",
+            "hash": "SHA256:4c57bd9bc1a910f57bf495830c9e6c171c136a74392b9f462f2ddb168b65c019"
+        }
+    },
     "extension": "zip",
     "venv": {
         "category": "java",
-        "path": "${BAULK_PKGROOT}\\bin",
+        "path": [
+            "${BAULK_PKGROOT}\\bin"
+        ],
         "env": [
             "JAVA_HOME=${BAULK_PKGROOT}"
         ]
