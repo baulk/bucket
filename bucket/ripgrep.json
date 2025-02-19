@@ -3,8 +3,12 @@
     "version": "14.1.1",
     "homepage": "https://github.com/BurntSushi/ripgrep",
     "license": "Public Domain",
-    "url64": "https://github.com/BurntSushi/ripgrep/releases/download/14.1.1/ripgrep-14.1.1-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:d0f534024c42afd6cb4d38907c25cd2b249b79bbe6cc1dbee8e3e37c2b6e25a1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/BurntSushi/ripgrep/releases/download/14.1.1/ripgrep-14.1.1-x86_64-pc-windows-msvc.zip",
+            "hash": "SHA256:d0f534024c42afd6cb4d38907c25cd2b249b79bbe6cc1dbee8e3e37c2b6e25a1"
+        }
+    },
     "extension": "zip",
     "links": [
         "rg.exe"
