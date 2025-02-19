@@ -3,8 +3,12 @@
     "version": "7.95",
     "homepage": "https://nmap.org/",
     "license": "GPL-2.0",
-    "url": "https://nmap.org/dist/nmap-7.95-setup.exe",
-    "url.hash": "SHA256:c59b51d15b5965f27db4c5bbd21793ad6b492c8c751836ba8bd43829d791146e",
+    "architecture": {
+        "32bit": {
+            "url": "https://nmap.org/dist/nmap-7.95-setup.exe",
+            "hash": "SHA256:c59b51d15b5965f27db4c5bbd21793ad6b492c8c751836ba8bd43829d791146e"
+        }
+    },
     "extension": "7z",
     "launchers": [
         "nmap.exe",
