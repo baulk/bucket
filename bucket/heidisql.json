@@ -3,8 +3,12 @@
     "version": "12.10.0.7000",
     "homepage": "https://www.heidisql.com/",
     "license": "GPL-2.0",
-    "url64": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip",
-    "url64.hash": "SHA256:a7b0e40acc85900ff5ca63769e702acaa06e81ae658b7958e1bc794ae635fd7a",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.10_64_Portable.zip",
+            "hash": "SHA256:a7b0e40acc85900ff5ca63769e702acaa06e81ae658b7958e1bc794ae635fd7a"
+        }
+    },
     "extension": "zip",
     "launchers": [
         "heidisql.exe"
