@@ -3,12 +3,18 @@
     "version": "1.40.0",
     "homepage": "https://github.com/ldc-developers/ldc",
     "license": "BSD-3-Clause",
-    "url64": "https://github.com/ldc-developers/ldc/releases/download/v1.40.0/ldc2-1.40.0-windows-x64.7z",
-    "url64.hash": "SHA256:57acfce11e746719e23fbc0dc116782d14208edcb468793c0476134594befd9f",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ldc-developers/ldc/releases/download/v1.40.0/ldc2-1.40.0-windows-x64.7z",
+            "hash": "SHA256:57acfce11e746719e23fbc0dc116782d14208edcb468793c0476134594befd9f"
+        }
+    },
     "extension": "7z",
     "venv": {
         "category": "dlang",
-        "path": "${BAULK_PKGROOT}\\bin",
+        "path": [
+            "${BAULK_PKGROOT}\\bin"
+        ],
         "env": [
             "BAULK_LDC_VERSION=1.28.0"
         ]
