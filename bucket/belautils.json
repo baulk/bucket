@@ -3,10 +3,16 @@
     "version": "2.0.3",
     "homepage": "https://github.com/fcharlie/BelaUtils",
     "license": "Apache-2.0",
-    "url64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.3/BelaUtils-2.0.3-win-x64.zip",
-    "url64.hash": "SHA256:c3c6766b016916d4ae7d7b64b4a16b1c9a75276765d6e824a61e64cd18958175",
-    "urlarm64": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.3/BelaUtils-2.0.3-win-arm64.zip",
-    "urlarm64.hash": "SHA256:1cf4efff2f30aacd0977c3b4a5d60487576d13abaa08a8cacdf2b045a11f9e32",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.3/BelaUtils-2.0.3-win-x64.zip",
+            "hash": "SHA256:c3c6766b016916d4ae7d7b64b4a16b1c9a75276765d6e824a61e64cd18958175"
+        },
+        "arm64": {
+            "url": "https://github.com/fcharlie/BelaUtils/releases/download/v2.0.3/BelaUtils-2.0.3-win-arm64.zip",
+            "hash": "SHA256:1cf4efff2f30aacd0977c3b4a5d60487576d13abaa08a8cacdf2b045a11f9e32"
+        }
+    },
     "extension": "zip",
     "links": [
         "bin/bona.exe",
