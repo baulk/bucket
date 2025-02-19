@@ -3,8 +3,12 @@
     "version": "12.2.1",
     "homepage": "https://graphviz.org/",
     "license": "EPL-1.0",
-    "url64": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/12.2.1/windows_10_cmake_Release_Graphviz-12.2.1-win64.zip",
-    "url64.hash": "SHA256:82c34e6a73b8158bee357d1c51aac08925edc8f4a9f517f591fb8df989405ad4",
+    "architecture": {
+        "64bit": {
+            "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/12.2.1/windows_10_cmake_Release_Graphviz-12.2.1-win64.zip",
+            "hash": "SHA256:82c34e6a73b8158bee357d1c51aac08925edc8f4a9f517f591fb8df989405ad4"
+        }
+    },
     "extension": "zip",
     "launchers": [
         "bin\\acyclic.exe",
