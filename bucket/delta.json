@@ -3,8 +3,12 @@
     "version": "0.18.2",
     "homepage": "https://github.com/dandavison/delta/",
     "license": "MIT",
-    "url64": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-pc-windows-msvc.zip",
-    "url64.hash": "SHA256:6ea59864091b4cfca89d9ee38388ff1a3ccdc8244b6e1cdd5201259de89b0b06",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-pc-windows-msvc.zip",
+            "hash": "SHA256:6ea59864091b4cfca89d9ee38388ff1a3ccdc8244b6e1cdd5201259de89b0b06"
+        }
+    },
     "extension": "zip",
     "links": [
         "delta.exe"
