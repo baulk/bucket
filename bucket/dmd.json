@@ -16,7 +16,7 @@
             "${BAULK_PKGROOT}\\windows\\bin"
         ],
         "env": [
-            "BAULK_DLANG_VERSION=2.102.1"
+            "BAULK_DLANG_VERSION=2.110.0"
         ]
     }
 }
