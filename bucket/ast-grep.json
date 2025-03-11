@@ -10,7 +10,7 @@
         },
         "arm64": {
             "url": "https://github.com/ast-grep/ast-grep/releases/download/0.36.1/app-aarch64-pc-windows-msvc.zip",
-            "hash": "SHA256:d19b9d0b07eae0df977365a40178c3c1445afeb79eeb1ac1f9dacf16950259da"
+            "hash": "SHA256:3d12fa000772de20a59fff9f0dd1138ef9ab8475580af9f4e0c95ed73d0bd1b4"
         }
     },
     "extension": "zip",
