@@ -1,12 +1,12 @@
 {
     "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
-    "version": "1.9.2",
+    "version": "1.9.3",
     "homepage": "https://github.com/fullstorydev/grpcurl",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fullstorydev/grpcurl/releases/download/v1.9.2/grpcurl_1.9.2_windows_x86_64.zip",
-            "hash": "SHA256:14b3806253eeee29ac7c467ba6b2c5d0fdc2b889833af6e3603157354e0f5135"
+            "url": "https://github.com/fullstorydev/grpcurl/releases/download/v1.9.3/grpcurl_1.9.3_windows_x86_64.zip",
+            "hash": "SHA256:895335dfa7be74803eeb5acf3ec5d3b06c1e9483fdda3c7622bdef9ad388f32a"
         }
     },
     "extension": "zip",
