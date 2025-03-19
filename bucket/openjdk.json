@@ -1,12 +1,12 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK",
-    "version": "23.0.0",
+    "version": "24.0.0",
     "homepage": "https://openjdk.java.net/",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.java.net/java/GA/jdk23/3c5b90190c68498b986a97f276efd28a/37/GPL/openjdk-23_windows-x64_bin.zip",
-            "hash": "SHA256:cba5013874ba50cae543c86fe6423453816c77281e2751a8a9a633d966f1dc04"
+            "url": "https://download.java.net/java/GA/jdk24/1f9ff9062db4449d8ca828c504ffae90/36/GPL/openjdk-24_windows-x64_bin.zip",
+            "hash": "SHA256:11d1d9f6ac272d5361c8a0bef01894364081c7fb1a6914c2ad2fc312ae83d63b"
         }
     },
     "extension": "zip",
