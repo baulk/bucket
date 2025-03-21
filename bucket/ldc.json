@@ -6,8 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ldc-developers/ldc/releases/download/v1.40.1/ldc2-1.40.1-windows-x64.7z",
-            "hash": "6f3333e6c8b5650be0af67795b000d6ea588ccfecda987986c795ec4bd175e85",
-            "extract_dir": "ldc2-1.40.1-windows-x64"
+            "hash": "SHA256:6f3333e6c8b5650be0af67795b000d6ea588ccfecda987986c795ec4bd175e85"
         }
     },
     "extension": "7z",
