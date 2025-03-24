@@ -1,6 +1,6 @@
 {
     "description": "A secure runtime for JavaScript and TypeScript.",
-    "version": "2.2.43",
+    "version": "2.2.4",
     "homepage": "https://github.com/denoland/deno",
     "license": "MIT",
     "architecture": {
