@@ -1,6 +1,6 @@
 {
     "description": "A tool to unpack installers created by Inno Setup.",
-    "version": "1.9.11",
+    "version": "1.9",
     "homepage": "https://constexpr.org/innoextract/",
     "license": "Zlib",
     "architecture": {
