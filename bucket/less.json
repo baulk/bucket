@@ -10,7 +10,7 @@
         },
         "arm64": {
             "url": "https://github.com/baulk/less-windows/releases/download/v674/less-674-arm64.zip",
-            "hash": "SHA256:a5839b2a36d56513add8c211e2716887538f540542a47031bec1285680a282b1"
+            "hash": "SHA256:a4d9c344596e73513342f09f2cb1e01aef349b145b479e0887a02f889e3a35f2"
         }
     },
     "extension": "zip",
