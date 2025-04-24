@@ -1,16 +1,16 @@
 {
     "description": "The package manager for Kubernetes",
-    "version": "1.32.3",
+    "version": "1.33.0",
     "homepage": "https://github.com/kubernetes/kubectl",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://dl.k8s.io/release/v1.32.3/kubernetes-client-windows-amd64.tar.gz",
-            "hash": "SHA256:b78883391fe37850ba53dc7b482f784e30f5bea539d4e8f5bb07c74a63a95c53"
+            "url": "https://dl.k8s.io/release/v1.33.0/kubernetes-client-windows-amd64.tar.gz",
+            "hash": "SHA256:8b564f3b34e2e037fe1df56063fa009e0168299f049effe8e76739bb59ae3aac"
         },
         "arm64": {
-            "url": "https://dl.k8s.io/release/v1.32.3/kubernetes-client-windows-arm64.tar.gz",
-            "hash": "SHA256:4c99bc069c37b835331dec1597cccdee5dd46501247ff528c1750e64563e05b2"
+            "url": "https://dl.k8s.io/release/v1.33.0/kubernetes-client-windows-arm64.tar.gz",
+            "hash": "SHA256:940accad7eab8e04b335d672cbd4a17ad69967aced7fa4675e0d4e405c9d0882"
         }
     },
     "extension": "tar",
