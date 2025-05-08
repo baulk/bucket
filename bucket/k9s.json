@@ -13,7 +13,7 @@
             "hash": "SHA256:3c5dc94d1fcbd2182a19944620e4d2179c2d504b370dea926a23b8566e877070"
         }
     },
-    "extension": "tar",
+    "extension": "zip",
     "links": [
         "k9s.exe"
     ]
