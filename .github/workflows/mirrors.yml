@@ -1,4 +1,4 @@
-name: Push Mirror
+name: Push To Gitee
 
 on:
   push:
