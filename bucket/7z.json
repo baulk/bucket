@@ -1,16 +1,16 @@
 {
     "description": "7-Zip is a file archiver with a high compression ratio",
-    "version": "24.09",
+    "version": "25.00",
     "homepage": "https://www.7-zip.org/",
     "license": "Freeware,LGPL-2.0-only,BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-x64.exe",
-            "hash": "SHA256:bdd1a33de78618d16ee4ce148b849932c05d0015491c34887846d431d29f308e"
+            "url": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-x64.exe",
+            "hash": "SHA256:7b67375b2b303e05d2989f23e986126eda67435c71231fa4b0bdaeb7a619a0a6"
         },
         "arm64": {
-            "url": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-arm64.exe",
-            "hash": "SHA256:bc7b3a18f218f4916e1c4996751468f96e46eb7e97e91e8c1553d74793037f1a"
+            "url": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-arm64.exe",
+            "hash": "SHA256:28e5543519e71fa37f83df5a4d529387d255c67f3fe96cd24ea7e643dfc1355f"
         }
     },
     "extension": "7z",
