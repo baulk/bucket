@@ -1,12 +1,12 @@
 {
     "description": "A shell formatter.",
-    "version": "3.11.0",
+    "version": "3.12.0",
     "homepage": "https://github.com/mvdan/sh/",
     "license": "BSD 3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_windows_amd64.exe#/shfmt.exe",
-            "hash": "SHA256:d11a0880588304496065110cb67ce2375cfcd5433e76dec505ce1fa21adf47cc"
+            "url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_windows_amd64.exe",
+            "hash": "SHA256:c8bda517ba1c640ce4a715c0fa665439ddbe4357ba5e9b77b0e51e70e2b9c94b"
         }
     },
     "extension": "exe",
