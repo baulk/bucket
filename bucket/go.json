@@ -1,16 +1,16 @@
 {
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "version": "1.24.6",
+    "version": "1.25.0",
     "homepage": "https://golang.org/",
     "license": "BSD",
     "architecture": {
         "64bit": {
-            "url": "https://go.dev/dl/go1.24.6.windows-amd64.zip",
-            "hash": "SHA256:4fbc8af2cfca9e5059019b5150a426eb78e1e57718bf08f0e52b1c942a2782bf"
+            "url": "https://go.dev/dl/go1.25.0.windows-amd64.zip",
+            "hash": "SHA256:89efb4f9b30812eee083cc1770fdd2913c14d301064f6454851428f9707d190b"
         },
         "arm64": {
-            "url": "https://go.dev/dl/go1.24.6.windows-arm64.zip",
-            "hash": "SHA256:45c41b237d00e92e4cf8adce11b4c5258048b47a92bfbb1f4ef3b928d6fcb0b2"
+            "url": "https://go.dev/dl/go1.25.0.windows-arm64.zip",
+            "hash": "SHA256:27bab004c72b3d7bd05a69b6ec0fc54a309b4b78cc569dd963d8b3ec28bfdb8c"
         }
     },
     "extension": "zip",
