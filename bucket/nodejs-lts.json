@@ -1,16 +1,16 @@
 {
     "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. (LTS)",
-    "version": "22.18.0",
+    "version": "22.19.0",
     "homepage": "https://nodejs.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-x64.zip",
-            "hash": "SHA256:c95d8a7e1c99e669cc08c9f1176e068c1f50847c37908fcb8c35b62482366511"
+            "url": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip",
+            "hash": "SHA256:ea3fad0e67a991d8477d8c01344b56e69c676ccb733f065b22436994b1253f86"
         },
         "arm64": {
-            "url": "https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-arm64.zip",
-            "hash": "SHA256:023afb3d25c4c7d10cb6eb8a64865c347b56d4b07e6690606d021130a9192263"
+            "url": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-arm64.zip",
+            "hash": "SHA256:e4a7336010d58ff35b53d9dd5869095c56089c70913cf22508cf8183593e56b2"
         }
     },
     "extension": "zip",
