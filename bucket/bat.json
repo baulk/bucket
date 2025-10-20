@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-pc-windows-msvc.zip",
-            "uhash": "sha256:a8a6862f14698b45e101b0932c69bc47a007f4c0456f3a129fdcef54d443d501"
+            "hash": "sha256:a8a6862f14698b45e101b0932c69bc47a007f4c0456f3a129fdcef54d443d501"
         },
         "arm64": {
             "url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-aarch64-pc-windows-msvc.zip",
-            "uhash": "sha256:8feb1582b5a141b2c6d63d1f1abfc496c97ff2255eb9b797d5444393d233232c"
+            "hash": "sha256:8feb1582b5a141b2c6d63d1f1abfc496c97ff2255eb9b797d5444393d233232c"
         }
     },
     "extension": "zip",
