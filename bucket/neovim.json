@@ -1,12 +1,16 @@
 {
     "description": "Neovim - Vim-fork focused on extensibility and usability",
-    "version": "0.11.4",
+    "version": "0.11.5",
     "homepage": "https://neovim.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-win64.zip",
-            "hash": "SHA256:77eee5936724b82e45b448e0370abe0911d75fad551c0a25415f4e51719faf34"
+            "url": "https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-win64.zip",
+            "hash": "sha256:718e731326e7759cf17bbbb33f38975707a2ac85642614686b818ef5fde38f48"
+        },
+        "arm64": {
+            "url": "https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-win-arm64.zip",
+            "hash": "sha256:3446d204a97ec83eb4af0fe530a09c6d6b7392c0f0c36706e2c7dac6e1feb0ff"
         }
     },
     "force_delete": [
