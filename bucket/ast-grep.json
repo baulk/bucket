@@ -1,16 +1,16 @@
 {
     "description": "A fast and polyglot tool for code searching, linting, rewriting at large scale.",
-    "version": "0.39.7",
+    "version": "0.39.9",
     "homepage": "https://ast-grep.github.io",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ast-grep/ast-grep/releases/download/0.39.7/app-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:2216f9e327390630b13a4d1be39adbf70be7cb204999d8e9a4c702517e78b76d"
+            "url": "https://github.com/ast-grep/ast-grep/releases/download/0.39.9/app-x86_64-pc-windows-msvc.zip",
+            "hash": "sha256:58974ca806300d7447f284c47e7e48b57663f0e0d6f5cebb501722d884603d7c"
         },
         "arm64": {
-            "url": "https://github.com/ast-grep/ast-grep/releases/download/0.39.7/app-aarch64-pc-windows-msvc.zip",
-            "hash": "sha256:fe1fd3501a0b3997e6c5caa41de848cbc10c243a0deb7548ee63fe892a1fa15d"
+            "url": "https://github.com/ast-grep/ast-grep/releases/download/0.39.9/app-aarch64-pc-windows-msvc.zip",
+            "hash": "sha256:26242f545781f1297d4980b8f3844e7c50a3d2116c73d9a43b46057fe698ee96"
         }
     },
     "extension": "zip",
