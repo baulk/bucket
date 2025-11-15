@@ -1,12 +1,12 @@
 {
     "description": "Protocol Buffer Compiler",
-    "version": "33.0",
+    "version": "33.1",
     "homepage": "https://developers.google.com/protocol-buffers/",
     "license": "https://github.com/protocolbuffers/protobuf/blob/master/LICENSE",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/protocolbuffers/protobuf/releases/download/v33.0/protoc-33.0-win64.zip",
-            "hash": "sha256:3742cd49c8b6bd78b6760540367eb0ff62fa70a1032e15dafe131bfaf296986a"
+            "url": "https://github.com/protocolbuffers/protobuf/releases/download/v33.1/protoc-33.1-win64.zip",
+            "hash": "sha256:d7a207fb6eec0e4b1b6613be3b7d11905375b6fd1147a071116eb8e9f24ac53b"
         }
     },
     "extension": "zip",
