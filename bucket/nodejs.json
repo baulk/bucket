@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://nodejs.org/dist/v25.3.0/node-v25.3.0-win-x64.zip",
-            "hash": "sha256:ef217b4313cc6e9bd34a599e4d90f2e40a7ca5c30ae5a3098b32054b1c0d1727"
+            "hash": "sha256:3c138ba2cd835b1af70ae2813422f544b2e786bdff8c0885ffb89fb7d407148e"
         },
         "arm64": {
             "url": "https://nodejs.org/dist/v25.3.0/node-v25.3.0-win-arm64.zip",
-            "hash": "sha256:3c138ba2cd835b1af70ae2813422f544b2e786bdff8c0885ffb89fb7d407148e"
+            "hash": "sha256:ef217b4313cc6e9bd34a599e4d90f2e40a7ca5c30ae5a3098b32054b1c0d1727"
         }
     },
     "extension": "zip",
