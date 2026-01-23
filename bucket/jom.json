@@ -1,12 +1,12 @@
 {
-    "description": "jom is a clone of nmake",
-    "version": "1.1.5",
+    "description": "Clone of nmake to support the execution of multiple independent commands in parallel",
+    "version": "1.1.6",
     "homepage": "https://wiki.qt.io/Jom",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.qt.io/official_releases/jom/jom_1_1_5.zip",
-            "hash": "SHA256:89405212add992c35783fc5e938b2d7252d8447fde1dc64d335714325b54d668"
+            "url": "https://download.qt.io/official_releases/jom/jom_1_1_6.zip",
+            "hash": "sha256:e480a22a99fc41d6afbe1b27faf34b3b9dad76ca40095179614605c3fbff637f"
         }
     },
     "extension": "zip",
