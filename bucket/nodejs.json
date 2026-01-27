@@ -1,16 +1,16 @@
 {
     "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
-    "version": "25.4.0",
+    "version": "25.5.0",
     "homepage": "https://nodejs.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://nodejs.org/dist/v25.4.0/node-v25.4.0-win-x64.zip",
-            "hash": "sha256:5a5fcd17bc7567645c85b016cd428e4cd9e54796994651be3f3709768714e002"
+            "url": "https://nodejs.org/dist/v25.5.0/node-v25.5.0-win-x64.zip",
+            "hash": "sha256:4d2773e98d3f35d172478d5101de1f571d851053d2ed67bbe39a5bdeae87d804"
         },
         "arm64": {
-            "url": "https://nodejs.org/dist/v25.4.0/node-v25.4.0-win-arm64.zip",
-            "hash": "sha256:ab747b4d8579aa95ef7148a883fea5a5577dfbcc1bfbc4f62bb4257c26b27acc"
+            "url": "https://nodejs.org/dist/v25.5.0/node-v25.5.0-win-arm64.zip",
+            "hash": "sha256:7ca3d9bb4bf745e4bcd7b6ae6840c37fbd12da909ee5df6b932af42cdd997a19"
         }
     },
     "extension": "zip",
