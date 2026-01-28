@@ -1,16 +1,16 @@
 {
     "description": "Curl is a command-line tool for transferring data specified with URL syntax. (msvc flavor)",
-    "version": "8.18.0",
+    "version": "8.18.0.1",
     "homepage": "https://github.com/fcharlie/wincurl/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fcharlie/wincurl/releases/download/8.18.0/wincurl-win64-8.18.0.zip",
-            "hash": "sha256:d3787df66b7d79f1da6b8fd8ca3bfb893b8ca236c9b0232938eed2e9f9a082fb"
+            "url": "https://github.com/fcharlie/wincurl/releases/download/8.18.0.1/wincurl-win64-8.18.0.1.zip",
+            "hash": "sha256:2b858bcf0578651c8fbac978cca17fb724c1fdf68dd446ef517df1382059dc2a"
         },
         "arm64": {
-            "url": "https://github.com/fcharlie/wincurl/releases/download/8.18.0/wincurl-arm64-8.18.0.zip",
-            "hash": "sha256:23203f9ea939ea88be3ecdbc28d6e5249eeda4e090e10e88779c82d5da3cfbdf"
+            "url": "https://github.com/fcharlie/wincurl/releases/download/8.18.0.1/wincurl-arm64-8.18.0.1.zip",
+            "hash": "sha256:2b858bcf0578651c8fbac978cca17fb724c1fdf68dd446ef517df1382059dc2a"
         }
     },
     "extension": "zip",
