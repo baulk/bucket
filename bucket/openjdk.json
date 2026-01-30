@@ -1,12 +1,12 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK",
-    "version": "25.0.0",
+    "version": "25.0.2",
     "homepage": "https://openjdk.java.net/",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.java.net/java/GA/jdk25/bd75d5f9689641da8e1daabeccb5528b/36/GPL/openjdk-25_windows-x64_bin.zip",
-            "hash": "SHA256:85bcc178461e2cb3c549ab9ca9dfa73afd54c09a175d6510d0884071867137d3"
+            "url": "https://download.java.net/java/GA/jdk25.0.2/b1e0dfa218384cb9959bdcb897162d4e/10/GPL/openjdk-25.0.2_windows-x64_bin.zip",
+            "hash": "sha256:74784a0c07258f32d36e9224dd79187c566d831c30d47dc06888d4212087331d"
         }
     },
     "extension": "zip",
