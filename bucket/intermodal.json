@@ -1,16 +1,16 @@
 {
     "description": "User-friendly and featureful command-line BitTorrent metainfo utility",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "homepage": "https://imdl.io/",
     "license": "CC0-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/casey/intermodal/releases/download/v0.1.15/imdl-v0.1.15-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:ab141da9f480ef86c75d26a3b35bd7d384c96df489aaeb1fd35a87b07462ed7e"
+            "url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-x86_64-pc-windows-msvc.zip",
+            "hash": "sha256:2de80aadb9c558b542feae7ec676e0bbe0c3d3582a571dafc100df1543601581"
         },
         "arm64": {
-            "url": "https://github.com/casey/intermodal/releases/download/v0.1.15/imdl-v0.1.15-aarch64-pc-windows-msvc.zip",
-            "hash": "sha256:27285b3314b184f3aabfbbb9f0176959bb5329bc53804ce57eb03400e4ca959f"
+            "url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-aarch64-pc-windows-msvc.zip",
+            "hash": "sha256:633c89295a39cce65fb6c292044bfdfb446f965f7437abaa0c32ae3f672836f4"
         }
     },
     "extension": "zip",
