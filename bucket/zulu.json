@@ -1,6 +1,6 @@
 {
     "description": "Zulu is certified build of OpenJDK",
-    "version": "26.0.0",
+    "version": "26.28.59",
     "homepage": "https://www.azul.com/",
     "architecture": {
         "64bit": {
