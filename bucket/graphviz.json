@@ -1,11 +1,11 @@
 {
     "description": "Graphviz is open source graph visualization software.",
-    "version": "14.1.3",
+    "version": "14.1.4",
     "homepage": "https://graphviz.org/",
     "license": "EPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/14.1.3/windows_10_cmake_Release_graphviz-install-14.1.2-win64.exe",
+            "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/14.1.4/windows_10_cmake_Release_graphviz-install-14.1.4-win64.exe",
             "hash": "sha256:d8f32c9ad65bc93aba009d4baf600e987c6c36f72ad21ac77b0292ebd5746799"
         }
     },
