@@ -1,12 +1,12 @@
 {
     "description": "Inno Setup Unpacker (Unicode)",
-    "version": "2.67.6",
+    "version": "2.67.7",
     "homepage": "https://www.rathlev-home.de/tools/prog-e.html#unpack",
     "license": "GPL",
     "architecture": {
         "32bit": {
             "url": "https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/bin/innounp-2.zip",
-            "hash": "sha256:b3e176902d924453a4b121571cfdd6013de9e49b9df8836ebe209177089c180c"
+            "hash": "sha256:7218a4c6ec5ef1e7eb0ab828f9788fa9be658119385c23cad865aa07ccd6084c"
         }
     },
     "extension": "zip",
