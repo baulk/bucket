@@ -1,16 +1,16 @@
 {
-    "version": "0.15.2",
+    "version": "0.16.0",
     "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
     "homepage": "https://ziglang.org/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ziglang.org/download/0.15.2/zig-x86_64-windows-0.15.2.zip",
-            "hash": "sha256:3a0ed1e8799a2f8ce2a6e6290a9ff22e6906f8227865911fb7ddedc3cc14cb0c"
+            "url": "https://ziglang.org/download/0.16.0/zig-x86_64-windows-0.16.0.zip",
+            "hash": "sha256:68659eb5f1e4eb1437a722f1dd889c5a322c9954607f5edcf337bc3684a75a7e"
         },
         "arm64": {
-            "url": "https://ziglang.org/download/0.15.2/zig-aarch64-windows-0.15.2.zip",
-            "hash": "sha256:b926465f8872bf983422257cd9ec248bb2b270996fbe8d57872cca13b56fc370"
+            "url": "https://ziglang.org/download/0.16.0/zig-aarch64-windows-0.16.0.zip",
+            "hash": "sha256:aee38316ee4111717900f45dd3130145c39289e105541d737eb8c5ed653c78ef"
         }
     },
     "links": [
