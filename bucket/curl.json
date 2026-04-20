@@ -1,16 +1,16 @@
 {
     "description": "Curl is a command-line tool for transferring data specified with URL syntax.",
-    "version": "8.19.0.4",
+    "version": "8.19.0.8",
     "homepage": "https://curl.se/",
     "license": "https://github.com/curl/curl/blob/master/COPYING",
     "architecture": {
         "64bit": {
-            "url": "https://curl.se/windows/dl-8.19.0_4/curl-8.19.0_4-win64-mingw.zip",
-            "hash": "sha256:4953b191dc9c5468021d849bdc949559d65c568549460e085466e3b0a9e64c5f"
+            "url": "https://curl.se/windows/dl-8.19.0_8/curl-8.19.0_8-win64-mingw.zip",
+            "hash": "sha256:c580c4145a6cac7c96181d24f8a468cbd239637c336ded9f1347a2ef138865df"
         },
         "arm64": {
-            "url": "https://curl.se/windows/dl-8.19.0_4/curl-8.19.0_4-win64a-mingw.zip",
-            "hash": "sha256:54fc7d95ed2759fb7dd4f0b51d7fe1e7505e897901905e8cd49deb41858a1749"
+            "url": "https://curl.se/windows/dl-8.19.0_8/curl-8.19.0_8-win64a-mingw.zip",
+            "hash": "sha256:d5b3d6353384e59f27f92c739b0791eb6c3643ac4e14bad75955d4ff441dda63"
         }
     },
     "extension": "zip",
