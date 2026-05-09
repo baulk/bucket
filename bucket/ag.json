@@ -1,12 +1,16 @@
 {
     "description": "A tool for searching code. Fork of The Silver Searcher; dedicated to building a well behaved version for Windows.",
-    "version": "2.2.6",
+    "version": "2.2.7",
     "homepage": "https://github.com/JFLarvoire/the_silver_searcher",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.6-Windows/ag-2026-03-05-2.2.6-amd64.zip",
-            "uhash": "sha256:e69f83afb5bf2ce772991b04ad35b56003c5e8241e351346c4b069669e42c69b"
+            "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.7-Windows/ag-2026-05-03-2.2.7-amd64.zip",
+            "uhash": "sha256:a9c83790407c7527c9e2296aa66387917fb45f8b2385bca8cc45d22dba6d6dd4"
+        },
+        "arm64": {
+            "url": "https://github.com/JFLarvoire/the_silver_searcher/releases/download/2.2.7-Windows/ag-2026-05-03-2.2.7-arm64.zip",
+            "uhash": "sha256:61560d50f5cf3a311230d52bd0769b34cc751542e69ea55c3213773354050c7b"
         }
     },
     "extension": "zip",
