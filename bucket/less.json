@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/baulk/less-windows/releases/download/v702/less-702-x64.zip",
-            "hash": "sha256:3a5b4436bdea7f72165240a9d459297880a0485d2ed968a8d448736b4545c940"
+            "hash": "sha256:1aacd2444e24a9fc4df1870bfae045576594ac92c20ad4ac9122f351a918003f"
         },
         "arm64": {
             "url": "https://github.com/baulk/less-windows/releases/download/v702/less-702-arm64.zip",
