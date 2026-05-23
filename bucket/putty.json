@@ -1,16 +1,16 @@
 {
     "description": "PuTTY: a free SSH and Telnet client.",
-    "version": "0.83.0",
+    "version": "0.84.0",
     "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://the.earth.li/~sgtatham/putty/0.83/w64/putty.zip",
-            "hash": "sha512:78160664fb14831a8d9d99c0221df8ba7c23f7f65fc5a707d3cb7f9245fda9a381f0b89ed3b79bf7984252d908836948d7492deb3f5fd8c3d3d4838a691ba3d4"
+            "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty.zip",
+            "hash": "sha256:6b18d0cf8c5f37ba4eae131b386988fbb43df907bbf99e32a92407a36b1fc82e"
         },
         "arm64": {
-            "url": "https://the.earth.li/~sgtatham/putty/0.83/wa64/putty.zip",
-            "hash": "sha512:a8e7c1dfd98c3a359fea61042fdca48ed3ef7f4b9597bf45d085489ab0097208991d420890aec59d277252b78d951da479a0898c244358a8c99fe4189ff33cdb"
+            "url": "https://the.earth.li/~sgtatham/putty/0.84/wa64/putty.zip",
+            "hash": "sha256:b162cb9b5d8fe46d848f0b6275edefa35b4eda09eb581606406f6338bd5597b6  "
         }
     },
     "extension": "zip",
