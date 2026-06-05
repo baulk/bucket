@@ -1,16 +1,16 @@
 {
     "description": "A fast, scalable, multi-language and extensible build system.",
-    "version": "9.1.0",
+    "version": "9.1.1",
     "homepage": "https://bazel.build/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bazelbuild/bazel/releases/download/9.1.0/bazel-9.1.0-windows-x86_64.zip",
-            "hash": "sha256:3da113b315dff34d66f0e16273612b311236e566fef405b79b506fd59657f842"
+            "url": "https://github.com/bazelbuild/bazel/releases/download/9.1.1/bazel-9.1.1-windows-x86_64.zip",
+            "hash": "sha256:9db1cb8a809378c89c3eb216c4186a7eae3aedc78b9117970384893fb5cd1ea8"
         },
         "arm64": {
-            "url": "https://github.com/bazelbuild/bazel/releases/download/9.1.0/bazel-9.1.0-windows-arm64.zip",
-            "hash": "sha256:cd8cd10e34c5c8455f0be75d0cc60a1f0c3942298f0cdea323af4f42f2e4169f"
+            "url": "https://github.com/bazelbuild/bazel/releases/download/9.1.1/bazel-9.1.1-windows-arm64.zip",
+            "hash": "sha256:34bf1b5397a9d2480d25933587a19f10202c00dc55eb2fdc76f03ab3374c4af2"
         }
     },
     "extension": "zip",
