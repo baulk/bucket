@@ -1,12 +1,12 @@
 {
     "description": "GraalVM is a high-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices",
-    "version": "25.0.3",
+    "version": "25.1.3",
     "homepage": "https://www.graalvm.org/",
     "license": "GPL",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/graalvm/25/archive/graalvm-jdk-25.0.3_windows-x64_bin.zip",
-            "hash": "sha256:8678e147a7e3c32eca47f1466d199b5c7346c9aad2ee55b51ebdf504d6ea7c72"
+            "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/graal-25.1.3/graalvm-community-jdk-25i1-25.0.3_windows-x64_bin.zip",
+            "hash": "sha256:96f1e7a9674b5b5751224104ff0c4624f15f9522b190d960a041cab72c381393"
         }
     },
     "extension": "zip",
