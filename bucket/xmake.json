@@ -1,16 +1,16 @@
 {
     "description": "XMake is an a cross-platform build utility based on lua",
-    "version": "3.0.9",
+    "version": "3.1.0",
     "homepage": "https://xmake.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xmake-io/xmake/releases/download/v3.0.9/xmake-v3.0.9.win64.zip",
-            "hash": "sha256:0f2c57a29f358e4f9f059cd823f40c3213750dcb13d5b6e9f6e5b29910992d65"
+            "url": "https://github.com/xmake-io/xmake/releases/download/v3.1.0/xmake-v3.1.0.win64.zip",
+            "hash": "sha256:92c320923a0ba52d21934d107ae7fa4cbf03ea5ce972177e7abc2fb7905bd8bd"
         },
         "arm64": {
-            "url": "https://github.com/xmake-io/xmake/releases/download/v3.0.9/xmake-v3.0.9.arm64.zip",
-            "hash": "sha256:d4eeb3d00c1dce1d77585f42521305ae99cd4a0c45c34d1db7e650199b0fd6d4"
+            "url": "https://github.com/xmake-io/xmake/releases/download/v3.1.0/xmake-v3.1.0.arm64.zip",
+            "hash": "sha256:ce427b501966e77dc98da933f3f7203af128e704f7157f519492802cd3729a72"
         }
     },
     "extension": "zip",
