@@ -1,12 +1,12 @@
 {
     "description": "Perl 5 is a highly capable, feature-rich programming language.",
-    "version": "5.42.2.1",
+    "version": "5.42.3.1",
     "homepage": "https://www.perl.org/",
     "license": "GPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54221_64bit/strawberry-perl-5.42.2.1-64bit-portable.zip",
-            "hash": "sha256:32d83be90cf04b807cfb9477482bc36302cdee6f5b04cf57e81adecbd8f07898"
+            "url": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54231_64bit/strawberry-perl-5.42.3.1-64bit-portable.zip",
+            "hash": "sha256:6a081a811781c30aca51dbc036afd93092af91e3297901f02c17043795a10690"
         }
     },
     "extension": "zip",
