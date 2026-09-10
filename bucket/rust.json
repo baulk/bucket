@@ -1,16 +1,16 @@
 {
     "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
-    "version": "1.98.0",
+    "version": "1.98.1",
     "homepage": "https://www.rust-lang.org/",
     "license": "MIT,Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://static.rust-lang.org/dist/rust-1.98.0-x86_64-pc-windows-msvc.msi",
-            "hash": "sha256:190bdf9f2916d1b60f31e18bf7c7fb8c7f5fa6e9788773643dbfc9d5266880c3"
+            "url": "https://static.rust-lang.org/dist/rust-1.98.1-x86_64-pc-windows-msvc.msi",
+            "hash": "sha256:346bea0c3076a33e291624b3d7e71bb3cf661422fadaf643612de641b3e7599a"
         },
         "arm64": {
-            "url": "https://static.rust-lang.org/dist/rust-1.98.0-aarch64-pc-windows-msvc.msi",
-            "hash": "sha256:326409579e6df53decbdfd66db5ca5b7a4be41130ce5168e176087b8280c6e47"
+            "url": "https://static.rust-lang.org/dist/rust-1.98.1-aarch64-pc-windows-msvc.msi",
+            "hash": "sha256:6bcda8cbf1151a0854e87c51080c7ff2d77356dd87ff4b2157b93aa870093ae6"
         }
     },
     "extension": "msi",
