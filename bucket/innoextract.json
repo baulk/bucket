@@ -1,15 +1,15 @@
 {
     "description": "A tool to unpack installers created by Inno Setup.",
-    "version": "1.9",
+    "version": "1.13.0",
     "homepage": "https://constexpr.org/innoextract/",
     "license": "Zlib",
     "architecture": {
         "32bit": {
-            "url": "https://constexpr.org/innoextract/files/innoextract-1.9/innoextract-1.9-windows.zip",
-            "hash": "SHA256:6989342c9b026a00a72a38f23b62a8e6a22cc5de69805cf47d68ac2fec993065"
+            "url": "https://github.com/crazy-max/innoextract/releases/download/v1.13.0/innoextract-windows-amd64.exe",
+            "hash": "sha256:5700fb1e82e6812bb341b964470537161e07a127d29eecfe176f5198cf215a59"
         }
     },
-    "extension": "zip",
+    "extension": "exe",
     "links": [
         "innoextract.exe"
     ]
