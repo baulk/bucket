@@ -1,12 +1,12 @@
 {
     "description": "Network exploration and security auditing utility.",
-    "version": "7.991",
+    "version": "7.992",
     "homepage": "https://nmap.org/",
     "license": "GPL-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://nmap.org/dist/nmap-7.991-setup.exe",
-            "hash": "sha256:93bfd37bdb31a7adfd932beb5dbce06025da691d01a0939e806ea704f7367657"
+            "url": "https://nmap.org/dist/nmap-7.992-setup.exe",
+            "hash": "sha256:7d99ee28b2eae1a90917bb45afc42c1e900a271e7f1bbe1234cf266a819bacc8"
         }
     },
     "extension": "7z",
