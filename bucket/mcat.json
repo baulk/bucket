@@ -1,12 +1,12 @@
 {
-    "version": "0.6.5",
+    "version": "0.6.7",
     "description": "Terminal image, video, and Markdown viewer.",
     "homepage": "https://github.com/Skardyy/mcat",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:51a8bfda59f5dbc5a5b286cfbb94c5919d484ea8db00a35fab15fc863423e15c"
+            "url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-pc-windows-msvc.zip",
+            "hash": "sha256:c04604d5529f9de5fa5d30629b4c1a4ee4516ab61c98cd524fd8de616cfcaf77"
         }
     },
     "extension": "zip",
