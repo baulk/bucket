@@ -1,11 +1,15 @@
 {
     "description": "Zulu is certified build of OpenJDK",
-    "version": "27.28.101",
+    "version": "27.30.107",
     "homepage": "https://www.azul.com/",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.azul.com/zulu/bin/zulu27.28.101-ca-jdk27.0.0-win_x64.zip",
-            "hash": "sha256:99395b64049c2754005746c4f4b66fdb80c98c3cabaa14d4b25a7f8815c997b8"
+            "url": "https://cdn.azul.com/zulu/bin/zulu27.30.107-ca-jdk27.0.1-win_x64.zip",
+            "hash": "sha256:1ceeca99240959cb40325183b067b6c6c82d708f971f4ecc26420a6d914fed9c"
+        },
+        "arm64": {
+            "url": "https://cdn.azul.com/zulu/bin/zulu27.30.107-ca-jdk27.0.1-win_aarch64.zip",
+            "hash": "sha256:ba7a97ac574fbf176a84ce5f430233a297def2e5205b8bdb6290da454c4d8b33"
         }
     },
     "extension": "zip",
