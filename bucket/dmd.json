@@ -1,12 +1,12 @@
 {
     "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax",
-    "version": "2.113.0",
+    "version": "2.113.1",
     "homepage": "https://dlang.org/",
     "license": "BSL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dlang/dmd/releases/download/v2.113.0/dmd.2.113.0.windows.7z",
-            "hash": "sha256:e3b2e809ed3d3cd156b998bb69720735a8a035c0483979ba702e38348ee55570"
+            "url": "https://github.com/dlang/dmd/releases/download/v2.113.1/dmd.2.113.1.windows.7z",
+            "hash": "sha256:b5aa9582da6be3bb87a804f95bb230460aa5763d52a56665e27d30482f0c236f"
         }
     },
     "extension": "7z",
