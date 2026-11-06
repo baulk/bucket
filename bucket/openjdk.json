@@ -1,6 +1,6 @@
 {
     "description": "Official production-ready open-source builds of OpenJDK",
-    "version": "27.0.1",
+    "version": "27.0.1.0.3",
     "homepage": "https://openjdk.java.net/",
     "license": "GPL-2.0",
     "architecture": {
