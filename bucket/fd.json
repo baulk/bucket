@@ -1,16 +1,16 @@
 {
     "description": "A simple, fast and user-friendly alternative to 'find'",
-    "version": "10.5.0",
+    "version": "10.5.1",
     "homepage": "https://github.com/sharkdp/fd",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:a227701b8551c35a9931d9f6da75503cf86d88e182d71fb849a70864c5d57cd7"
+            "url": "https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-x86_64-pc-windows-msvc.zip",
+            "hash": "sha256:e52306a600e60b7ba92019c81dc753e6ea6665379d005867d38215ffd14cf5c2"
         },
         "arm64": {
-            "url": "https://github.com/sharkdp/fd/releases/download/v10.5.0/fd-v10.5.0-aarch64-pc-windows-msvc.zip",
-            "hash": "sha256:a2bcddcfd259b05357a77bbc6cd671fdb30f63fd266a0e748305890a8c5ceaa6"
+            "url": "https://github.com/sharkdp/fd/releases/download/v10.5.1/fd-v10.5.1-aarch64-pc-windows-msvc.zip",
+            "hash": "sha256:39d0166d11ef01975fbc8fb92cf4c8e78afcda5ca0f64aa924f950f2baacd5e0"
         }
     },
     "extension": "zip",
